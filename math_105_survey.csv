@@ -1,0 +1,723 @@
+Response_id,Gender,Texts,SocialMedia,Exercise,Smoking,FavoriteState,LeastState,NumberStates,NumberFlown,FavoriteFood,Age,Major,StartSalary,Tickets,Work,StudentLoan,Tatoos,HairCut,Wedding,Taxes,Politics,CollegeWorth,Mars,StatBefore,Nervous
+545100,Male,4,Youtube,2,Nothing,California,Rhode Island,11,100,salmon,23,Mechanical Engineering,6500,0,0,6000,0,12,15000,20,Democrat,Yes,No,Yes,10
+546563,Female,100,Snapchat,8,Nothing,New York,Arizona,3,8,Pesto pasta with ground turkey and broccoli.,18,Nursing,90000,0,0,30000,0,2,10000,10,Republican,Yes,No,Yes,8
+546775,Male,20,Twitter,3,Nothing,Washington,Texas,8,1,Alfredo pasta,18,Mathematics,40000,0,0,32000,0,12,200,15,Democrat,Yes,Yes,Yes,10
+547405,Male,20,Snapchat,14,Nothing,California,Iowa,5,5,Steak,18,Health Policy and Administration,50000,1,0,10000,0,30,40000,1,Republican,Yes,Yes,Yes,5
+547961,Male,50,Instagram,12,Nothing,Hawaii,Georgia,3,3,Italian,19,Undecided,100000,0,0,0,0,12,10000,5,Independent,Yes,Yes,No,10
+548046,Female,20,Twitter,7,Nothing,Oregon,Texas,25,9,Anything vegan; egg rolls,18,Psychology,,0,24,0,1,2,2000,0,Democrat,Yes,Yes,No,3
+548163,Male,35,Facebook,0,Nothing,California,Arizona,1,1,Mexican food,17,Undecided,3500,1,0,0,0,48,8000,5,Democrat,,,,
+548181,Male,4,Snapchat,7,Nothing,Washington,Idaho,10,50,steak,19,Kinesiology,100000,0,0,0,0,4,5000,20,Independent,Yes,Yes,No,8
+548815,Male,100,Snapchat,2,Nothing,California,Wisconsin,9,5,mexican,19,Computer Science,80000,0,20,0,0,8,20000,0,Republican,Yes,Yes,Yes,9
+548823,Male,10,Facebook,0,Nothing,California,,2,2,Anything with meat.,18,Undecided,60000,0,0,0,0,12,10000,2,None,Yes,Yes,No,4
+548930,Female,30,Snapchat,7,Nothing,California,Alabama,1,3,Italian,19,Sociology,24000,0,0,12000,0,2,9000,2,None,Yes,Yes,Yes,10
+548934,Female,1000,Snapchat,5,Nothing,Hawaii,Kentucky,3,15,salad,18,Psychology,60000,0,20,15000,0,2,15000,2,Democrat,No,No,No,4
+548956,Male,50,Snapchat,10,Nothing,Nevada,Arizona,3,1,Mexican Food,18,Media Studies,80000,0,0,0,0,12,15000,3,None,Yes,No,No,7
+548975,Female,35,Snapchat,3.5,Nothing,New York,,6,40,Ice cream,18,Nursing,66640,0,0,,0,4,10000,,None,Yes,Yes,No,7
+549174,Male,100,Snapchat,2,Cigarettes,Florida,Alabama,8,50,spaghetti,20,Kinesiology,40000,2,0,0,0,4,200000,2,Republican,Yes,Yes,No,8
+549195,Female,100,Snapchat,7,Nothing,California,Texas,10,20,Bananas,18,Nutrition,20,0,6,10000,0,1,1000,15,Democrat,Yes,Yes,No,5
+549251,Female,20,Instagram,10,Nothing,California,Arizona,5,10,pizza,19,Nursing,125000,0,15,0,0,1,30000,,Democrat,Yes,No,No,5
+549259,Female,100,Snapchat,4.5,Nothing,South Carolina,North Dakota,12,50,"Italian, specifically gnocchi",19,Psychology,50000,0,12,0,0,2,20000,5,None,Yes,Yes,No,2
+549269,Male,10,Xbox,1,Nothing,Hawaii,Wisconsin,9,6,spaghetti,18,,50000,0,0,26000,0,2,5000,2,None,No,No,No,5
+549303,Female,27,Snapchat,4,Nothing,Oregon,Florida,8,18,Hamburger,17,Graphic Design and Photography,35000,0,0,42790,0,2,750000,12,Democrat,Yes,Yes,No,6
+549305,Female,500,Instagram,8,Nothing,California,Texas,10,15,bean and cheese burrito,18,Nursing,40000,1,0,0,0,4,100000,10,Republican,Yes,Yes,Yes,5
+549335,Male,75,Facebook,6,Nothing,California,,3,1,Mexican,20,Marketing,60000,0,0,16000,1,26,50000,3,Democrat,Yes,Yes,Yes,8
+549394,Female,35,Snapchat,10,Nothing,Wisconsin,Florida,5,8,Chinese,18,Nursing,66500,0,0,22000,0,2,10000,15,Independent,Yes,Yes,No,7
+549439,Male,50,Twitter,7,Nothing,Hawaii,Delaware,5,5,in n out,18,Nursing,50000,0,0,0,0,12,50000,1,None,Yes,Yes,Yes,8
+549440,Male,50,Twitter,7,Nothing,Hawaii,Delaware,5,5,in n out,18,Nursing,50000,0,0,0,0,12,50000,1,None,Yes,Yes,Yes,8
+549458,Female,30,Snapchat,10,E-cigarettes,Washington,Nevada,4,0,"Garlic fries are life, especially with seafood",18,Undecided,100000,0,0,0,0,3,20000,1,None,Yes,Yes,Yes,10
+549496,Male,500,Twitter,10,E-cigarettes,Hawaii,Washington,6,35,suasage,18,Business Administration and Management,60000,0,0,60000,0,4,15000,5,Republican,No,Yes,No,6
+550178,Male,15,Facebook,6,Nothing,California,Nevada,2,3,pizza,25,Accounting,60000,0,,,,,,,,,,,
+550291,Female,100,Snapchat,4,Nothing,California,Arizona,12,0,Sushi,19,"Crime, Law, and Justice",50000,0,40,20000,0,2,250000,2,Republican,Yes,No,Yes,5
+550305,Female,50,Snapchat,3,Nothing,California,Iowa,5,10,chips,18,Nursing,30000,0,4,4000,0,1,50000,3,Democrat,Yes,No,Yes,5
+550306,Female,70,Snapchat,5,Nothing,Florida,Alaska,8,7,grilled cheese,18,Psychology,15000,0,10,0,0,3,40000,2,Democrat,Yes,No,Yes,5
+550313,Female,100,Twitter,6,Nothing,California,Arizona,2,0,Lasagna,18,Animal Sciences,60000,0,0,7000,0,2,5500,4,Democrat,Yes,Yes,No,4
+550319,Male,50,Instagram,5,Nothing,Hawaii,Nevada,,12,eggs and toast,19,Psychology,,0,18,,1,12,10000,10,Independent,Yes,No,Yes,7
+550340,Female,200,Instagram,7,Nothing,California,Idaho,15,8,raspberries,18,Pre-medicine,50000,0,0,0,0,5,30000,5,Democrat,,No,No,7
+550341,Female,100,Instagram,2,Nothing,California,Kentucky,12,5,pizza,17,Animal Sciences,70000,0,0,0,0,4,30000,5,Democrat,Yes,Yes,No,8
+550360,Female,25,Facebook,5,Nothing,Hawaii,Texas,2,2,Korean BBQ,18,Nursing,,0,0,,0,3,,,None,No,Yes,No,7
+550365,Female,300,Instagram,3,Nothing,Nevada,Kansas,2,2,pizza,19,Political Science,50000,0,25,14000,1,1,25000,5,Democrat,Yes,Yes,Yes,1
+550366,Male,15,Facebook,21,Nothing,New York,Ohio,3,10,Pizza,19,Information Sciences and Technology,50000,1,0,0,0,12,5000,5,Democrat,No,Yes,,10
+550369,Female,300,Instagram,4,Nothing,California,Louisiana,5,15,Seafood,19,Agriculture,40000,0,25,30000,0,6,7000,0,Independent,No,No,No,5
+550381,Female,100,Instagram,6,Nothing,Hawaii,Washington,6,6,pasta,19,Recreation and Parks,40000,0,0,0,0,2,5000,2,Republican,Yes,No,No,3
+550411,Female,100,Snapchat,10,Nothing,Hawaii,Montana,9,20,sushi,18,Studio Art,30000,1,0,0,0,3,40000,5,None,Yes,No,No,5
+550415,Male,50,Snapchat,14,Nothing,California,Kentucky,4,11,pizza,18,Business Administration and Management,40000,5,0,0,1,12,50000,6,None,Yes,No,Yes,4
+550445,Female,100,Instagram,10,Nothing,California,Iowa,2,8,"nachos, sushi, pizza, spicy munchies, gummy bears",18,Nursing,20000,0,0,20000,0,2,60000,2,Democrat,No,Yes,No,6
+550548,Female,300,Snapchat,4,Nothing,Oregon,Florida,7,4,mexican,18,Biology,80000,0,0,0,0,3,1000,0,Democrat,Yes,Yes,Yes,8
+550578,Female,50,Instagram,25,Nothing,California,California,1,3,"Pizza, wings, and fries.",18,Undecided,1000,0,0,4000,1,3,4000,5,None,,Yes,Yes,10
+550590,Female,15,Instagram,1,Nothing,Nevada,Kansas,2,12,Mexican Food,20,Pre-medicine,11,0,0,3000,0,4,0,0,Democrat,Yes,No,No,1
+550595,Male,100,Facebook,10,Nothing,Hawaii,Arizona,6,2,pizza,18,Nursing,90000,0,8,20000,1,5,15000,0,None,Yes,No,No,10
+550597,Male,200,Twitter,0,Nothing,California,Alaska,4,40,pad thai,18,Kinesiology,60000,0,0,0,3,24,5000,40,None,Yes,Yes,No,5
+550598,Male,200,Twitter,0,Nothing,California,Alaska,4,40,pad thai,18,Kinesiology,60000,0,0,0,3,24,5000,40,None,Yes,Yes,No,5
+550602,Female,100,Snapchat,2,Nothing,California,Louisiana,5,15,Avacado,19,Psychology,20000,0,21,3000,1,14,10000,0,None,Yes,Yes,No,5
+550604,Female,60,Snapchat,2,Nothing,Oregon,Nevada,5,4,Cheese Burgers,18,Nursing,40,0,0,21000,0,2,5000,10,Republican,Yes,No,No,10
+550606,Female,50,Snapchat,10,Nothing,Oregon,South Carolina,6,3,chicken,21,Kinesiology,35,0,25,0,0,,2000,10,None,Yes,Yes,Yes,8
+550607,Male,0,Snapchat,0,Nothing,Kentucky,North Dakota,8,10,Steak,22,Information Sciences and Technology,75000,0,12,5000,0,9,8000,15,Independent,No,Yes,No,3
+550609,Female,2,Facebook,7,Nothing,Michigan,Wisconsin,2,2,Too much to write.,22,Health Policy and Administration,12,0,40,0,0,0,10,0,None,Yes,Yes,Yes,8
+550616,Female,200,Snapchat,10,Nothing,California,Iowa,4,5,Sushi,20,Business Administration and Management,50000,0,20,0,4,2,150000,2,Independent,Yes,Yes,No,10
+550620,Male,2,Other,6,Nothing,California,Alabama,6,6,Carne Asada Burrito,18,Economics,43000,0,0,20000,0,13,4000,15,Independent,Yes,No,Yes,7
+550746,Female,50,Instagram,3,Nothing,California,New Mexico,5,25,any fruit,19,Nutrition,80000,0,25,0,0,8,12000,0,Republican,Yes,Yes,No,6
+551053,Female,50,Snapchat,8,Nothing,California,Nevada,4,4,Sushi,17,Psychology,0,0,0,20000,0,0,7000,10,Republican,Yes,Yes,No,2
+551274,Female,100,Snapchat,80,Nothing,California,Nevada,1,2,sushi,18,Kinesiology,50000,0,0,0,1,5,1000,3,Other,No,Yes,No,4
+551286,Male,10,Instagram,0,Nothing,California,Connecticut,15,20,Pasta,18,Undecided,100000,0,0,0,2,12,12,7,Independent,Yes,Yes,Yes,9
+551301,Female,100,Twitter,4,Nothing,New York,Texas,6,25,Burgers,10,Psychology,,0,15,14975,0,0,,,Independent,Yes,Yes,No,3
+551302,Female,100,Twitter,4,Nothing,New York,Texas,6,25,Burgers,10,Psychology,,0,15,14975,0,0,,,Independent,Yes,Yes,No,3
+551387,Female,150,Instagram,8,Nothing,Hawaii,Florida,6,15,Italian food.,18,Nursing,65000,0,9,40000,0,1,10000,10,Democrat,Yes,No,No,5
+551414,Female,100,Instagram,4,Nothing,Hawaii,Nebraska,10,5,Spaghetti,22,Business Administration and Management,30000,1,0,50000,0,2,10000,25,Republican,Yes,No,Yes,8
+551423,Female,20,Snapchat,6,Nothing,New York,Arizona,4,8,"anything that has spice, perhaps mexican food",20,Psychology,,0,0,5000,0,2,,,Democrat,Yes,Yes,No,7
+551429,Female,20,Snapchat,0,Nothing,California,Delaware,4,8,pasta,10,Nursing,,0,0,0,0,1,4000,4,None,Yes,Yes,No,1
+551434,Female,75,Instagram,6,Nothing,Alaska,Louisiana,7,20,ice cream,18,Business Administration and Management,50000,0,15,1500,0,3,20000,9,Democrat,Yes,Yes,Yes,6
+551435,Female,100,Snapchat,4,Nothing,New York,Kansas,20,25,gummy bears,18,Nursing,50000,0,0,0,0,4,30000,0,Republican,Yes,Yes,Yes,6
+551449,Female,30,WhatsApp,6,Nothing,California,Nebraska,10,35,sushi,20,Nursing,,0,0,0,0,3,6000,,None,No,Yes,Yes,1
+551465,Male,50,Twitter,10,Nothing,California,Wisconsin,18,10,Mom's spaghetti and meat sauce,17,Undecided,50000,0,0,8000,1,4,5000,20,Independent,Yes,No,Yes,5
+551476,Female,50,Instagram,5,Nothing,Hawaii,Delaware,6,15,ice cream,19,Nursing,60000,1,0,0,1,3,15000,10,Republican,Yes,Yes,No,8
+551480,Female,10,Facebook,2,Nothing,Pennsylvania,Iowa,14,10,Shepherd's Pie,18,Kinesiology,60000,0,0,25000,0,4,10000,5,Republican,Yes,Yes,Yes,5
+551528,Female,65,Snapchat,4,Nothing,Hawaii,Nevada,5,4,Donuts,18,Nursing,50000,0,0,28000,0,0,20000,0,Democrat,No,Yes,No,2
+551544,Female,100,Snapchat,12,Cigarettes,Texas,Alabama,11,80,pineapple,19,Social Work,70000,3,15,60000,1,5,50000,5,Democrat,Yes,Yes,Yes,7
+551548,Male,30,Snapchat,18,Nothing,Florida,North Dakota,14,25,pasta,20,Business Administration and Management,30000,0,20,40000,0,1,300000,5,Democrat,Yes,Yes,No,9
+551618,Female,10,Facebook,4,Nothing,Texas,New Mexico,8,4,Italian,18,Agriculture,40000,0,21,,0,4,25000,15,Republican,Yes,No,No,5
+551625,Male,8,None,4,Nothing,Hawaii,Arizona,3,3,Burritos,20,"Crime, Law, and Justice",45000,0,0,35000,0,6,50000,5,Democrat,Yes,No,No,6
+551626,Female,4,None,4,Nothing,Oregon,Virginia,8,15,Pizza,19,"Crime, Law, and Justice",40000,0,0,0,0,16,50000,3,None,Yes,No,Yes,7
+551630,Female,100,Facebook,0,Nothing,New Mexico,Utah,3,0,Mexican food,19,Children,23000,0,0,,0,1,,15,Republican,No,Yes,No,1
+551632,Female,1500,Twitter,7,Nothing,Hawaii,Arkansas,9,15,Italian,18,Nursing,80000,0,25,8000,1,10,20000,25,Democrat,Yes,No,Yes,9
+551634,Female,20,Facebook,8,Nothing,Hawaii,Arizona,2,2,Tacos,20,Social Work,75000,0,25,0,0,2,20000,5,Democrat,Yes,Yes,No,1
+551710,Female,60,Instagram,9,Nothing,Hawaii,Wyoming,8,0,Pasta,20,Nursing,1400,0,30,,0,3,,,None,Yes,Yes,Yes,9
+551763,Female,8,Twitter,6,Nothing,California,Kentucky,5,0,chicken,18,Nursing,60000,0,0,0,0,5,20000,5,Democrat,Yes,Yes,Yes,8
+551774,Female,40,Spotify,30,Nothing,Washington,South Carolina,2,13,Chinese food,19,Sociology,35175,0,0,2000,0,1,2340,5,None,Yes,Yes,No,8
+551782,Male,40,Snapchat,6,Nothing,Hawaii,Nebraska,3,6,BBQ,19,Modern Languages,30000,0,0,12000,0,0,2500,8,Democrat,Yes,No,No,8
+551788,Male,150,Snapchat,10,Nothing,California,Montana,4,0,Enchiladas/Panda Express,18,Business Administration and Management,67061,1,33,0,0,26,100244,2,Democrat,Yes,Yes,No,6
+551790,Female,50,Instagram,5,Cigarettes,Hawaii,Nebraska,8,22,A good ripe peach.,19,Elementary and Kindergarten Education,50000,0,0,0,0,1,7000,10,Independent,Yes,Yes,No,8
+551792,Male,100,Instagram,12,Nothing,Hawaii,Nevada,10,6,Boneless Buffalo Wings,18,Animal Sciences,10000,0,0,40000,0,25,10000,5,None,Yes,Yes,No,8
+551797,Female,32,,6,Nothing,California,,6,10,,18,Undecided,,0,0,,0,2,,,,No,,No,
+551806,Female,200,Twitter,2,Nothing,California,,1,0,Chicken Tenders,18,Undecided,80000,0,35,9000,0,1,200000,10,Democrat,Yes,No,No,5
+551821,Female,100,Snapchat,1,Nothing,Nevada,Arizona,3,0,mexican food,18,Psychology,20,0,0,5000,0,1,10000,5,Democrat,Yes,Yes,No,5
+551831,Male,15,Instagram,2,Nothing,California,Nevada,4,4,Pizza,20,Business Administration and Management,20000,0,20,20000,0,2,10000,20,Democrat,Yes,Yes,Yes,3
+551839,Male,50,Twitter,5,Cigarettes,California,Alabama,3,1,Italian,17,Business Administration and Management,56000,0,0,12000,0,11,5000,0.05,Democrat,Yes,Yes,Yes,8
+551841,Female,30,Instagram,3,Nothing,Washington,Utah,4,26,Carne asada fries without carne asada OR California rolls,19,Undecided,40000,0,0,5000,0,1,700000,10,None,No,No,No,1
+551844,Male,100,Twitter,0,E-cigarettes,Montana,Delaware,5,6,sushi,18,Graphic Design and Photography,40000,1,12,21000,0,0,20000,2,Other,No,Yes,No,7
+551848,Female,200,Instagram,6,Nothing,Wisconsin,Arizona,9,8,chicken enchilada casserole,22,Animal Sciences,50000,1,30,0,4,3,10000,10,Independent,Yes,No,No,5
+551851,Female,300,Twitter,4,Nothing,Oregon,Maine,6,10,pasta,19,,50000,0,20,33000,2,6,50000,50,Republican,Yes,Yes,Yes,8
+551855,Female,30,Twitter,5,Nothing,Hawaii,,6,100,Chinese,19,Undecided,10000,3,0,5000,3,2,2000,5,None,Yes,Yes,Yes,1
+551863,Male,300,Instagram,12,Nothing,California,Kentucky,15,12,carne asada fries,18,Undecided,20000,0,20,20000,0,10,10000,5,Democrat,Yes,Yes,Yes,4
+551872,Male,100,Snapchat,6,E-cigarettes,New York,New Mexico,20,22,Burritos,18,Economics,45000,0,0,0,0,16,150,20,Republican,Yes,Yes,Yes,9
+551881,Female,100,Youtube,2,Nothing,Hawaii,Kentucky,5,2,sushi,19,Media Studies,10000,0,13,20000,0,4,10000,5,Democrat,Yes,No,No,7
+551890,Female,300,Snapchat,1,Nothing,Illinois,Montana,4,3,Spagehtti,17,Nursing,40000,0,0,80000,0,2,20000,25,Democrat,Yes,No,Yes,8
+551894,Female,10,Instagram,0,Nothing,Oregon,Iowa,3,6,Lasagna,23,Political Science,20000,0,0,30000,2,5,2500,15,Democrat,No,Yes,No,1
+551907,Female,30,Snapchat,3,Nothing,California,California,5,8,tacos,18,"Crime, Law, and Justice",30000,0,0,70000,0,1,3000,0,None,Yes,Yes,No,7
+551922,Female,50,Facebook,1,Nothing,Oregon,Montana,3,4,Italian,19,English,20000,0,0,20000,2,5,15000,5,Democrat,Yes,Yes,Yes,9
+551923,Male,50,Instagram,3,Nothing,California,Kansas,18,3,Steak,19,History,60000,0,20,25000,1,3,1500,10,Democrat,Yes,Yes,No,6
+551930,Female,300,Snapchat,3.5,Nothing,California,Alaska,5,6,Italian food,18,Nursing,67000,0,0,44000,0,3,40000,10,Other,Yes,No,Yes,5
+551938,Female,10,None,2,Nothing,Texas,Nevada,23,100,Medium Rare Ribeye Steak with herbed butter and roasted garlic clove,34,Nursing,61000,0,60,64000,2,1,6000,10,Independent,Yes,No,Yes,5
+551944,Female,2,Snapchat,0,Nothing,California,Kentucky,3,1,Pasta,17,Nursing,60000,0,0,3500,0,3,50000,0,Democrat,Yes,No,Yes,7
+551960,Male,25,Facebook,6,Nothing,California,Connecticut,3,1,Mexican,20,Business Administration and Management,60000,0,0,16000,1,27,45000,5,Democrat,Yes,,Yes,4
+551961,Male,25,Facebook,7,Nothing,California,Iowa,3,1,Mexcan,20,Business Administration and Management,60000,0,0,16000,1,27,45000,5,Democrat,Yes,Yes,Yes,4
+551962,Female,10,Facebook,1,Nothing,Oklahoma,Alabama,10,1,fettuccine alfredo,19,Undecided,20000,0,15,10000,0,1,10000,5,Democrat,Yes,No,No,6
+551964,Female,50,Snapchat,1,Nothing,New York,Texas,10,20,Sushi,18,Psychology,1600,0,17,0,1,2,10000,2,Democrat,Yes,No,Yes,5
+551967,Male,50,Snapchat,2,Nothing,California,,2,6,Nachos,19,Sociology,25000,0,0,7000,0,12,5000,3,Democrat,Yes,Yes,Yes,10
+551971,Male,1,,,,,,,,,,,,,,,,,,,Independent,No,,No,5
+552062,Male,15,Facebook,8,Nothing,Kentucky,Arizona,7,10,Tacos,19,Animal Sciences,4000,8,0,0,0,4,2000,0,None,Yes,Yes,No,6
+552136,Male,40,Snapchat,6,Cigarettes,Hawaii,Utah,12,30,sushi,18,Kinesiology,40000,0,0,0,0,10,5000,5,Other,No,No,Yes,5
+552140,Male,30,Snapchat,0,Nothing,California,Connecticut,8,32,Mexican,18,Business Administration and Management,50000,3,15,15000,0,7,30000,0,Independent,Yes,Yes,Yes,3
+552156,Male,60,Snapchat,10,Nothing,New York,Arkansas,5,6,Feticcini Alfredo,17,Accounting,60000,0,0,0,0,11,200000,5,Independent,Yes,No,Yes,10
+552163,Female,20,Instagram,6,Nothing,Montana,Illinois,19,75,sweet potatoes,19,Journalism,40000,1,16,30000,3,1,8000,4,Democrat,Yes,Yes,Yes,6
+552173,Male,40,Snapchat,7,Nothing,New York,Texas,5,20,pasta,19,Undecided,50000,0,0,20000,0,12,100000,10,Republican,Yes,No,Yes,4
+552178,Female,10,Snapchat,9,Nothing,Washington,Kansas,11,13,Mushrooms,16,Undecided,60000,0,0,,0,2,8000,20,Democrat,Yes,Yes,No,9
+552182,Female,20,Snapchat,8,Nothing,California,Louisiana,4,38,Fettuche pasta,18,Nursing,90000,0,0,80000,0,4,20000,,Independent,Yes,Yes,No,8
+552198,Female,9,Instagram,7,Nothing,Hawaii,Mississippi,9,10,Anything with cheese,20,Business Administration and Management,40000,0,20,0,0,2,7000,12,Independent,Yes,No,Yes,5
+552199,Female,200,Twitter,2,Nothing,Hawaii,Connecticut,6,10,pizza,18,Psychology,20000,0,0,34000,0,1,50000,0,None,Yes,No,Yes,7
+552205,Female,100,Snapchat,6,Nothing,Hawaii,Arkansas,8,3,Italian,18,Nursing,30000,0,15,6000,0,1,1000,5,Republican,No,No,No,7
+552210,Male,25,WhatsApp,5,Nothing,California,Texas,3,1,Burgers,19,Accounting,100000,0,0,0,0,0,100000,5,None,Yes,Yes,Yes,9
+552214,Male,30,Instagram,4,Nothing,Florida,Nevada,11,6,pizza,22,,32000,2,0,4000,1,10,1000,10,Republican,Yes,Yes,No,1
+552215,Male,8,Instagram,14,Nothing,Indiana,Wyoming,15,15,Steak,19,Business Administration and Management,60000,0,0,0,0,12,3000,7,Republican,Yes,No,Yes,8
+552234,Female,50,Instagram,5,Nothing,Oregon,New Mexico,8,3,Sandwhiches,20,Health and Physical Education,60000,0,12,0,3,5,20000,25,None,Yes,Yes,No,6.5
+552242,Female,100,Instagram,0,Nothing,Washington,Kansas,10,50,sushi,10,Undecided,60000,0,0,1,2,2,10000,0,Democrat,Yes,Yes,No,3
+552243,Female,100,Facebook,2,Nothing,Louisiana,Alabama,20,50,Elk burgers,18,Philosophy,35000,0,0,25000,0,4,20000,20,Republican,Yes,Yes,No,7
+552254,Female,50,Snapchat,5,Nothing,California,Iowa,7,15,Pasta,20,Kinesiology,20000,0,16,20000,0,1,50000,15,Democrat,No,No,Yes,3
+552255,Female,2000,Instagram,0,Nothing,Hawaii,Nebraska,32,66,peach and grilled steak salad,19,"Crime, Law, and Justice",75000,0,0,0,0,2,15000,10,Independent,Yes,Yes,Yes,5
+552266,Female,50,Snapchat,4,Nothing,New York,,11,20,,17,Marketing,,0,0,,0,3,,,,Yes,Yes,Yes,5
+552272,Female,30,Twitter,0,Nothing,Nevada,Michigan,4,7,Pizza,18,Psychology,35000,0,0,20000,1,3,0,5,Democrat,Yes,Yes,No,1
+552275,Female,500,Instagram,0,Nothing,California,Idaho,3,3,Tacos,18,Nursing,25,0,0,15000,0,8,20000,2,None,Yes,Yes,No,6
+552278,Female,15,Snapchat,0,Nothing,California,Montana,1,0,Pasta,18,Animal Sciences,40000,0,0,0,0,1,8000,5,Democrat,Yes,No,No,8
+552288,Male,100,Snapchat,,Nothing,California,Oklahoma,10,50,orange chicken,18,Finance,60000,0,0,,0,5,1000,1,Democrat,Yes,Yes,No,7
+552295,Female,100,Instagram,3,Nothing,Hawaii,New Mexico,6,100,Pesto Pasta,20,Children,18000,1,0,100,1,4,2000,5,None,Yes,No,No,5
+552296,Female,100,Instagram,3,Nothing,Hawaii,New Mexico,6,100,Pesto Pasta,20,Children,18000,1,0,100,1,4,2000,5,None,Yes,No,No,5
+552306,Female,15,Pinterest,7,Nothing,Nevada,Idaho,10,4,My favorite food is my mom's peach pie.,18,Animal Sciences,50000,0,7,40000,0,9,8000,5,Republican,Yes,No,No,7
+552314,Male,250,Instagram,5,Nothing,Oregon,Oregon,11,10,Pizza,18,,150000,0,10,0,0,5,100000,15,None,Yes,No,Yes,9
+552317,Female,50,Snapchat,4,Nothing,New York,Missouri,16,30,pasta,18,Nursing,,0,10,,0,2,,2,Democrat,No,Yes,No,7
+552318,Male,4,Reddit,20,E-cigarettes,Wyoming,Arizona,30,40,"Shredded Beef Chimichanga, covered in guacamole, sour cream, and salsa.",32,Environmental Sciences,28000,0,24,0,0,2,5000,50,Independent,Yes,No,No,7
+552328,Male,50,Instagram,2,Cigarettes,Hawaii,Mississippi,5,25,Bacon,19,Finance,80000,4,12,0,0,10,1000000,15,None,Yes,No,No,8
+552335,Female,300,Instagram,12,Nothing,California,Georgia,4,3,Mexican,19,Nursing,70000,0,0,11000,0,2,50000,2,Democrat,Yes,No,Yes,7
+552340,Female,300,Twitter,6,Nothing,California,Minnesota,20,250,Vegan Grilled Cheese :- ),17,Information Sciences and Technology,90000,0,0,0,0,4,10000,9,None,No,Yes,Yes,6
+552356,Male,20,Instagram,2,Nothing,Alaska,Arizona,25,30,Pizza,21,Undecided,50000,0,0,0,0,5,5000,5,Other,Yes,Yes,No,5
+552358,Female,400,Instagram,15,Nothing,California,Texas,12,8,pizza,19,Nutrition,40000,1,0,0,0,4,25000,0,None,Yes,Yes,Yes,6
+552361,Female,20,Instagram,4,Nothing,Arizona,New Mexico,2,0,"My favorite food is either pasta alfredo, chile rellenos, or wingstop.",20,Health and Physical Education,20000,1,10,6000,0,1,8000,5,Democrat,Yes,Yes,No,1
+552363,Female,150,Twitter,2,Nothing,Hawaii,Utah,8,40,pizza,19,Biology,80000,1,0,25000,0,5,30000,9,Democrat,Yes,No,No,9
+552370,Female,5,Youtube,4,Nothing,California,,2,3,tacos,18,Social Work,40000,0,0,14000,0,0,5000,5,Democrat,Yes,No,No,8
+552378,Female,100,Snapchat,1,Nothing,Hawaii,Illinois,3,8,Salad,18,Health and Physical Education,15,0,20,26000,0,1,3000,10,Democrat,Yes,No,No,1
+552390,Female,25,Snapchat,8,Nothing,Missouri,Colorado,6,2,tacos,19,Children,50,0,0,12000,0,24,20000,0,Democrat,Yes,Yes,No,5
+552400,Male,300,Twitter,14,Nothing,Idaho,,4,3,Tacos,19,Nursing,40000,0,0,5000,0,15,300000,10,Democrat,Yes,Yes,Yes,8
+552403,Male,10,Instagram,6,Nothing,Hawaii,Montana,3,1,Cesar salad,21,"Crime, Law, and Justice",70000,2,10,12000,0,50,15000,3,Democrat,No,Yes,No,6
+552404,Female,40,Other,5,Nothing,Oregon,Louisiana,6,10,Spaghetti,20,Nursing,50000,0,0,0,2,5,30000,10,Democrat,Yes,No,Yes,6.5
+552405,Female,10,Facebook,6,Nothing,Hawaii,Texas,3,1,Thai food.,19,Psychology,15,0,16,0,0,1,8000,15,Democrat,Yes,Yes,No,3
+552407,Male,20,Instagram,0,Nothing,California,New Mexico,1,4,Burgers,19,Health and Physical Education,20,0,0,3000,0,24,200000,5,None,Yes,Yes,No,1
+552412,Female,100,Instagram,2,Nothing,Washington,Ohio,4,16,Mexican food,18,Undecided,30000,0,15,15000,0,2,30000,5,Other,Yes,No,No,8
+552414,Female,300,Snapchat,3,Nothing,Hawaii,Tennessee,5,20,ice cream,18,Psychology,40000,0,0,0,0,3,20000,1,Democrat,Yes,Yes,No,2
+552419,Female,30,Instagram,9,Nothing,Hawaii,Arizona,6,12,hamburgers,19,Nursing,67000,0,0,120000,3,9,8000,5,None,Yes,No,No,5
+552420,Female,20,,3,Nothing,California,Iowa,3,10,tacos,18,Animal Sciences,20000,0,0,0,0,2,10000,5,None,Yes,Yes,No,8
+552428,Male,120,Snapchat,8,Nothing,California,Texas,1,5,Any Mexican cuisine,20,Kinesiology,50000,0,0,5000,1,24,15000,10,Independent,Yes,No,No,3
+552429,Male,50,Facebook,10,Nothing,Hawaii,Georgia,6,30,Pizza,20,Business Administration and Management,30000,0,0,10000,0,5,1000000,2,Independent,Yes,Yes,No,8
+552434,Male,150,Twitter,14,Nothing,Colorado,Idaho,20,40,Chicken Parmesan,18,Kinesiology,50000,1,0,50000,0,9,25000,10,Democrat,Yes,No,No,7
+552437,Female,150,Tumblr,0,Nothing,California,Texas,48,0,bread,20,Accounting,40000,0,0,0,4,1,10000,100,Democrat,Yes,No,No,10
+552445,Male,5,Instagram,9,Nothing,Alabama,Colorado,40,16,pizza,18,Agricultural Business Management,50,0,35,5,0,50,20000,5.6,Other,No,Yes,Yes,10
+552448,Male,300,Twitter,10,Nothing,Hawaii,Oregon,6,5,Pizza,18,Undecided,40000,0,20,28000,0,8,30000,0.08,Democrat,Yes,Yes,No,4
+552449,Male,30,,,,,,,,,,,,,,,,,,,,,,,
+552454,Female,100,Snapchat,8,Nothing,Hawaii,Kansas,3,50,pizza,18,Psychology,25000,0,0,0,0,5,50000,10,Democrat,No,No,No,2
+552455,Female,100,Snapchat,8,Nothing,Hawaii,Kansas,3,50,pizza,18,Psychology,25000,0,0,0,0,5,50000,10,Democrat,No,No,No,2
+552456,Female,100,Snapchat,8,Nothing,Hawaii,Kansas,3,50,pizza,18,Psychology,25000,0,0,0,0,5,50000,10,Democrat,No,No,No,2
+552457,Female,100,Snapchat,8,Nothing,Hawaii,Kansas,3,50,pizza,18,Psychology,25000,0,0,0,0,5,50000,10,Democrat,No,No,No,2
+552458,Male,500,Instagram,8,Nothing,Idaho,North Dakota,5,20,mexican,20,Agriculture,50000,0,0,0,0,5,20000,0.2,Republican,Yes,No,Yes,6
+552459,Female,30,Instagram,5,Nothing,Arizona,Kentucky,3,15,American food,22,Journalism,40000,0,8,0,0,2,20000,5,Republican,Yes,Yes,No,4
+552464,Male,500,Twitter,5,E-cigarettes,Virginia,,30,40,"sushi, pizza, bbq",18,Architectural Engineering,50000,0,15,60000,0,12,20000,30,Republican,Yes,Yes,Yes,1
+552466,Male,50,Instagram,20,E-cigarettes,,,2,1,Burritos,17,Marketing,80000,0,0,65000,0,6,300000,20,Republican,Yes,No,Yes,9
+552469,Male,10,Instagram,0,Nothing,Georgia,Alaska,4,20,orange chicken and sushi,19,Nuclear Engineering,30,0,0,3500,3,2,1000000,10,Independent,No,No,No,1
+552472,Female,300,Instagram,5,Nothing,Colorado,Alabama,10,12,Thai Food,19,Kinesiology,50000,2,0,25000,0,4,30000,10,,,,,
+552488,Female,20,,5,Nothing,California,,2,4,spring roll,19,Nursing,12,0,0,0,0,5,10000,50,None,Yes,Yes,Yes,5
+552499,Female,100,Snapchat,7,Nothing,Hawaii,Kentucky,3,2,Grilled cheese,18,Animal Sciences,,0,20,9000,1,9,,,Democrat,Yes,No,Yes,5
+552531,Male,200,Snapchat,15,Nothing,California,Alabama,5,37,Ribeye steak,18,Business Administration and Management,90000,0,0,0,0,26,100000,10,Independent,Yes,Yes,No,4
+552533,Female,50,Snapchat,6,Nothing,California,Iowa,3,2,Enchiladas,19,Sociology,22000,0,18,0,0,4,7500,75,Independent,Yes,No,No,3
+552534,Female,40,Snapchat,6,Nothing,Hawaii,Iowa,6,12,Pizza,20,Civil Engineering,25000,0,0,20000,0,4,7500,0,Democrat,Yes,No,Yes,5
+552536,Male,150,Twitter,15,Nothing,Oregon,Nevada,4,0,Hamburgers,18,Agricultural Business Management,5000,0,0,4000,0,20,5000,2,Republican,Yes,Yes,No,4
+552538,Female,100,Instagram,4,Nothing,California,Nebraska,40,10,sushi,19,,100000,0,0,1,0,10,10000,10,Republican,Yes,Yes,Yes,9
+552544,Male,50,Twitter,8,Nothing,California,Idaho,16,55,Burgers,18,Business Administration and Management,60000,0,22,6000,0,12,2500,15,Republican,Yes,No,No,7
+552549,Female,30,Snapchat,7,Nothing,California,Alaska,3,50,Not the food in the dining hall,17,Psychology,35000,0,0,0,0,2,30000,0.2,Democrat,Yes,No,No,2
+552557,Female,5,Tumblr,0,Nothing,California,Missouri,4,10,Bacon cheeseburger.,23,Computer Science,60000,0,0,25000,0,6,0,10,Democrat,Yes,No,No,6
+552563,Male,20,Youtube,10,Nothing,Hawaii,Florida,15,30,ice cream,20,Geography,80000,1,0,,0,0,10000,14,None,Yes,Yes,Yes,7
+552576,Female,10,Snapchat,5,Nothing,California,Washington,10,8,pizza,18,Animal Sciences,70000,0,18,0,0,4,7000,2,Democrat,Yes,No,No,9
+552594,Female,150,Twitter,5,Nothing,Oregon,Wyoming,10,4,Buffalo Wings,17,Nursing,70000,0,0,28000,0,1,15000,20,Independent,Yes,No,No,8
+552600,Male,50,Instagram,8,Nothing,California,Arkansas,9,20,Hamburger,19,Finance,80000,0,15,24000,0,5,10000,7,Independent,Yes,No,Yes,8
+552601,Female,200,Instagram,5,Nothing,California,Illinois,7,20,fettucini alfredo,19,Political Science,100000,1,0,,0,3,30000,2,Democrat,Yes,Yes,No,1
+552602,Female,100,Twitter,0,Nothing,Colorado,Arizona,1,16,"Chicken Alfredo, fries, and pizza.",12,Social Work,,0,0,,0,1,,15,Democrat,Yes,No,No,2
+552603,Female,150,Snapchat,10,Nothing,California,Florida,12,40,fruit,18,Nursing,70000,0,0,0,1,6,10000,4,Republican,Yes,No,Yes,8
+552607,Female,50,Snapchat,3,Nothing,Alaska,Missouri,31,30,potatoes,18,Speech Pathology and Audiology/Communication Disorder,50000,0,0,10000,0,2,5000,2,Republican,Yes,No,Yes,4
+552613,Female,20,Instagram,0,Nothing,Maine,Idaho,17,25,Chicken Wrap,19,Public Relations,25000,1,10,0,0,3,20000,8,Republican,Yes,No,Yes,9
+552619,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552620,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552621,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552622,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552623,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552624,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552625,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552626,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552627,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552628,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552629,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552630,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552631,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552632,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552633,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552634,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552635,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552636,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552637,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552638,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552639,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552640,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552641,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552642,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552643,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552644,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552648,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552649,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552651,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552652,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552653,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552654,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552656,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552658,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552659,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552660,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552661,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552662,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552663,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552664,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552665,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552666,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552667,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552668,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552669,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552670,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552671,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552672,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552673,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552674,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552675,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552676,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552677,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552678,Female,2000,Instagram,8,Nothing,California,Tennessee,1,6,Sushi,18,Political Science,50000,0,0,0,0,1,600000,0.4,Democrat,Yes,Yes,No,5
+552680,Female,100,Snapchat,1,Nothing,Hawaii,Texas,3,15,"Burritos, or brownies",18,Animal Sciences,50000,0,0,0,0,3,30000,30,Democrat,Yes,Yes,Yes,8
+552683,Male,225,Snapchat,14,E-cigarettes,California,Maine,6,7,steak,18,Undecided,60000,1,10,24000,1,6,20000,15,Republican,Yes,Yes,Yes,8
+552684,Female,20,Twitter,4,Nothing,California,Nevada,5,5,chicken nuggets,18,Nursing,60000,0,0,0,0,7,20000,10,Independent,Yes,No,No,4
+552685,Female,50,Twitter,5,Nothing,California,Vermont,4,0,quesadilla,10,Accounting,,1,0,,0,3,,0,Independent,Yes,No,Yes,1
+552687,Female,100,Snapchat,5,Nothing,New York,Nevada,15,15,avocado,19,Physics,50000,2,20,15000,0,1,50000,20,Democrat,Yes,Yes,No,7
+552689,Male,35,Twitter,8,Cigarettes,Hawaii,Alaska,17,20,Pizza,18,Business Administration and Management,35000,0,0,15000,0,6,25000,5,None,Yes,Yes,Yes,5
+552695,Female,50,Snapchat,7,Nothing,New York,Texas,5,15,italian,18,Psychology,15000,1,0,25000,0,3,25000,5,None,Yes,No,Yes,3
+552696,Female,75,Instagram,10.5,Nothing,Hawaii,Arizona,8,26,Cactus with pork,18,Journalism,48000,0,29,0,0,2,10000,2,Independent,Yes,No,Yes,7
+552697,Female,10,Facebook,5,Nothing,Massachusetts,Massachusetts,7,50,Japanese food,23,Business Administration and Management,2500,0,0,0,0,2,0,5,Democrat,Yes,No,No,4
+552699,Female,150,Instagram,0,Nothing,Maine,Arizona,10,0,Italian,18,Speech Pathology and Audiology/Communication Disorder,80000,0,15,,1,6,1500,2,Republican,Yes,Yes,No,4
+552700,Female,20,Instagram,2,Nothing,Oregon,Indiana,3,7,Pizza,19,Nutrition,40000,0,0,5000,0,2,20000,20,None,Yes,Yes,Yes,5
+552702,Female,12,Facebook,8,Nothing,California,Wyoming,1,0,Fried rice,17,Chemistry,15,0,18,0,0,2,10000,30,None,Yes,Yes,No,5
+552705,Female,100,Snapchat,5,Nothing,Oregon,Nebraska,11,3,Mexican food,19,Psychology,35000,2,10,10000,0,5,15000,15,Democrat,Yes,Yes,No,3
+552711,Female,200,Twitter,12,Nothing,Kentucky,Idaho,30,156,My favorite food would have to be twice baked potatoes.,19,Agricultural Business Management,180000,1,20,0,0,3,50000,10,Republican,Yes,No,Yes,4
+552712,Male,10,Facebook,4,Nothing,California,Utah,11,70,Mexican - Carne Asada,23,Information Sciences and Technology,60000,0,0,0,0,4,10000,3,Republican,No,No,Yes,8
+552728,,20,Twitter,2,Nothing,California,Texas,4,20,Chili dogs,19,Nursing,50000,0,0,1000,0,24,60000,0.8,None,No,No,No,2
+553114,Male,10,None,3,Nothing,Oregon,Ohio,10,20,Chicken Parmesan served with alfredo sauce,18,Business Administration and Management,100000,0,20,40000,0,6,5000,8,Democrat,Yes,No,Yes,6
+553120,Female,300,Snapchat,2,Nothing,Colorado,Nebraska,17,100,Protein shake,19,Business Administration and Management,60000,0,10.5,0,4,2,30000,10,Democrat,Yes,Yes,No,7
+553129,Male,50,Instagram,6,Nothing,Colorado,Florida,3,10,Mexican,18,Business Administration and Management,70000,0,23,20000,1,5,20000,5,Republican,Yes,Yes,No,6
+553141,Male,100,Twitter,1,Nothing,Nevada,Alabama,5,4,Mac & Cheese,19,Graphic Design and Photography,70000,0,20,0,0,12,20000,12,Democrat,Yes,Yes,Yes,7
+553142,Female,150,Snapchat,4,Nothing,Texas,Kansas,3,10,lasagna,18,Psychology,45000,0,0,30000,0,3,15000,8,Independent,No,No,No,6
+553147,Female,150,Snapchat,4,Nothing,Texas,Kansas,3,10,lasagna,18,Psychology,45000,0,0,30000,0,3,15000,8,Independent,No,No,No,6
+553148,Female,300,Instagram,3,Nothing,Hawaii,Iowa,6,22,pasta,18,Business Administration and Management,20000,0,0,0,0,2,100000,5,Republican,Yes,No,Yes,1
+553158,Male,150,Snapchat,50,Nothing,Oregon,Florida,20,5,"Anything beef related. Including, but not limited to, Ribeye, Tritip, NY Strip, Cheeseburger",20,Marketing,72000,0,30,25000,0,4,1000000,15,Democrat,Yes,No,No,10
+553295,Male,50,Snapchat,9.5,Nothing,Washington,Florida,30,300,salad,19,Business Administration and Management,110000,0,0,0,1,10,100000,10,Independent,Yes,Yes,Yes,8
+553296,Male,50,Snapchat,9.5,Nothing,Washington,Florida,30,300,salad,19,Business Administration and Management,110000,0,0,0,1,10,100000,10,Independent,Yes,Yes,Yes,8
+553297,Male,30,Snapchat,5,Cigarettes,Massachusetts,Texas,25,30,chicken parm,19,Business Logistics,50000,0,20,8000,0,4,40000,0,Independent,Yes,Yes,Yes,8
+553356,Male,40,Facebook,4,Cigarettes,Nevada,Georgia,7,30,Cucumbers,19,Agricultural Business Management,100000,1,10,0,0,4,50000,15,Republican,Yes,Yes,No,4
+553371,Male,1,Twitter,2,Nothing,California,Louisiana,2,22,indian food,19,Nutrition,2.319,0,4,0,0,4,2000,30,Democrat,Yes,Yes,Yes,5
+553403,Female,150,Twitter,12,Nothing,Tennessee,Arizona,8,20,Camarones a la diabla,18,Nursing,30,0,0,0,0,1,4000,2,Democrat,Yes,No,No,6
+553479,Female,100,Snapchat,2,Nothing,Hawaii,Kentucky,30,100,Cake,21,Business Administration and Management,50000,0,0,0,0,6,125000,0.8,Republican,Yes,No,Yes,3
+553512,Male,30,Snapchat,21,Nothing,Hawaii,New Mexico,20,25,ice cream,18,Speech Communication,70000,0,18,10000,0,40,60000,15,Republican,Yes,Yes,Yes,6
+553514,Female,50,Twitter,5,Nothing,California,Ohio,10,30,Anything Asian,18,Business Administration and Management,,0,0,0,1,3,,5,Democrat,Yes,Yes,No,6
+553548,Male,100,Snapchat,10,Nothing,California,,25,50,Spaghetti,20,Business Administration and Management,50000,1,6,0,2,14,5000,5,Democrat,Yes,Yes,No,5
+553564,Male,50,Twitter,5,Nothing,California,Kansas,4,20,chicken,18,Business Administration and Management,60000,0,0,0,0,15,50000,,Republican,Yes,Yes,No,5
+553587,Female,75,Twitter,7,Nothing,,,,,,,,,,,,,,,,,,,,
+553600,Female,40,Snapchat,5,Nothing,California,,1,6,Tacos,18,Nursing,70000,0,20,5000,0,3,20000,10,Democrat,No,No,No,6
+553656,Female,100,Twitter,7,Nothing,California,Florida,4,10,Salad,18,Kinesiology,35000,0,0,0,1,6,25000,7,Democrat,Yes,No,Yes,3
+553670,Female,100,Twitter,0,Nothing,California,California,2,18,Chicken,22,Computer Science,25000,0,0,0,0,4,0,0,None,No,Yes,Yes,10
+553693,Female,10,Instagram,4,Nothing,Oregon,Nevada,3,5,Corn Bread,18,Journalism,30000,0,10,0,0,6,5000,5,Republican,Yes,Yes,No,6
+553694,Female,115,Twitter,7,E-cigarettes,Massachusetts,Arizona,11,17,Watermelon,17,Psychology,,0,0,,0,5,,,Republican,Yes,Yes,No,5
+553718,Female,50,Snapchat,6,Nothing,Hawaii,Ohio,7,10,pasta,18,Kinesiology,40000,0,0,0,0,5,10000,10,Independent,Yes,Yes,No,8
+553719,Male,2,None,3,E-cigarettes,California,Connecticut,5,10,Soups and stews.,21,Music Education,42000,0,0,30000,1,0,5000,10,Other,No,No,Yes,10
+553727,Female,25,Instagram,2,Nothing,Washington,Minnesota,6,5,pizza,18,Health Policy and Administration,40000,0,9,0,0,2,100000,5,Democrat,No,Yes,Yes,7
+553733,Female,20,Twitter,3,Nothing,California,Texas,4,6,tacos,17,Psychology,60000,0,0,0,0,0,10000,0,Democrat,Yes,Yes,Yes,5
+553739,Male,100,Twitter,7,Nothing,Arizona,Kentucky,10,20,Cajun food,21,Marketing,60000,0,0,56000,0,10,15000,8,Independent,Yes,No,No,6
+553748,Male,50,Twitter,15,Nothing,Hawaii,Kansas,11,20,steak,19,Business Administration and Management,75000,0,15,0,0,8,10000,5,Republican,Yes,Yes,No,3
+553769,Female,50,None,1,Cigarettes,California,Arizona,3,5,Tofu nuggets,19,Nutrition,0,0,0,10000,0,10,100000,20,Democrat,Yes,Yes,No,8
+553773,Male,0,Snapchat,21,Nothing,California,Missouri,5,5,French Toast,18,Kinesiology,35000,0,0,24000,0,6,20000,5,None,Yes,Yes,No,10
+553804,Male,50,Snapchat,10,Nothing,California,Delaware,12,10,Hot wings and cheese fries,18,Horticulture,30000,0,0,0,3,5,10000,9,None,No,No,No,3
+553808,Male,50,Snapchat,10,Nothing,California,Idaho,5,4,spagetti,19,Undecided,80000,2,0,8000,1,4,80000,10,Republican,Yes,Yes,No,5
+553830,Female,5,Twitter,3,Nothing,New York,Texas,5,5,burritos,18,Nursing,60000,0,0,40000,0,1,0,10,Democrat,Yes,Yes,No,6
+553850,Male,100,Snapchat,8,Nothing,California,North Carolina,5,3,Pizza,18,Business Administration and Management,60000,3,30,1000,0,24,20000,1,Other,No,Yes,No,3
+553883,Female,5,Snapchat,7,Nothing,Washington,Louisiana,20,20,pizza,15,Biochemistry,100000,0,1,120000,0,1,20000,0,Independent,Yes,Yes,No,3
+553903,Female,100,Twitter,20,Nothing,Florida,Alaska,5,10,sushi,18,Kinesiology,,0,0,,0,1,0,0,Republican,No,No,No,5
+553906,Female,100,Instagram,5,Nothing,Arizona,Florida,4,4,burritos,18,Undecided,70000,0,0,60000,0,6,10000,10,Republican,Yes,Yes,Yes,5
+553907,Female,50,Instagram,7,Nothing,Oregon,Hawaii,15,14,ice cream,18,Kinesiology,99999,0,10,0,0,2,5000,,None,Yes,Yes,No,4
+553909,Female,40,Instagram,10,Nothing,Hawaii,Tennessee,8,25,Fruit,19,Journalism,35000,1,0,0,0,6,10000,15,Democrat,Yes,Yes,No,3
+553923,Female,20,Facebook,1,Nothing,Hawaii,Maine,1,2,Egg Rolls,19,Accounting,40000,0,15,5000,0,1,10000,,None,Yes,Yes,No,5
+553925,Male,150,Instagram,12,E-cigarettes,Texas,Missouri,22,100,Steak and Potatoes,20,Political Science,40000,0,5,0,2,30,3000,25,Independent,No,Yes,No,4
+553937,Male,250,Twitter,10.5,E-cigarettes,New York,South Dakota,8,20,Sushi,18,Business Administration and Management,50000,1,28,0,0,8,25000,10,Republican,No,No,No,7
+553941,Female,10,Facebook,4,Nothing,California,California,2,0,Lasagna,19,Nursing,70000,1,20,20000,0,2,2000,1,Independent,Yes,No,No,7
+553946,Male,40,Twitter,15,Nothing,Alaska,Connecticut,15,6,pizza,18,"Crime, Law, and Justice",50000,1,25,40000,1,6,10000,4,Republican,Yes,Yes,Yes,6
+553947,Male,33,Twitter,3,Nothing,Texas,South Dakota,3,9,Pasta,18,Philosophy,35000,0,0,0,0,24,10000,10,Democrat,Yes,Yes,No,7
+553948,Female,50,Twitter,20,Nothing,California,Kentucky,10,10,pizza,20,Sociology,30000,2,6,120000,1,2,10000,0,Democrat,No,Yes,No,7
+553950,Female,15,Snapchat,0,Nothing,California,Utah,5,10,mexican food from 92106,20,Anthropology,1000,0,15,1000,0,1,0,0,Other,Yes,Yes,Yes,5
+553959,Female,70,Instagram,14,Nothing,Hawaii,Nevada,,4,Italian and American,19,Physiology,329960,0,0,0,0,3,10000,2,None,Yes,Yes,No,3
+553970,Male,200,Snapchat,15,Nothing,Oregon,North Dakota,6,10,Pizza,20,Computer Science,100000,0,0,2000,0,10,1000000,0,Democrat,Yes,Yes,Yes,8
+553987,Male,100,Snapchat,5,E-cigarettes,California,,3,10,pizza,18,Undecided,,1,0,0,0,3,10000,5,Other,Yes,No,No,3
+553997,Female,3,Instagram,5,Nothing,California,Nevada,3,5,pizza,19,Social Work,36000,0,0,10000,0,10,25000,50,Democrat,Yes,Yes,Yes,5
+554003,Female,200,Snapchat,7,Nothing,Oregon,Arizona,3,5,pizza,18,Psychology,20000,0,12,0,1,6,15000,2,Democrat,Yes,No,Yes,1
+554020,Female,50,Facebook,2,Nothing,California,Washington,6,7,Sushi,22,Nutrition,45000,0,0,10000,1,5,5000,15,None,Yes,No,Yes,8
+554049,Male,30,Instagram,7,E-cigarettes,Hawaii,Wyoming,28,50,steak,20,Agricultural Business Management,70000,0,0,0,5,0,5000,5,Democrat,No,No,Yes,1
+554056,Female,3,Facebook,1,E-cigarettes,New York,Texas,6,1,Japanese,18,Undecided,60000,0,0,0,0,2,25000,5,None,Yes,No,No,4
+554059,Female,30,Reddit,5,Nothing,Oregon,Alabama,3,0,circus animal cookies,18,Graphic Design and Photography,30000,1,30,20000,0,4,5000,7,None,No,No,Yes,9
+554103,Female,1,Tumblr,5,Nothing,Hawaii,Alabama,4,3,french fries,19,Undecided,60000,0,0,20000,0,5,0,5,Democrat,Yes,No,No,9
+554113,Male,100,Snapchat,20,Nothing,California,Delaware,5,10,Steak,19,Kinesiology,50000,0,12,15000,0,6,10000,3,Democrat,Yes,Yes,Yes,4
+554116,Female,300,Snapchat,0,Nothing,Texas,Nebraska,40,100,Grapes,18,Physics,,,,,,,,,,,,,
+554125,Female,100,Snapchat,6,Nothing,Colorado,South Carolina,5,8,pasta,20,Accounting,40000,2,20,0,0,5,100000,3,None,Yes,Yes,Yes,5
+554126,Male,200,Facebook,4,Nothing,California,Florida,3,10,Asian Food,19,Mechanical Engineering,50000,0,20,25000,0,12,7500,7,Independent,Yes,No,No,10
+554138,Male,50,Twitter,1,Nothing,Hawaii,Arizona,10,30,Chicken Nuggets,18,Business Administration and Management,,1,0,0,0,9,40000,25,Republican,Yes,Yes,No,2
+554142,Female,100,Twitter,15,Nothing,Hawaii,Utah,7,15,Fruit,18,Children,30000,0,0,25000,0,2,10000,2,None,Yes,No,No,4
+554143,Male,100,Twitter,10,Cigarettes,Virginia,Florida,10,6,Pasta,18,Agriculture,40000,0,0,20000,1,6,15000,8,Democrat,Yes,Yes,No,3
+554149,Female,0,Facebook,5,Nothing,California,Alabama,1,6,carne asada,19,Accounting,,0,20,,1,0,29976,,Democrat,Yes,Yes,No,9
+554158,Female,100,Snapchat,4,Nothing,Hawaii,Arkansas,5,10,Cereal,19,Business Administration and Management,50000,0,0,0,1,3,10000,5,Independent,Yes,Yes,No,7
+554178,Male,10,Twitter,10,Nothing,Washington,Idaho,3,20,Thai,19,Undecided,40000,3,0,4000,0,6,20000,5,Democrat,Yes,Yes,Yes,6
+554189,Female,100,Snapchat,0,Nothing,California,Nevada,4,0,mexican,19,Philosophy,0,0,35,14000,0,1,100000,15,Democrat,Yes,Yes,No,1
+554190,Male,5,Facebook,12,Nothing,Washington,Delaware,10,25,Mexican,19,Nursing,60000,3,30,15000,2,2,14000,5,Independent,Yes,Yes,No,10
+554195,Male,25,Snapchat,,Nothing,Oregon,,2,6,,18,Economics,,0,0,0,0,24,30000,8,None,No,Yes,Yes,10
+554203,Female,30,Snapchat,5,Nothing,Hawaii,North Dakota,2,4,Fries,19,Psychology,58000,0,16,0,0,2,30000,0,Republican,No,Yes,No,5
+554204,Male,30,Snapchat,10,Nothing,Hawaii,Alabama,5,41,sushi,21,Business Administration and Management,,0,0,0,0,25,,0,Democrat,Yes,Yes,No,8
+554207,Female,5,Snapchat,1,Nothing,Washington,Nebraska,7,1,Flautas,21,Accounting,30000,0,0,30000,0,0,15000,20,Other,Yes,No,No,5
+554208,Male,25,Reddit,6.5,Nothing,Washington,Nevada,5,6,Garlic Pizza,17,Health Policy and Administration,25000,0,0,20000,0,18,2500,12,Other,Yes,No,No,9
+554213,Male,40,Snapchat,10,Nothing,Hawaii,Utah,4,10,Steak.,18,History,0,0,0,15000,0,10,10000,5,None,Yes,No,No,7
+554215,Female,30,Instagram,12,Nothing,California,Georgia,38,65,Sushi,18,Nutrition,40000,0,0,0,2,3,,10,Independent,Yes,Yes,No,6
+554226,Female,70,Snapchat,4,Cigarettes,California,Texas,4,5,french fries,18,Psychology,30000,0,13,0,1,0,5000,70,Democrat,Yes,No,No,8
+554230,Female,30,Tumblr,4,Nothing,Oregon,Arkansas,5,20,pizza,19,History,30000,0,15,0,1,3,10000,30,Democrat,Yes,No,No,1
+554233,Female,20,Instagram,8,Nothing,California,Wyoming,3,4,Cesar salad,19,Health and Physical Education,50000,0,10,0,0,1,5000,10,Democrat,Yes,Yes,No,5
+554246,Male,25,Snapchat,3.5,Cigarettes,California,Oregon,3,6,Sushi,18,Kinesiology,75000,2,25,0,1,4,100000,5,Democrat,Yes,No,No,3
+554253,Male,200,Facebook,5,Nothing,Minnesota,Nevada,37,100,steak,22,Business Administration and Management,50000,0,35,50000,1,10,20000,30,Republican,Yes,No,No,7
+554254,Female,15,Snapchat,10,Nothing,California,Massachusetts,5,5,Chinese,19,Finance,60000,0,0,0,0,20,10000,0,None,Yes,Yes,Yes,5
+554265,Female,30,Instagram,3,Nothing,Florida,Arizona,4,2,Italian food,18,Animal Sciences,40,1,6,22000,0,2,25000,15,None,Yes,No,No,7
+554276,Male,75,Instagram,6,Nothing,Oregon,Maine,5,7,Pizza,19,Undecided,30000,1,15,30000,1,15,50000,5,Democrat,Yes,Yes,Yes,5
+554279,Male,30,Instagram,16,Nothing,Alaska,Connecticut,30,60,Sushi,21,Anthropology,80000,4,10,0,1,20,49992,2,None,Yes,Yes,No,5
+554284,Female,100,Snapchat,10,Cigarettes,California,Utah,8,30,nutella,17,Accounting,40000,0,20,0,0,2,20000,8,None,Yes,Yes,No,7
+554285,Male,20,Snapchat,7,Nothing,Hawaii,Ohio,8,30,Sushi,19,Nursing,2000000,0,3,0,0,5,20000,15,Republican,No,Yes,Yes,7
+554290,Female,75,Other,12,Nothing,Hawaii,Mississippi,5,5,Sushi,18,Nursing,50000,1,24,5000,1,6,10000,1.5,Republican,Yes,Yes,No,3
+554291,Female,300,Instagram,10,Nothing,California,Nebraska,5,10,Popcorn,19,Marketing,100000,0,20,5000,0,4,7000,2,Republican,Yes,No,Yes,3
+554299,Female,80,Youtube,1,Nothing,California,Idaho,2,3,ice cream,19,Nursing,10000,0,0,0,0,1,10000,0,Democrat,Yes,Yes,No,8
+554301,Female,100,Snapchat,3,Nothing,Colorado,Wisconsin,23,457,pizza,20,Agricultural Business Management,50000,1,20,0,0,6,20000,10,Republican,Yes,Yes,No,10
+554305,Female,70,Instagram,6,Nothing,,,,,,,,,,,,,,,,,,,,
+554306,Female,70,Facebook,5,Nothing,Hawaii,Utah,6,9,Sushi,19,Nursing,70000,0,0,0,1,3,30000,15,Republican,Yes,No,No,6
+554314,Female,10,Instagram,7,Nothing,Florida,Texas,5,5,pasta/italian food,19,Nutrition,50000,0,10,0,1,4,5000,10,Democrat,Yes,Yes,Yes,5
+554315,Female,150,Snapchat,20,Nothing,California,Iowa,15,100,sushi,20,Psychology,75000,0,0,0,0,5,20000,0,Other,Yes,Yes,No,7
+554318,Female,1500,Snapchat,0,Nothing,New York,Alaska,7,8,Carbonara,19,History,40000,0,0,25000,0,3,100000,15,Democrat,Yes,Yes,Yes,4
+554320,Female,100,Instagram,6,Nothing,Hawaii,Michigan,7,2,Pizza,19,Animal Sciences,30000,0,0,7000,4,3,8000,0,Independent,Yes,No,No,3
+554321,Male,100,Twitter,5,Nothing,California,Idaho,10,20,Mac and Cheese baby,19,English,50000,1,15,10000,0,1,1000,5,Independent,No,Yes,Yes,5
+554325,Female,20,Twitter,1,Nothing,Illinois,Idaho,1,2,,,,40000,1,0,7000,0,15,5000,5,Democrat,No,Yes,No,7
+554328,Female,20,Snapchat,1,Nothing,California,Kentucky,2,0,pizza,18,Biology,60000,0,20,15000,0,1,20000,5,None,Yes,No,No,3
+554336,Female,110,Snapchat,6,Nothing,Hawaii,Arizona,3,0,Pasta,19,Kinesiology,25,0,20,10000,5,12,3000,20,None,Yes,Yes,No,1
+554353,Female,200,Tumblr,6,Nothing,New York,Utah,9,15,FRIES,19,Nursing,70000,0,0,12000,0,5,10000,1,Democrat,Yes,No,No,5
+554357,Female,40,Snapchat,10,Nothing,New York,Arizona,5,7,"Corn, Sandwiches, Burgers,  Tacos, Food in general",17,Animal Sciences,1000,0,0,,0,1,100,5,Democrat,Yes,No,Yes,5
+554360,Male,6,Instagram,24,Nothing,California,Virginia,1,3,pupusas,22,Engineering Science,80000,1,36,0,0,7,10000,5,Democrat,Yes,Yes,No,1
+554363,Female,200,Snapchat,6,Nothing,Georgia,Wisconsin,2,2,Bananas,18,Psychology,50000,0,0,0,0,0,18000,0,Democrat,Yes,No,Yes,8
+554366,Male,7,None,5,Nothing,Hawaii,Texas,8,20,Lentil minestrone,19,Computer Science,80000,0,0,40000,0,4,1500,20,Democrat,Yes,Yes,No,8
+554367,Female,500,Facebook,15,Nothing,Texas,Oklahoma,4,3,Cheese Enchiladas or meat loaf,20,Business Administration and Management,70000,0,40,30000,0,3,50000,5,Republican,Yes,No,No,3
+554368,Male,100,Snapchat,12,E-cigarettes,Colorado,Kansas,1,0,Mexican,10,Kinesiology,80000,1,20,15000,0,24,25000,6,Republican,Yes,Yes,No,1
+554372,Female,20,Snapchat,1,Nothing,California,Utah,4,30,Lobster,19,Speech Pathology and Audiology/Communication Disorder,15000,0,20,3500,0,2,1000,10,Democrat,No,Yes,Yes,4
+554377,Female,50,Tumblr,5,Nothing,California,Nevada,2,8,thai food,17,Social Work,20000,0,0,50000,0,1,1000,10,Independent,No,Yes,No,1
+554379,Male,60,Snapchat,0,Cigarettes,California,Utah,2,3,cucumber,18,Anthropology,100000,0,0,0,0,5,20000,2,Democrat,Yes,Yes,No,10
+554380,Female,50,Snapchat,1,Nothing,New York,Arizona,1,4,Pizza,19,Political Science,20,1,30,1500,0,3,50000,10,Democrat,Yes,No,Yes,1
+554381,Female,50,Snapchat,1,Nothing,New York,Arizona,1,4,Pizza,19,Political Science,20,1,30,1500,0,3,50000,10,Democrat,Yes,No,Yes,1
+554389,Female,10,,0,Nothing,Arkansas,Kentucky,6,16,Shrimp,20,Women's Studies,48000,0,0,0,1,24,17000,5,Democrat,Yes,No,Yes,4
+554390,Female,100,Twitter,10,Nothing,Hawaii,Nebraska,5,2,Mexican,18,Accounting,50000,0,0,0,0,20,500000,20,Independent,Yes,Yes,Yes,8
+554392,Male,50,Snapchat,5,Nothing,California,Texas,1,0,Pasta,18,Animal Sciences,80000,0,0,20000,0,24,1000000,10,Democrat,Yes,Yes,No,6
+554393,Male,5,Facebook,0,Nothing,Texas,Utah,48,20,BBQ,30,Business Administration and Management,80000,1,44,0,0,6,7500,0,Republican,Yes,No,No,10
+554395,Female,150,Twitter,10,Nothing,California,Iowa,3,8,pizza,17,"Crime, Law, and Justice",22,0,0,0,0,1,8000,10,Democrat,Yes,Yes,No,1
+554396,Male,20,Soundcloud,14,Nothing,Massachusetts,Arizona,9,15,Chicken,17,Physiology,50000,0,0,0,0,10,10000,20,Republican,Yes,Yes,Yes,8
+554397,Female,100,Facebook,30,Nothing,Colorado,Oklahoma,12,6,Pizza,22,Animal Sciences,100000,1,30,15000,0,3,50000,5,Republican,Yes,Yes,No,10
+554400,Female,45,Twitter,5,Nothing,California,Wyoming,5,15,sushi,19,Sociology,40000,0,0,25000,5,3,10000,5,Democrat,No,Yes,Yes,8
+554402,Female,12,Facebook,2,Nothing,California,Kentucky,1,6,Enchiladas,18,Psychology,25000,0,0,4000,0,2,5000,10,Other,Yes,Yes,Yes,3
+554406,Male,50,Snapchat,5,Nothing,California,Wyoming,4,10,sushi,18,Business Administration and Management,22,0,0,22000,1,6,25000,7,Democrat,Yes,Yes,Yes,5
+554407,Male,20,Snapchat,0,Nothing,New York,Indiana,6,20,Sushi Chips & Salsa,18,Business Administration and Management,75000,0,0,20000,0,4,10000,5,Democrat,Yes,No,Yes,6
+554408,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554409,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554410,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554411,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554412,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554413,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554414,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554415,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554416,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554417,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554419,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554420,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554421,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554422,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554423,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554424,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554425,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554426,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554427,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554428,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554429,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554430,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554431,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554432,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554433,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554434,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554435,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554436,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554437,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554438,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554439,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554440,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554441,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554442,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554443,Female,50,Snapchat,6,Nothing,Hawaii,Missouri,19,100,pesto pasta,20,Business Administration and Management,40000,0,0,0,2,1,8000,10,Independent,Yes,Yes,No,8.5
+554445,Male,40,Snapchat,12,Nothing,New York,Arizona,6,10,hot wings,18,Economics,50000,0,20,28000,0,8,20000,10,Republican,Yes,No,Yes,9
+554451,Female,3,Snapchat,7,Nothing,Florida,Maryland,6,35,french fries,20,Graphic Design and Photography,0,0,30,0,2,0,0,0.02,Independent,Yes,Yes,Yes,3
+554453,Female,15,Facebook,5,Nothing,South Carolina,Ohio,7,18,Pineapples,19,"Crime, Law, and Justice",49000,0,5,15000,0,1,15000,0,Republican,No,No,No,2
+554454,Male,20,Instagram,2,Nothing,Texas,Nevada,4,30,sushi,19,Undecided,60000,1,0,30000,0,4,20000,1,Independent,Yes,No,No,7
+554456,Female,20,Facebook,28,Nothing,Oregon,Ohio,5,4,Any pasta dish,22,Accounting,65000,0,32,0,0,5,20000,50,Republican,Yes,Yes,No,7
+554457,Male,60,Instagram,6,Nothing,New York,Kentucky,4,20,Burrito,19,Kinesiology,60000,0,0,20000,0,4,15000,3,Democrat,Yes,Yes,No,7
+554459,Male,100,Snapchat,10,Nothing,California,Delaware,3,5,mexican,20,"Crime, Law, and Justice",50000,0,20,1500,0,24,20000,5,Democrat,Yes,Yes,No,6
+554460,Female,50,Snapchat,9,Nothing,Hawaii,Arkansas,7,20,mac and cheese,18,Animal Sciences,15,0,0,0,0,3,70000,5,Democrat,No,Yes,Yes,7
+554464,Male,10,Facebook,2,Nothing,California,Arizona,2,1,mexican,18,Undecided,5000,1,13,3000,0,6,10000,0,Democrat,Yes,Yes,Yes,5
+554467,Female,100,Instagram,4,Nothing,Oregon,Arizona,41,25,scrambled eggs,19,Undecided,60000,1,20,12000,0,2,10000,0,None,Yes,Yes,Yes,5
+554469,Male,550,Snapchat,2,Nothing,California,Nevada,2,1,pasta,18,Nursing,80000,0,0,60000,1,25,100000,10,Democrat,Yes,Yes,Yes,5
+554470,Male,35,Instagram,4,Nothing,Oregon,Ohio,3,7,Mexican,18,Business Administration and Management,95000,0,30,20000,0,10,45000,2,Democrat,Yes,Yes,Yes,5
+554473,Female,25,Snapchat,0,Nothing,California,,3,3,Lasagna,19,Business Administration and Management,50000,0,18,25000,1,2,2000,7,Democrat,Yes,Yes,No,4
+554474,Male,5,Twitter,10,Nothing,California,Arizona,6,3,candy,18,Nursing,80000,0,20,100000,0,8,40000,0,Democrat,Yes,Yes,No,6
+554475,Female,30,Snapchat,0,Nothing,Florida,Iowa,13,1000,sushi,19,Health Policy and Administration,40000,0,10,0,0,3,30000,5,Democrat,Yes,No,Yes,6
+554476,Female,30,Snapchat,0,Nothing,Florida,Iowa,13,1000,sushi,19,Health Policy and Administration,40000,0,10,0,0,3,30000,5,Democrat,Yes,No,Yes,6
+554477,Female,50,Instagram,12,Nothing,Oregon,California,3,30,Any Mexican food,19,Nursing,65000,0,40,70000,2,1,30000,0,Independent,Yes,Yes,No,5
+554478,Female,50,Instagram,4,Nothing,California,Montana,3,10,Peanut butter,21,Kinesiology,40000,0,20,27000,0,3,5000,5,None,Yes,Yes,Yes,7
+554479,Female,,Snapchat,3,Nothing,Illinois,South Dakota,4,20,mexican,19,Social Work,20,0,0,6200,0,2,17000,3,Democrat,Yes,No,Yes,5
+554480,Male,75,Tumblr,5,Nothing,California,Florida,6,20,Burgers,22,Agriculture,35000,0,0,20000,0,5,5000,25,Democrat,Yes,Yes,No,4
+554481,Male,25,Snapchat,1.5,Nothing,Colorado,Arizona,4,2,Chinese food,18,Undecided,200000,0,0,0,0,24,25000,5,Democrat,Yes,Yes,Yes,7
+554482,Female,23,,0,Nothing,California,Kentucky,4,10,Fried Twinkie!,23,Business Administration and Management,35000,1,47,10000,6,3,5000,10,Other,Yes,Yes,No,3
+554484,Male,50,Twitter,15,Nothing,New York,Alaska,4,1,pizza,18,,15,0,40,5000,0,24,0,0,None,Yes,Yes,No,8
+554495,Female,50,Twitter,6,Nothing,California,Louisiana,1,100,Steak,20,Business Administration and Management,20000,3,20,2981,0,0,50000,15,Democrat,Yes,Yes,No,3
+554678,Female,500,Snapchat,0,Nothing,Tennessee,Alaska,12,10,Chineese,19,Animal Sciences,0,1,25,,0,10,100000,2,Republican,Yes,Yes,Yes,4
+555040,Male,30,,5,Cigarettes,Illinois,Texas,5,15,Lazagna,23,Business Administration and Management,36000,0,0,0,3,18,50000,25,None,Yes,Yes,Yes,6
+555080,Female,50,Instagram,10,Nothing,Colorado,Wyoming,8,30,Cereal,18,Business Administration and Management,40000,2,0,0,0,5,5000,15,Independent,Yes,Yes,No,7
+555117,Female,300,Snapchat,6,Nothing,Hawaii,Arizona,5,50,cheese pizza or cheese raviolis,18,Kinesiology,45000,0,0,25000,2,2,6000,10,Democrat,Yes,Yes,Yes,6
+555192,Female,50,Twitter,12,Nothing,,,2,0,pizza,19,Psychology,30000,0,20,10000,1,3,20000,10,Democrat,Yes,Yes,No,7
+555220,Male,15,Facebook,8,Cigarettes,Colorado,Texas,20,30,Not spinach,32,Horticulture,0,0,15,5000,3,5,0,1,None,No,No,No,10
+555226,Male,200,Twitter,14,Nothing,California,Wyoming,2,1,steak,18,Nutrition,70000,0,0,0,0,15,20000,25,Republican,Yes,No,No,10
+555227,Male,200,Twitter,12,Nothing,California,Ohio,9,25,Sushi,19,Business Administration and Management,75000,0,0,0,0,12,20000,10,Republican,Yes,No,Yes,10
+555281,Female,20,Instagram,2,Nothing,Hawaii,Missouri,30,20,American,20,Speech Pathology and Audiology/Communication Disorder,60000,0,0,0,0,4,4000,0,Republican,Yes,No,No,5
+555326,Female,100,Instagram,0,Nothing,Washington,New Mexico,10,6,Italian,18,Animal Sciences,40000,0,0,0,0,1,20000,20,Republican,Yes,No,Yes,8
+555343,Male,5,Instagram,6,Nothing,Hawaii,Nevada,20,15,hamburger,22,Business Administration and Management,50000,0,0,25000,1,20,10000,13,Democrat,No,No,No,8
+555397,Male,10,Instagram,5,Nothing,Florida,Alabama,2,0,nachos,20,Recreation and Parks,,0,0,,0,12,5000,10,Democrat,Yes,No,No,1
+555411,Male,20,Snapchat,3,Nothing,California,Georgia,15,20,frozen yogurt,19,Undecided,40000,1,0,36000,2,10,100000,3,None,Yes,Yes,Yes,6
+555422,Male,20,Instagram,2,E-cigarettes,Hawaii,Alabama,5,26,pasta,19,Undecided,30000,0,0,0,0,6,20000,1,Republican,Yes,Yes,No,10
+555424,Male,500,Snapchat,10,Nothing,California,Arizona,3,5,pizza,19,"Crime, Law, and Justice",0,0,0,40000,0,50,3000,5,Democrat,Yes,Yes,No,10
+555472,Male,0,None,0,Nothing,Hawaii,Alaska,14,10,Chinese,19,Media Studies,50000,1,0,0,0,5,50000,0,Republican,No,No,Yes,5
+555473,Female,40,Facebook,7,Nothing,Hawaii,Alabama,1,0,Rice,17,Health Policy and Administration,10,0,0,0,0,1,6000,5,Democrat,Yes,No,No,6
+555487,Female,30,Snapchat,8,Nothing,Arizona,New Mexico,5,1,baked macaroni and cheese,19,Business Administration and Management,60000,,,,,,,,,,,,
+555488,Male,200,Snapchat,2,Nothing,California,Pennsylvania,24,60,Pizza,18,Business Administration and Management,25000,1,20,20000,0,5,50000,8,Republican,Yes,Yes,Yes,6
+555490,Male,30,Snapchat,7,Nothing,Nevada,Montana,4,0,Lasagna,18,Modern Languages,12000,0,0,40000,0,12,1000,0.1,None,No,Yes,Yes,3
+555499,Male,50,Instagram,10,Nothing,Utah,Nevada,7,20,Sushi,18,Finance,80000,0,0,,0,25,,15,Republican,Yes,No,No,8
+555508,Female,59,Instagram,7,Nothing,Hawaii,Arkansas,20,50,pasta,19,Nursing,,2,0,,1,1,,20,Independent,Yes,Yes,No,9
+555519,Male,20,Snapchat,20,Nothing,Texas,Montana,22,100,pasta,19,Political Science,100000,0,10,20000,0,13,50000,10,Republican,Yes,No,Yes,9
+555521,Male,50,Instagram,0,Nothing,California,California,2,4,Chinese food,23,Civil Engineering,70000,1,60,16000,0,10,15000,4,None,Yes,Yes,No,6
+555523,Female,15,Snapchat,8,Nothing,California,Arizona,2,7,Italian,19,Psychology,50000,0,0,10000,0,4,100000,3,Republican,Yes,Yes,Yes,10
+555567,Male,30,Snapchat,7,,,,,,,,,,,,,,,,,,,,,
+555576,Female,50,Snapchat,5,Nothing,California,Maine,3,6,Burrito,18,Political Science,40000,1,2,10000,0,2,20000,2,Democrat,Yes,Yes,No,3
+555579,Female,60,Snapchat,5,Nothing,California,North Dakota,6,4,Cheez its,20,Engineering Science,70000,1,0,45000,7,2,0,8,Democrat,Yes,Yes,Yes,9
+555581,Female,100,Instagram,0.5,Nothing,Hawaii,Arizona,5,20,bacon,19,Health Policy and Administration,32000,0,0,10000,0,4,20000,2,Democrat,No,No,Yes,10
+555628,Male,75,Twitter,4,Nothing,Hawaii,Arizona,3,10,My favorite food is Chicken Parmesan,18,Agricultural Business Management,50000,0,0,80000,0,20,10000,15,Republican,Yes,No,Yes,7
+555634,Male,20,Instagram,6,E-cigarettes,Hawaii,Louisiana,5,10,pasta,22,Geosciences,40000,0,0,0,0,12,10000,30,Independent,Yes,No,Yes,7
+555635,Female,50,Snapchat,10,Nothing,California,Kentucky,8,40,pasta,18,Business Administration and Management,100000,1,0,0,1,4,20000,10,Independent,Yes,Yes,Yes,4
+555636,Female,50,Snapchat,6,Nothing,Hawaii,Nevada,5,4,Shrimp,18,Psychology,50000,0,0,20000,0,6,50000,7,Democrat,Yes,No,No,10
+555641,Female,50,,,,,,,,,,,,,,,,,,,,,,,
+555649,Female,25,,0,Nothing,California,Kentucky,4,0,My favorite food is a grilled cheese.,10,Nutrition,30000,0,25,24973,1,2,20000,1,Democrat,Yes,Yes,No,3
+555653,Female,200,Instagram,8,Nothing,Hawaii,Kentucky,13,25,mac and cheese,18,Psychology,30000,2,0,50000,1,6,8000,0,Democrat,Yes,Yes,Yes,3
+555654,Male,200,Snapchat,6,Nothing,Hawaii,Montana,4,3,fried chicken,21,Undecided,0,0,15,30000,0,10,1000000,3,None,Yes,No,Yes,3
+555663,Female,30,Snapchat,8,Nothing,California,Nevada,15,20,Mom's homemade spaghetti,18,Kinesiology,75000,0,0,0,0,4,70000,0,Other,Yes,No,No,6
+555721,Female,100,Instagram,2,Nothing,California,,2,2,Lasagna,19,Undecided,,0,20,0,0,2,5000,1,None,Yes,No,No,5
+555722,Female,100,Instagram,3,Nothing,Hawaii,Maine,9,50,Spaghetti,10,Microbiology,,0,0,0,1,2,,5,Democrat,Yes,No,No,4
+555726,Male,40,Facebook,6,Nothing,Pennsylvania,Arizona,7,30,Indian Food!,18,Nursing,40000,0,0,0,0,4,30000,5,Democrat,No,No,No,3
+555736,Male,10,Snapchat,3,Nothing,Nevada,Louisiana,3,3,Pizza,18,Economics,30000,0,20,10000,0,24,5000,10,Democrat,Yes,No,No,6
+555749,Male,50,Snapchat,20,Nothing,Hawaii,Minnesota,8,100,Spicy Ahi poke Bowls,18,Business Administration and Management,40000,1,35,20000,0,18,10000,10,Democrat,Yes,Yes,No,4
+555774,Female,1000,Twitter,1,Nothing,Hawaii,Nebraska,13,59,tacos,18,Nursing,40000,0,0,10000,2,4,100000,7,Democrat,No,Yes,Yes,3
+555789,Male,200,Twitter,2,Nothing,Hawaii,,6,6,pizza,18,Business Administration and Management,50000,0,0,0,0,0,20000,10,Democrat,Yes,Yes,No,3
+555800,Female,35,Instagram,5,Nothing,Florida,Alaska,11,30,Spaghetti,19,Recreation and Parks,50000,3,15,30000,3,10,5000,15,Republican,No,No,No,1
+555808,Male,400,Snapchat,15,Nothing,Georgia,Idaho,6,2,burgers,19,Graphic Design and Photography,30000,0,0,7000,0,24,0,100,Democrat,No,Yes,Yes,5
+555809,Female,150,Snapchat,7,Nothing,New York,North Carolina,22,200,CARBS,18,Health Policy and Administration,70000,0,0,0,2,4,4000,2,Democrat,No,Yes,No,4
+555811,Female,25,Instagram,3,Nothing,North Carolina,Texas,7,40,tacos,20,Business Administration and Management,100000,0,30,20000,1,0,10000,1,Other,Yes,No,Yes,6
+555824,Female,30,Twitter,1,Nothing,Oregon,Florida,1,0,fries,18,Business Administration and Management,30000,0,0,40000,0,2,0,4,Independent,Yes,Yes,Yes,5
+555825,Female,100,Twitter,7,Nothing,Florida,Illinois,7,24,Pasta,18,Agriculture,40000,0,0,0,0,4,20000,2,Republican,Yes,Yes,No,4
+555836,Female,100,WhatsApp,6,Nothing,New York,Georgia,5,10,Seafood,19,Psychology,50000,0,0,20000,0,4,80000,10,None,No,No,No,
+555841,Male,30,Snapchat,8,Nothing,California,New Mexico,1,0,anything that tastes good.,19,Undecided,60000,0,12,10000,0,6,20000,2,None,No,Yes,Yes,3
+555842,Female,40,Instagram,5,Nothing,Minnesota,Colorado,4,20,Fetticine alfredo,19,Psychology,40000,0,10,20000,2,9,15000,7,None,Yes,Yes,No,8
+555843,Female,40,Instagram,5,Nothing,Minnesota,Colorado,4,20,Fetticine alfredo,19,Psychology,40000,0,10,20000,2,9,15000,7,None,Yes,Yes,No,8
+555846,Female,40,Instagram,5,Nothing,Minnesota,Colorado,4,20,Fetticine alfredo,19,Psychology,40000,0,10,20000,2,9,15000,7,None,Yes,Yes,No,8
+555848,Female,80,Snapchat,9,Nothing,Minnesota,Nevada,6,15,Mexican,20,Business Administration and Management,50000,2,20,0,2,4,10000,12,Republican,Yes,No,No,9
+555852,Female,30,Instagram,7,Nothing,Hawaii,Idaho,4,9,peanut butter,18,Nursing,66640,0,0,20000,0,10,2000,,None,No,No,No,3
+555865,Female,5,Facebook,5,Nothing,California,Kentucky,2,0,mostly everything,21,Business Administration and Management,15,0,0,0,0,1,3000,1,Democrat,Yes,Yes,No,7
+555876,Female,45,Facebook,8,Nothing,Oregon,,4,0,I have many favorites.,20,Children,50000,2,36,10000,1,5,10000,10,None,Yes,Yes,No,3
+555878,Male,200,Instagram,7,Nothing,Oregon,Arizona,6,14,Hamburgers,18,Marketing,45000,0,0,40000,0,5,10000,20,Republican,Yes,Yes,Yes,8
+555879,Female,279,Facebook,5.5,Nothing,Hawaii,Texas,3,0,Sushi,20,Nursing,,0,0,2000,0,1,20000,0,None,Yes,No,No,1
+555880,Female,279,Facebook,5.5,Nothing,Hawaii,Texas,3,0,Sushi,20,Nursing,,0,0,2000,0,1,20000,0,None,Yes,No,No,1
+555881,Male,50,Instagram,14,,,,,,,,,,,,,,,,,,,,,
+555882,Male,80,Instagram,14,Nothing,California,Arizona,1,10,sushi,10,"Crime, Law, and Justice",,0,20,5000,0,50,,10,None,Yes,Yes,Yes,6
+555884,Female,100,Snapchat,1,Nothing,California,Kansas,15,100,sushi,19,Children,70000,1,0,0,2,5,70000,2,Democrat,Yes,Yes,Yes,5
+555896,Female,50,Instagram,0,Nothing,California,Texas,1,0,Pizza,18,Business Administration and Management,40000,0,0,10000,0,2,8000,2,Democrat,Yes,Yes,No,8
+555897,Female,20,Snapchat,7,Nothing,California,Oklahoma,12,40,Sushi,18,English,12,0,0,,1,1,6000,10,Democrat,Yes,,No,7
+555901,Male,0,Facebook,2,Nothing,Hawaii,Alabama,2,0,Mashed Potatoes,18,Geosciences,30000,0,0,2000,0,2,100000,5,Independent,Yes,No,No,7
+555902,Female,100,Snapchat,0,Nothing,Hawaii,Alaska,2,16,pizza,19,Recreation and Parks,85000,2,15,10000,1,4,20000,4,None,Yes,No,Yes,8
+555913,Female,200,Snapchat,3,Nothing,New York,Montana,6,4,grilled cheese sandwich,19,Undecided,,0,8,,0,1,60000,,Democrat,Yes,Yes,No,3
+555914,Female,200,Snapchat,3,Nothing,New York,Montana,6,4,grilled cheese sandwich,19,Undecided,,0,8,,0,1,60000,,Democrat,Yes,Yes,No,3
+555916,Male,10,Twitter,10,Nothing,Colorado,Alabama,3,5,Pizza,19,Civil Engineering,80000,0,0,25000,0,20,21000,10,Democrat,No,Yes,No,9
+555919,Female,75,Twitter,6,Nothing,New York,Arizona,10,6,all foods,18,Business Administration and Management,60000,0,,0,0,4,10000,4,Republican,Yes,No,No,8
+555921,Female,75,Twitter,7,Nothing,New York,Arizona,10,6,all,18,,,,,,,,,,,,,,
+555926,Female,100,Snapchat,3,Nothing,Georgia,Delaware,8,3,pasta,18,Animal Sciences,60000,0,0,10000,0,5,3000,0,,Yes,Yes,No,7
+555938,Male,25,Snapchat,6,Nothing,California,Oklahoma,10,8,enfrijoladas,17,Animal Sciences,60000,0,0,15000,0,3,10000,10,Democrat,Yes,Yes,No,4
+555942,Female,200,Twitter,3,Nothing,Hawaii,Maine,4,15,ceviche,19,Business Administration and Management,14,0,10,0,0,5,100,,,,,,
+555946,Male,40,Snapchat,8,Nothing,Hawaii,Alabama,5,11,Pizza,19,Animal Sciences,32000,0,0,,0,6,20000,6,Democrat,No,Yes,No,4
+555950,Female,50,Instagram,2,Nothing,Washington,Kentucky,3,15,Orange chicken,19,Nursing,20000,0,0,120000,0,5,5000,100,None,Yes,No,No,7
+555955,Female,200,Snapchat,10,Nothing,California,Nevada,2,4,Pizza,19,Pre-medicine,48000,0,20,6000,1,2,40000,0,Democrat,Yes,Yes,No,7
+555957,Female,50,Snapchat,,Nothing,Hawaii,Oklahoma,6,12,,,,,,,,,,,,,,,,
+555970,Female,25,Facebook,2,Nothing,California,,2,0,Pizza,18,"Crime, Law, and Justice",12000,0,0,0,0,2,5000,5,Independent,Yes,No,No,9
+555974,Female,30,Snapchat,5,Nothing,California,Arkansas,2,15,any kind of asian food,18,Accounting,40000,0,10,40000,0,1,20000,10,Democrat,Yes,Yes,Yes,8
+555975,Male,1000,Facebook,14,E-cigarettes,California,Tennessee,3,15,Taqueria Burritos,18,Kinesiology,50000,1,0,5000,0,18,7000,1,Democrat,Yes,Yes,Yes,3
+555979,Male,30,Instagram,10,Nothing,Oregon,Florida,7,27,California Burritos,18,Business Logistics,130000,0,0,40000,0,8,100000,0,Republican,Yes,Yes,Yes,4
+555982,Female,100,Snapchat,4,Nothing,Arizona,California,4,3,filipino food,18,Pre-medicine,5000,0,0,40000,0,4,40000,10,None,Yes,Yes,No,4
+555983,Female,100,Snapchat,4,Nothing,Arizona,California,4,3,filipino food,18,Pre-medicine,5000,0,0,40000,0,4,40000,10,None,Yes,Yes,No,4
+555984,Female,15,Pinterest,0,Nothing,California,Arizona,3,4,Shrimp Coctail,18,Nursing,46000,0,14,8500,0,1,35000,5,Democrat,Yes,No,No,5
+555987,Female,60,Instagram,6,Nothing,New York,Alabama,4,15,Mac n Cheese,21,Business Administration and Management,40000,3,10,5000,3,6,6000,10,Democrat,Yes,No,Yes,7
+556135,Female,80,Snapchat,10,Nothing,California,Georgia,5,50,all kinds of pizza,10,Kinesiology,40000,0,0,4000,0,4,100000,5,Democrat,Yes,No,No,5
+556176,Male,120,Snapchat,10,Nothing,Texas,Missouri,9,20,pasta with Alfredo sauce,18,Undecided,65000,0,0,22000,0,7,15000,30,Democrat,Yes,Yes,Yes,8
+556259,Female,100,Twitter,10,Nothing,Florida,Arizona,15,100,pizza,18,Nursing,65000,0,0,0,0,3,10000,5,Republican,Yes,No,No,6
+556274,Male,15,Snapchat,1,Cigarettes,California,Texas,3,5,Chinese,19,Graphic Design and Photography,,0,0,99999,1,10,41986,9,Other,No,Yes,No,1
+556294,Female,100,Snapchat,2,Nothing,Hawaii,Oklahoma,5,8,I love macaroni and cheese.,18,Psychology,80000,0,0,50000,2,5,15000,10,Independent,Yes,No,No,4
+556358,Male,30,Instagram,6,Nothing,Colorado,Nevada,16,18,Pasta,18,Business Logistics,70000,0,0,0,0,0,7500,5,Republican,Yes,Yes,No,8
+556360,Female,100,Snapchat,3,Nothing,Nevada,Arizona,2,0,lasagna,18,Nursing,65000,0,0,2000,0,3,100000,5,Democrat,Yes,No,No,8
+556364,Female,200,,5,Nothing,Oklahoma,New Mexico,12,40,sushi,18,Animal Sciences,,0,0,20000,0,5,20000,4,None,Yes,Yes,No,10
+556368,Female,1000,Facebook,2,Nothing,Oregon,Oregon,1,0,Nam Khao,19,Undecided,20,1,26,,0,3,20000,2,None,Yes,Yes,No,5
+556374,Male,10,Snapchat,,Cigarettes,Alaska,Texas,12,56,veal,20,Finance,,0,0,0,0,4,15,19,Republican,Yes,Yes,Yes,5
+556381,Male,150,Snapchat,11,Nothing,New York,Alabama,3,9,steak,19,History,45000,0,20,90000,0,15,1000000,5,Independent,Yes,Yes,Yes,9
+556385,Female,25,Twitter,5,Nothing,Oregon,Kentucky,5,11,guacamole,18,Kinesiology,,0,0,68964,0,12,,0,None,Yes,Yes,Yes,9
+556393,Male,5,Snapchat,5,Nothing,California,Alaska,1,1,all foods,19,Accounting,60000,3,18,0,0,15,10000,30,Democrat,Yes,Yes,Yes,8
+556398,Female,100,Twitter,2,Nothing,,,,,,,,,,,,,,,,,,,,
+556413,Male,30,Twitter,7,Nothing,Florida,Minnesota,3,10,Chinese food,18,Animal Sciences,55000,0,0,0,0,12,10000,15,Democrat,Yes,No,Yes,8
+556422,Female,7,Snapchat,3,Nothing,California,Louisiana,6,20,ice cream,19,Sociology,0,0,0,0,2,2,0,15,Democrat,No,No,No,3
+556431,Male,50,Instagram,8,Nothing,Colorado,Nevada,15,15,"Cheese, preferably sharp cheddar",18,Agricultural Business Management,60000,0,15,0,0,5,1500,5,Republican,Yes,No,No,6
+556434,Female,50,Snapchat,12,Nothing,California,Kansas,6,15,Popcorn,19,Nursing,66000,0,20,5000,0,2,10000,15,Republican,Yes,No,No,7
+556442,Female,200,Snapchat,5,Nothing,Hawaii,Illinois,20,6,Sushi,19,Social Work,,0,25,,5,2,,10,Democrat,Yes,No,No,1
+556481,Female,1000,Instagram,0,Nothing,Hawaii,Arkansas,7,10,LETS NOT LEAVE ANY FOODS OUT. I LIKE THEM ALL,18,"Crime, Law, and Justice",,0,33,7000,0,1,100000,0,Republican,No,Yes,No,5
+556503,Male,200,Snapchat,0,Nothing,Washington,Oregon,5,20,Italian,18,Sociology,50000,0,0,0,0,24,100000,5,Democrat,Yes,No,No,7
+556509,Female,200,Snapchat,8,Nothing,Texas,New York,35,50,beans and rice,18,Kinesiology,80000,0,0,0,0,2,15000,0,Democrat,Yes,Yes,No,1
+556525,Male,20,Snapchat,3,Nothing,California,,2,5,chicken & shrimp alfredo,18,Business Administration and Management,70000,1,0,15000,0,24,5000,3,Democrat,Yes,No,No,1
+556528,Female,200,Facebook,6,Nothing,New York,Delaware,5,8,sushi,19,Speech Pathology and Audiology/Communication Disorder,50000,0,0,0,0,4,50000,5,None,Yes,Yes,No,7
+556530,Male,69,Instagram,10,Nothing,California,Arizona,3,1,Pasta,19,Computer Science,69000,0,0,2500,0,7,10000,10,None,Yes,Yes,No,9
+556532,Female,250,Snapchat,6,Nothing,New York,Texas,7,20,any thai food,22,Business Administration and Management,50000,1,5,25000,0,4,75000,90,Democrat,Yes,Yes,Yes,4
+556533,Female,275,Snapchat,9,Nothing,California,Minnesota,1,0,Pizza,18,Health Policy and Administration,,0,0,2300,0,25,7000,,None,No,Yes,No,5
+556537,Male,60,Snapchat,10,Nothing,Massachusetts,New York,7,8,avocados,18,Kinesiology,85000,0,0,0,0,4,20000,8,Independent,No,Yes,No,8
+556542,Male,45,Instagram,8,Nothing,Colorado,Nebraska,20,15,pizza,18,Agricultural Business Management,35000,0,12,0,0,6,0,0,Republican,Yes,Yes,Yes,8
+556544,Female,10,Twitter,7,Nothing,California,Ohio,2,7,Pizza,18,Psychology,50000,0,0,28000,0,3,100000,10,Democrat,Yes,Yes,Yes,3
+556545,Female,30,Instagram,5,Nothing,Hawaii,Missouri,4,4,Enchiladas,18,Agriculture,40000,0,0,8000,0,1,50000,10,Democrat,No,Yes,Yes,5
+556548,Female,20,Snapchat,0,Nothing,California,Florida,5,6,mac and cheese,18,Animal Sciences,20000,0,0,,0,1,40000,0,None,Yes,No,Yes,10
+556550,Male,,Snapchat,,Nothing,California,California,3,0,everything,,Undecided,10000,0,20,8000,0,4,1000,5,None,Yes,No,Yes,7
+556552,Female,50,Snapchat,5,Nothing,Hawaii,Texas,4,15,mac n cheese,18,Accounting,60000,0,10,,1,2,8000,,Democrat,Yes,Yes,Yes,7
+556570,Female,50,Twitter,8,Nothing,California,Texas,8,10,sushi,18,Pre-medicine,60000,1,20,3000,0,3,20000,5,None,Yes,No,No,6
+556573,Male,70,Snapchat,2,Nothing,Texas,Georgia,5,5,Pancakes,18,Animal Sciences,38000,0,0,23000,0,12,35000,12,Independent,Yes,No,No,3
+556574,Female,200,Instagram,5,Nothing,Hawaii,New Mexico,48,35,My dad's Swedish pancakes,21,Business Administration and Management,60000,0,25,28800,7,0,25000,2,Republican,Yes,No,No,3
+556579,Male,25,Facebook,4,Nothing,Michigan,Virginia,22,50,Cheeseburger,26,Economics,45000,1,0,0,3,4,10000,0,Other,Yes,Yes,No,8
+556612,Male,20,Facebook,5,Nothing,Oregon,,8,8,pizza,23,,50000,0,0,0,0,12,10000,30,Democrat,Yes,Yes,No,7
+556674,Male,25,Snapchat,6,Nothing,Washington,Montana,10,2,Pizza,18,Accounting,60000,0,0,10000,0,3,,,Democrat,Yes,No,No,7
+556688,Male,40,Instagram,10,Nothing,California,North Dakota,6,12,pizza,19,Undecided,50000,2,0,0,0,5,30000,15,Democrat,Yes,Yes,No,10
+556689,Female,100,Instagram,7,Nothing,Hawaii,Alabama,20,40,meat,19,Dance,100000,0,10,0,1,1,3000,2,Democrat,No,Yes,No,3
+556694,Female,50,Snapchat,12,Nothing,Oregon,Kansas,6,5,Chinese,19,Nursing,14000,0,15,100000,0,5,500000,45,Democrat,Yes,Yes,Yes,6
+556701,Male,5,Facebook,2.5,Cigarettes,Utah,Alabama,4,5,Mexican,21,"Crime, Law, and Justice",35000,0,10,1600,0,8,20000,20,Democrat,Yes,No,No,3
+556703,Female,30,Snapchat,9,Nothing,California,Arizona,12,20,burgers,20,Kinesiology,60000,0,22,75000,1,1,50000,1,None,Yes,Yes,No,8
+556710,Female,20,Instagram,5,Nothing,Hawaii,Wisconsin,6,2,Sushi,18,Business Administration and Management,50000,0,15,40000,0,3,15000,5,Republican,Yes,Yes,Yes,5
+556719,Male,6,None,9,E-cigarettes,Washington,Utah,8,6,pasta,18,Computer Science,60000,0,0,25000,0,12,1,8,None,Yes,No,No,6
+556753,Male,35,Instagram,10,Nothing,Florida,Arizona,5,15,burrito,18,Business Administration and Management,60000,1,25,22000,0,8,1000000,25,Independent,Yes,Yes,No,5
+556803,Male,55,None,12,Nothing,Virginia,North Dakota,16,15,Steak,18,Political Science,100000,0,10,10000,0,6,25000,5,Independent,Yes,Yes,No,5
+556805,Female,10,Instagram,2,Nothing,Hawaii,Texas,1,0,My favorite food is spaghetti,18,Health and Physical Education,10,0,0,15000,0,2,2000,3,None,Yes,Yes,No,9
+556809,Female,1000,Twitter,0,Nothing,California,South Dakota,7,30,sushi,18,Nursing,80000,0,15,8000,0,2,100,100,Democrat,Yes,Yes,No,2
+556811,Male,20,Snapchat,5,Nothing,California,Nevada,20,6,Baked macaroni and cheese,19,Undecided,50000,0,0,40000,0,8,100000,10,None,Yes,Yes,Yes,8
+556813,Female,200,Snapchat,5,Nothing,California,South Dakota,8,20,Pizza,18,Nursing,66640,0,8,24750,0,4,1000000,5,None,Yes,Yes,No,7
+556820,Female,300,Snapchat,4,E-cigarettes,Hawaii,Connecticut,6,40,matzoh ball soup,18,Nursing,25000,0,0,0,0,2,30000,0,Democrat,Yes,No,Yes,5
+556831,Male,30,Instagram,7,Nothing,California,Montana,10,40,Chicken,20,Economics,50000,0,0,0,0,15,20000,15,Democrat,Yes,No,No,8
+556838,Male,100,Facebook,5,Nothing,California,Louisiana,1,4,Pizza,20,Accounting,50000,1,20,12000,0,24,10000,2,Democrat,Yes,No,No,9
+556849,Female,200,Snapchat,6,Nothing,,,8,50,Mexican Food,18,Business Administration and Management,90000,0,18,0,0,4,50000,20,Democrat,Yes,Yes,No,7
+556858,Male,30,Twitter,4,Cigarettes,California,Texas,4,3,Sutter Dining's French Toast Sticks,18,Marketing,70000,0,0,20000,0,6,10000,10,Democrat,Yes,Yes,Yes,4
+556864,Male,50,Facebook,6,Nothing,Hawaii,Ohio,25,200,chicken parm,21,Business Administration and Management,60000,1,0,1000,0,12,50000,1,Democrat,No,Yes,Yes,9
+556867,Male,50,Twitter,8,Nothing,New York,South Dakota,7,7,Pizza,19,Undecided,40000,0,10,20000,2,7,5000,5,None,Yes,Yes,No,6
+556868,Female,30,Snapchat,6,Nothing,Oregon,Arkansas,6,20,italian food,19,Kinesiology,65000,1,15,1000,0,2,12000,5,Independent,Yes,Yes,Yes,8
+556902,Female,50,,1,Nothing,California,Oklahoma,4,6,Pizza is life,25,Social Work,20000,1,30,30000,0,0,3000,25,Democrat,Yes,No,Yes,1
+556923,Male,2,Twitter,4,Nothing,California,New Mexico,1,0,Burgers,18,Business Administration and Management,40000,1,25,0,0,6,0,10,Republican,Yes,No,Yes,9
+556940,Female,50,Snapchat,3,Nothing,California,Nebraska,1,0,Pizza,18,"Crime, Law, and Justice",,1,0,0,0,2,20000,20,Democrat,Yes,Yes,Yes,5
+556952,Female,100,Snapchat,6,Nothing,Hawaii,Vermont,6,20,artichokes,19,Undecided,,0,0,0,0,2,,10,None,Yes,No,No,5
+556962,Male,3000,Twitter,20,Nothing,Texas,Delaware,2,4,turkey sandwich,18,Nursing,,0,30,0,0,100,100000,36,Independent,Yes,Yes,Yes,10
+556965,Female,100,Snapchat,6.5,Nothing,Michigan,Mississippi,9,10,Pizza,18,Kinesiology,41000,0,0,10000,0,1,100000,0.2,Democrat,Yes,Yes,No,4
+556970,Female,20,Facebook,3,Nothing,California,Oregon,3,1,chow mein,18,Undecided,,0,0,0,0,4,,,Republican,Yes,No,No,4
+556971,Male,100,Snapchat,8,Nothing,Hawaii,North Dakota,1,2,Chicken Alfredo,19,Business Administration and Management,40000,1,17,1000,0,16,6000,5,Republican,Yes,Yes,Yes,3
+556985,Female,8,Facebook,6,Nothing,California,New Mexico,5,3,spaghetti,19,Undecided,30000,0,20,0,0,2,2000,0.2,None,Yes,No,No,8
+556993,Female,40,Snapchat,8,Nothing,Colorado,Arizona,3,6,chinese food,19,"Crime, Law, and Justice",14,0,0,24000,1,1,8000,0,Independent,Yes,No,No,6
+557015,Female,70,Instagram,25,Nothing,Hawaii,Nevada,11,30,Ice Cream,18,Psychology,40000,0,0,10000,0,4,10000,5,Republican,No,No,Yes,5
+557022,Male,15,Other,3,Nothing,Wisconsin,,3,10,Pizza,18,Agricultural Business Management,20000,0,0,5000,0,4,100000,12,Independent,Yes,Yes,No,4
+557023,Female,5,Facebook,2,Nothing,Kentucky,Idaho,10,2,golden grahams cereal,18,Kinesiology,45000,0,0,0,0,1,5000,5,Republican,Yes,Yes,No,5
+557035,Female,300,Instagram,7,Nothing,Georgia,Connecticut,12,,,,,,,,,,,,,,,,,
+557038,Male,10,Snapchat,10,Nothing,California,Missouri,10,4,pizza,21,Electrical Engineering,2000000,3,0,0,0,10,1000000,0,None,Yes,Yes,No,10
+557051,Female,80,Snapchat,5,Nothing,New York,Texas,9,15,Sushi,19,Undecided,15,0,12,20000,0,1,5000,5,Democrat,Yes,Yes,No,5
+557054,Male,50,Twitter,15,Nothing,California,Alaska,5,20,mexican food,17,Business Administration and Management,60000,0,0,80000,0,25,2000,2,None,,No,No,7
+557056,Male,25,Snapchat,5,Nothing,Hawaii,South Dakota,5,10,burrito,19,Business Administration and Management,70000,0,0,0,1,4,10000,10,None,No,No,No,8
+557057,Female,100,Twitter,3,Nothing,California,Alabama,10,20,Pasta,18,Undecided,50000,0,0,0,0,3,5000,10,Independent,Yes,Yes,Yes,7
+557060,Female,80,Snapchat,3,Nothing,California,New Mexico,10,50,Ice cream,19,Nursing,65000,0,0,27000,0,2,6000,20,None,Yes,Yes,No,5
+557065,Male,106,Youtube,1,Nothing,Oregon,Connecticut,2,0,Nachos,18,Studio Art,32000,0,0,23800,1,1,27000,10,None,Yes,Yes,No,9
+557071,Female,15,Snapchat,4,Nothing,California,Arizona,3,3,,18,Undecided,,0,0,20000,0,3,100000,5,None,Yes,Yes,Yes,6
+557073,Female,50,Snapchat,10,Nothing,New York,Indiana,6,6,Mexican,19,English,100000,0,0,0,0,2,300000,10,Democrat,Yes,Yes,Yes,1
+557075,Female,20,Snapchat,10,Nothing,Arizona,,1,0,pizza,19,Political Science,11,0,8,8000,0,3,,,Democrat,Yes,Yes,Yes,6
+557077,Female,20,Instagram,12,Nothing,Hawaii,Nevada,3,2,pretzels,19,Biology,30000,0,0,30000,0,1,10000,0,None,No,Yes,No,6
+557082,Female,100,Snapchat,4,Nothing,Oregon,Washington,30,100,banana 'ice cream',21,Mathematics,25000,0,10,40000,2,4,1000,30,Democrat,Yes,Yes,Yes,9
+557088,Male,50,Twitter,0,Cigarettes,New York,South Dakota,4,20,Pizza,19,Finance,3000,1,0,0,0,5,30000,3,Democrat,Yes,Yes,Yes,4
+557089,Male,10,Snapchat,6,Nothing,California,Texas,6,1,sushi,19,Undecided,1,0,0,0,0,10,1000000,1,Democrat,Yes,Yes,,8
+557092,Female,100,Instagram,0,Nothing,Illinois,Missouri,5,50,Sushi,19,Studio Art,40000,1,0,3000,0,2,10000,5,Democrat,Yes,No,No,5
+557093,Female,30,Twitter,6,Nothing,Hawaii,Iowa,4,8,tuna sandwich,18,Biochemistry,100000,0,4,12000,0,6,50000,5,Republican,Yes,Yes,Yes,5
+557121,Female,50,Snapchat,6,Nothing,Hawaii,Arkansas,7,300,Anything Italian !,17,Nursing,90000,0,0,20000,0,0,10000,10,None,Yes,No,No,7
+557134,Female,50,Facebook,2,Nothing,Oregon,Nevada,6,6,Sushi,21,Business Administration and Management,45000,0,30,40000,16,2,25000,15,Democrat,No,Yes,No,4
+557138,Male,200,Snapchat,7,Cigarettes,South Carolina,Wisconsin,20,12,chicken and rice bowls,21,Accounting,65000,0,15,2000,0,4,1000,0,None,Yes,Yes,Yes,8
+557144,Female,100,Instagram,8,Nothing,Colorado,Utah,7,10,Pasta,19,Nutrition,30000,0,15,15000,0,4,10000,0,Independent,No,No,Yes,5
+557148,Male,10,Twitter,12,Nothing,California,Utah,4,8,Pizza,18,Business Administration and Management,50000,0,0,0,0,4,0,70,Other,Yes,No,No,6
+557151,Female,12,,0,Nothing,Hawaii,Nevada,1,0,Chinese,18,Undecided,30000,0,0,0,0,9,1000,0,Democrat,Yes,No,No,5
+557156,Female,3,Snapchat,6,Nothing,Hawaii,Arkansas,2,0,enchiladas,18,Social Work,30000,0,25,4000,0,1,2000,20,Democrat,Yes,No,Yes,9
+557158,Male,50,Instagram,3,Nothing,California,Alabama,7,50,Pizza,19,Psychology,40000,0,0,0,1,4,3500,5,None,Yes,Yes,Yes,9
+557166,Female,10,Snapchat,1,Nothing,Michigan,Washington,7,16,Pho,18,Political Science,36000,0,0,0,0,3,13000,35,Democrat,Yes,No,No,7
+557173,Female,50,Snapchat,0,Nothing,New York,Kansas,1,1,Cheeseburgers,18,Theater,0,0,0,10000,0,1,30000,50,None,No,Yes,No,9
+557176,Female,50,Instagram,3,Nothing,Hawaii,New Jersey,1,2,any type of spicy food,23,Sociology,25000,0,0,20000,1,2,0,10,Democrat,Yes,Yes,Yes,10
+557177,Male,1,None,12,Nothing,,,1,4,NA,21,,45000,0,0,80000,0,26,0,20,None,Yes,No,No,7
+557183,Female,300,Snapchat,3,Nothing,California,Delaware,1,4,Ramen,19,Business Administration and Management,21000,0,0,16000,2,1,5000,5,Democrat,Yes,No,No,4
+557184,Female,300,Twitter,14,Nothing,California,Arizona,4,200,Mexican,20,Undecided,20,2,0,25000,0,1,25000,5,None,No,No,No,1
+557187,Male,30,Facebook,10,Nothing,Massachusetts,Montana,7,50,Pizza,27,Kinesiology,75000,2,30,10000,2,15,10000,5,Independent,Yes,Yes,Yes,10
+557190,Female,50,Snapchat,4,Nothing,California,Alabama,4,6,pizza,18,,,0,0,25000,0,2,,,None,No,Yes,No,5
+557191,Female,40,Snapchat,10,E-cigarettes,California,Wisconsin,12,70,Chicken,20,Business Administration and Management,60000,15,0,20000,1,0,50000,20,Republican,Yes,Yes,Yes,5
+557193,Male,55,Snapchat,10,Nothing,Illinois,,3,3,pizza,20,Business Administration and Management,35000,0,17,10000,0,5,5000,5,Democrat,Yes,Yes,Yes,7
+557200,Male,10,Youtube,5,Nothing,New York,Missouri,4,4,Key Lime Pie,17,Undecided,41000,0,0,20000,0,2,1000,5,Other,No,Yes,No,3
+557201,Female,200,,28,Nothing,Maryland,California,35,6,pizza,18,Kinesiology,15,0,36,16000,4,0,1000000,0,Democrat,No,Yes,No,8
+557202,Female,100,Snapchat,6,Nothing,California,Wyoming,4,16,mexican food,18,Nursing,40000,0,0,5000,1,4,15000,2,Democrat,Yes,Yes,No,2
+557203,Male,20,Snapchat,5,Nothing,California,Arizona,5,4,My favorite food is hamburgers.,20,Economics,40000,0,12,10000,0,5,30000,3,Democrat,Yes,Yes,No,8
+557211,Female,100,Instagram,3,Nothing,Kansas,Georgia,1,10,pizza,10,Animal Sciences,,0,0,,0,1,,2,Democrat,Yes,Yes,No,4
+557212,Male,20,Snapchat,8,Nothing,Hawaii,California,1,5,pizza,19,Kinesiology,15,1,0,15000,0,12,6000,0,Democrat,Yes,Yes,Yes,7
+557213,Male,20,Snapchat,8,Nothing,Hawaii,California,1,5,pizza,19,Kinesiology,15,1,0,15000,0,12,6000,0,Democrat,Yes,Yes,Yes,7
+557217,Female,100,Snapchat,8,Nothing,California,Arizona,7,20,Pizza,19,,20,0,29,3500,0,5,5000,0,Democrat,Yes,Yes,No,1
+557219,Female,40,Snapchat,6,Nothing,Oregon,Wisconsin,8,2,pizza,18,Public Relations,,0,20,0,0,0,,,Republican,Yes,Yes,No,5
+557220,Female,20,Facebook,0,Nothing,Hawaii,Alaska,10,12,Chinese food,21,Journalism,30000,1,35,30000,0,3,10000,0,Independent,No,No,No,1
+557222,Female,1,Twitter,1,Nothing,California,Arizona,3,12,Thai food,17,Nursing,60000,1,0,15000,0,5,500000,10,Democrat,Yes,No,No,7
+557223,Female,100,Twitter,5,Nothing,California,Arizona,3,3,Pizza,18,Nursing,0,0,0,25000,0,1,1500,1,None,Yes,No,No,5
+557225,,10,Youtube,7,Nothing,Nevada,Arizona,3,0,pasta,18,Undecided,0,0,20,7000,0,1,0,10,None,Yes,Yes,No,4
+557226,Female,60,Instagram,3,,California,,2,0,"seafood,shrimp.",18,Nursing,15,0,0,40000,0,2,35000,2,Democrat,Yes,Yes,No,4
+557233,Male,50,Snapchat,5,Nothing,Florida,Kansas,8,20,mexican,19,Business Administration and Management,40000,0,0,0,0,12,0,5,Democrat,Yes,Yes,Yes,8
+557234,Male,10,Facebook,0,Cigarettes,California,Alabama,5,50,pizza,22,Business Administration and Management,0,2,2,0,0,2,0,0,Independent,,No,Yes,5
+557235,Female,200,Snapchat,4,Nothing,California,Alabama,1,10,pizza,17,Nursing,50000,1,0,100000,0,5,,0,Democrat,Yes,Yes,Yes,5
+557238,Male,50,Instagram,5,Nothing,Hawaii,Colorado,6,30,pizza,20,Business Administration and Management,60000,1,20,0,0,10,1000,5,Republican,Yes,Yes,No,7
+557239,Female,100,Twitter,10,Nothing,California,Iowa,2,0,ice cream,18,Undecided,30000,1,30,60000,0,3,1000,20,Democrat,Yes,Yes,Yes,4
+557240,Female,4,Twitter,5,Nothing,California,Utah,2,1,Mexican Food,19,Business Administration and Management,100000,1,25,0,0,1,10000,10,None,No,Yes,Yes,5
+557242,Female,120,Facebook,6,Nothing,,,1,3,Ribs,19,Animal Sciences,1500,1,0,120000,1,4,30000,10,Democrat,Yes,No,Yes,7
+557245,Male,100,,4,Nothing,California,North Dakota,3,7,Wings,20,Information Sciences and Technology,40000,0,20,0,0,14,1000,8,Other,Yes,No,Yes,7
+557246,Male,100,Snapchat,6,Nothing,Maryland,Texas,8,4,chicken,19,"Crime, Law, and Justice",70000,0,0,15000,0,24,70000,2,Democrat,Yes,Yes,Yes,7
+557247,Male,20,None,3,Nothing,California,Iowa,19,25,food,21,Mechanical Engineering,80000,0,0,0,0,3,0,0,Republican,Yes,Yes,No,10
+557250,Female,150,Snapchat,1,Nothing,California,Delaware,4,50,Hot cheetos with cream cheese,19,Computer Science,70000,0,0,0,0,2,500000,0,Other,No,No,Yes,5
+557252,Male,100,Snapchat,10,Nothing,California,Michigan,8,5,lumpia,18,Nursing,0,0,0,0,1,3,20,10,None,Yes,Yes,Yes,4
+557258,Female,50,Twitter,10,Nothing,Florida,New Mexico,1,3,enchiladas,19,"Crime, Law, and Justice",50000,0,20,12000,0,5,0,0,Democrat,Yes,No,Yes,5
+557260,Female,75,Snapchat,6,E-cigarettes,California,Nebraska,10,22,japanese curry with chicken katsu and white rice,17,Nursing,25000,0,0,20000,0,2,5000,5,Democrat,Yes,Yes,No,5
+557378,Male,10,Google,4,Nothing,California,Maine,5,8,Tacos,34,Electrical Engineering,65000,1,10,10000,2,2,100000,1,Republican,Yes,No,No,1
+558090,Male,10,,7,Nothing,California,Alabama,2,2,Pasta Alfredo,18,Animal Sciences,36000,0,0,30000,0,12,12000,0.5,None,No,No,No,3
+558223,Male,10,Google,4,Nothing,California,Maine,5,8,Tacos,34,Electrical Engineering,65000,1,24,20000,2,24,1000,1,Republican,Yes,No,No,1
+558272,Male,20,Snapchat,6,Nothing,California,Rhode Island,8,50,Ravioli,18,Business Administration and Management,0,0,4,0,0,8,1000000,0,Republican,No,Yes,No,7
+558341,Female,100,Instagram,2,Nothing,Hawaii,Wisconsin,6,20,flan steak and Gorgonzola butter,19,Children,70000,0,15,0,1,2,25000,10,None,No,No,No,7.5
+558344,Female,5,Twitter,10,Cigarettes,Hawaii,Alabama,7,0,pizza,20,Business Administration and Management,100000,3,20,0,0,2,20000,20,Other,Yes,Yes,Yes,4
+558383,Male,20,Facebook,1,Nothing,Oregon,New Jersey,50,200,Mushroom Risotto,22,Biology,85000,1,0,0,0,12,10000,20,Republican,Yes,Yes,Yes,6
+558415,Female,140,Snapchat,6,Nothing,New York,Iowa,5,8,pasta,17,Nursing,40000,0,14,,0,10,40000,,Democrat,No,Yes,Yes,6
+558425,Female,50,Snapchat,4,Nothing,California,Arizona,2,2,Ceviche,18,Children,40000,0,15,8000,0,1,10000,5,Independent,Yes,Yes,Yes,4
+559361,Female,200,,10,Nothing,California,Montana,5,10,salmon,18,Kinesiology,50000,1,0,0,0,5,10000,5,Democrat,No,No,Yes,8
+559564,Male,10,Instagram,10,E-cigarettes,,,8,2,tacos,18,Agriculture,100000,0,0,0,0,12,150000,0,Other,Yes,No,Yes,7
+559684,Female,100,Snapchat,5,Nothing,California,Arizona,4,6,mexican,19,Kinesiology,13,0,0,20000,,3,10000,5,None,No,Yes,,6
+559817,Female,50,Twitter,2,Nothing,Florida,Wisconsin,3,1,Chinese food,17,Psychology,25000,0,60,5000,0,2,3000,40,Democrat,Yes,Yes,No,8
+559874,Female,20,Snapchat,5,Nothing,Texas,Colorado,7,20,Pizza,20,English,15,0,0,100000,0,2,20000,0,Democrat,Yes,No,No,3
+559884,Male,75,Instagram,10,Nothing,California,Oklahoma,12,20,steak and potatoes,19,Undecided,50000,0,0,0,0,5,20000,10,Republican,Yes,No,Yes,6
+559918,Female,20,Instagram,4,Nothing,California,Kansas,10,25,sushi,18,Studio Art,53000,0,0,0,0,2,26000,2,Independent,No,Yes,Yes,5
+560024,Female,40,Instagram,4,Nothing,Hawaii,Arkansas,7,40,chicken,19,Undecided,30000,0,12,0,5,5,10000,5,Republican,No,Yes,No,3
+560031,Female,50,Twitter,3,Nothing,New York,Arizona,11,30,seafood,19,Undecided,,0,0,,0,1,,10,Democrat,Yes,No,Yes,5
+560047,Female,100,Snapchat,5,Nothing,Colorado,New Mexico,18,6,Caesar Salad,19,Kinesiology,70000,0,0,22000,0,2,10000,15,Independent,Yes,No,No,3
+560599,Female,30,Facebook,12,Nothing,Washington,California,3,0,Mexican food,18,Political Science,3000,1,0,0,0,3,400,100,Independent,Yes,Yes,No,8
+560890,Male,10,Facebook,0,Cigarettes,California,California,1,2,italian,19,Nursing,50000,3,30,25000,1,12,10000,1,Democrat,Yes,Yes,No,1
+561029,Female,100,Instagram,14,Nothing,California,New York,4,18,pizza,17,Geography,15000,0,0,5000,0,0,7000,5,Other,No,Yes,Yes,8
+561214,Female,75,Snapchat,3,Nothing,California,Nebraska,7,4,Sushi,18,Business Administration and Management,30000,0,0,24000,0,2,5000,10,Democrat,Yes,No,Yes,5
+561233,Male,80,Snapchat,10,Nothing,California,Kentucky,3,3,chinese,18,Business Administration and Management,25,1,10,6000,0,30,40000,2,Democrat,Yes,Yes,No,10
+562794,Male,50,Facebook,12,Nothing,California,Texas,10,15,Thai Food,18,Computer Science,100000,1,15,0,1,8,200000,10,Democrat,Yes,Yes,No,7
+563097,Female,20,Facebook,0,Nothing,California,Texas,2,4,Shrimp,18,History,40000,0,0,20000,0,5,15000,10,Democrat,,Yes,Yes,8
+563134,Female,50,Facebook,10,Nothing,Hawaii,,5,3,pizza,17,Psychology,50000,0,0,5000,0,20,50000,10,None,Yes,Yes,No,4
+563541,Female,300,Snapchat,7,Nothing,Hawaii,Mississippi,10,45,mexican food,21,Nursing,50000,2,30,20000,2,4,0,0,Democrat,Yes,Yes,No,1
+563713,Female,30,Instagram,5,Nothing,Utah,Arizona,4,10,Mediterranean Food,21,Kinesiology,50000,0,10,6000,0,2,10000,7,None,Yes,Yes,No,5
+563736,Male,45,Instagram,21,Nothing,California,Alabama,5,0,steak,10,Business Administration and Management,100000,0,0,0,0,50,10000,15,Democrat,Yes,Yes,Yes,6
+564049,Male,100,Twitter,8,Nothing,California,Kansas,5,20,chicken wings,19,Business Administration and Management,75000,1,15,10000,1,4,20000,10,Republican,Yes,No,Yes,8
+564140,Female,100,Instagram,2,Nothing,Hawaii,Colorado,6,12,corndogs,10,Business Administration and Management,,0,0,,0,4,6000,,Independent,Yes,Yes,No,4
+564152,Female,100,Instagram,2,Nothing,Hawaii,Utah,6,24,corn dogs,19,Business Administration and Management,,0,0,25000,0,4,,,Independent,Yes,Yes,No,4
+564153,Female,100,Instagram,2,Nothing,Hawaii,Utah,6,24,corn dogs,19,Business Administration and Management,,0,0,25000,0,4,,,Independent,Yes,Yes,No,4
+564637,Male,6,Facebook,8,Nothing,California,Florida,3,6,Sushi,20,Accounting,40000,0,0,9000,0,5,0,30,Democrat,No,No,No,10
+565536,Female,200,,5,Nothing,Texas,Utah,5,12,I love all food but mexican food is my favorite.,20,Social Work,16000,0,0,5000,0,1,10000,0,Democrat,Yes,Yes,Yes,8
+565780,Male,25,Twitter,15,Nothing,Arizona,Iowa,12,20,Pizza,18,Business Administration and Management,100000,1,0,0,0,6,100000,10,Republican,Yes,Yes,Yes,10
+566763,Male,100,Instagram,7,Nothing,Hawaii,Kentucky,5,20,tuna,19,Music Education,100000,1,0,0,0,20,500000,0,None,Yes,Yes,Yes,7
+569880,Male,100,Twitter,15,Nothing,California,Wyoming,3,10,pizza,18,Undecided,100000,0,36,0,0,30,5000,0,Republican,Yes,Yes,No,5

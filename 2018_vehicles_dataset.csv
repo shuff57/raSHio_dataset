@@ -1,0 +1,1274 @@
+Mfr Name,Division,Carline,Hybrid (Y/N),# Cyl,City FE (MPG),Hwy FE (MPG),Comb FE (MPG),Guzzler?,Transmission,# Gears,Drive Desc,Annual Fuel Cost,Type,FE Rating (1-10 rating on Label),GHG Rating (1-10 rating on Label),Smog Rating (Mfr Smog 1-10 Rating on Label),$ You Spend over 5 years,Tailpipe_CO2
+Honda,Acura,NSX,N,6,21,22,21,N,Manual,9,All Wheel Drive,2000,Car,4,4,3,3250,420
+Honda,Acura,ILX,N,4,25,35,29,N,Manual,8,"2-Wheel Drive, Front",1450,Car,6,6,3,500,309
+Honda,Acura,TLX AWD,N,6,21,30,24,N,Automatic,9,All Wheel Drive,1750,Car,5,5,3,2000,369
+Honda,Acura,TLX AWD A-SPEC,N,6,20,29,23,N,Automatic,9,All Wheel Drive,1850,Car,5,5,3,2500,387
+Honda,Acura,TLX FWD,N,4,23,33,27,N,Manual,8,"2-Wheel Drive, Front",1550,Car,6,6,3,1000,330
+Honda,Acura,TLX FWD,N,6,20,32,24,N,Automatic,9,"2-Wheel Drive, Front",1750,Car,5,5,3,2000,368
+Honda,Acura,TLX FWD A-SPEC,N,6,20,30,23,N,Automatic,9,"2-Wheel Drive, Front",1850,Car,5,5,3,2500,382
+Honda,Acura,RLX,N,6,28,29,28,N,Manual,7,All Wheel Drive,1500,Car,6,6,7,750,316
+Honda,Acura,RLX,N,6,20,29,23,N,Automatic,10,"2-Wheel Drive, Front",1850,Car,5,5,3,2500,383
+Honda,Acura,MDX FWD,N,6,19,27,22,NA,Automatic,9,"2-Wheel Drive, Front",1900,SUV,4,4,3,2750,404
+Honda,Acura,MDX FWD,N,6,20,27,23,NA,Automatic,9,"2-Wheel Drive, Front",1850,SUV,5,5,3,2500,390
+Honda,Acura,RDX FWD,N,6,20,28,23,NA,Automatic,6,"2-Wheel Drive, Front",1850,SUV,5,5,3,2500,386
+Honda,Acura,MDX AWD,N,6,26,27,27,NA,Manual,7,All Wheel Drive,1550,SUV,6,6,3,1000,330
+Honda,Acura,MDX AWD,N,6,19,26,22,NA,Automatic,9,All Wheel Drive,1900,SUV,4,4,3,2750,404
+Honda,Acura,MDX AWD,N,6,18,26,21,NA,Automatic,9,All Wheel Drive,2000,SUV,4,4,3,3250,424
+Honda,Acura,RDX AWD,N,6,19,27,22,NA,Automatic,6,All Wheel Drive,1900,SUV,4,4,3,2750,402
+FCA US LLC,ALFA ROMEO,4C,N,4,24,34,28,N,Manual,6,"2-Wheel Drive, Rear",1500,Car,6,6,1,750,317
+FCA US LLC,ALFA ROMEO,Giulia,N,4,24,33,27,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,6,6,3,1000,330
+FCA US LLC,ALFA ROMEO,Giulia,N,6,17,24,20,N,Automatic,8,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,451
+FCA US LLC,ALFA ROMEO,Giulia AWD,N,4,23,31,26,N,Automatic,8,All Wheel Drive,1600,Car,5,5,3,1250,348
+FCA US LLC,ALFA ROMEO,Stelvio AWD,N,4,22,28,24,NA,Automatic,8,All Wheel Drive,1750,SUV,5,5,3,2000,364
+FCA US LLC,ALFA ROMEO,Stelvio AWD,N,6,17,23,19,NA,Automatic,8,All Wheel Drive,2200,SUV,3,3,3,4250,470
+aston martin,Aston Martin Lagonda Ltd,"Vanquish, S and Zagato",N,12,13,21,16,Y,Automatic,8,"2-Wheel Drive, Rear",2600,Car,2,2,3,6250,555
+aston martin,Aston Martin Lagonda Ltd,Rapide S,N,12,14,21,17,Y,Automatic,8,"2-Wheel Drive, Rear",2450,Car,3,3,3,5500,533
+aston martin,Aston Martin Lagonda Ltd,DB11 V12,N,12,15,21,17,N,Automatic,8,"2-Wheel Drive, Rear",2450,Car,3,3,3,5500,497
+aston martin,Aston Martin Lagonda Ltd,DB11 V8,N,8,18,24,20,N,Automatic,8,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,431
+Volkswagen Group of,Audi,R8 AWD,N,10,14,22,17,Y,Manual,7,All Wheel Drive,2450,Car,3,3,1,5500,531
+Volkswagen Group of,Audi,R8 RWD,N,10,14,25,18,Y,Manual,7,"2-Wheel Drive, Rear",2350,Car,3,3,1,5000,497
+Volkswagen Group of,Audi,R8 Spyder AWD,N,10,14,22,17,Y,Manual,7,All Wheel Drive,2450,Car,3,3,1,5500,531
+Volkswagen Group of,Audi,R8 Spyder RWD,N,10,14,25,18,Y,Manual,7,"2-Wheel Drive, Rear",2350,Car,3,3,1,5000,497
+Volkswagen Group of,Audi,RS7,N,8,14,24,17,Y,Automatic,8,All Wheel Drive,2450,Car,3,3,3,5500,512
+Volkswagen Group of,Audi,TT Roadster quattro,N,4,23,30,26,N,Manual,6,All Wheel Drive,1400,Car,5,5,7,250,336
+Volkswagen Group of,Audi,A3,N,4,26,35,29,N,Manual,7,"2-Wheel Drive, Front",1250,Car,6,6,7,500,303
+Volkswagen Group of,Audi,A3 Cabriolet,N,4,25,33,28,N,Manual,7,"2-Wheel Drive, Front",1300,Car,6,6,7,250,315
+Volkswagen Group of,Audi,A3 Cabriolet quattro,N,4,22,30,25,N,Manual,6,All Wheel Drive,1450,Car,5,5,7,500,359
+Volkswagen Group of,Audi,A3 quattro,N,4,24,31,27,N,Manual,6,All Wheel Drive,1350,Car,6,6,7,0,330
+Volkswagen Group of,Audi,A5 Cabriolet quattro,N,4,24,34,27,N,Manual,7,All Wheel Drive,1550,Car,6,6,5,1000,327
+Volkswagen Group of,Audi,A5 quattro,N,4,24,34,27,N,Manual,7,All Wheel Drive,1550,Car,6,6,5,1000,327
+Volkswagen Group of,Audi,A5 quattro,N,4,24,33,27,N,Manual,6,All Wheel Drive,1550,Car,6,6,3,1000,327
+Volkswagen Group of,Audi,RS3,N,5,19,28,22,N,Manual,7,All Wheel Drive,1900,Car,4,4,3,2750,399
+Volkswagen Group of,Audi,RS5,N,6,18,26,21,N,Manual,8,All Wheel Drive,2000,Car,4,4,5,3250,419
+Volkswagen Group of,Audi,S3,N,4,22,28,25,N,Manual,7,All Wheel Drive,1700,Car,5,5,3,1750,359
+Volkswagen Group of,Audi,S5,N,6,21,30,24,N,Manual,8,All Wheel Drive,1750,Car,5,5,5,2000,374
+Volkswagen Group of,Audi,S5 Cabriolet,N,6,20,29,23,N,Manual,8,All Wheel Drive,1850,Car,5,5,5,2500,384
+Volkswagen Group of,Audi,TT Coupe quattro,N,4,23,30,26,N,Manual,6,All Wheel Drive,1400,Car,5,5,7,250,336
+Volkswagen Group of,Audi,TT RS,N,5,19,29,22,N,Manual,7,All Wheel Drive,1900,Car,4,4,3,2750,395
+Volkswagen Group of,Audi,TTS Coupe,N,4,23,27,25,N,Manual,6,All Wheel Drive,1700,Car,5,5,3,1750,358
+Volkswagen Group of,Audi,A4 quattro,N,4,24,34,27,N,Manual,7,All Wheel Drive,1550,Car,6,6,5,1000,327
+Volkswagen Group of,Audi,A4 quattro,N,4,24,33,27,N,Manual,6,All Wheel Drive,1550,Car,6,6,3,1000,327
+Volkswagen Group of,Audi,A4 Ultra,N,4,27,37,31,N,Manual,7,"2-Wheel Drive, Front",1350,Car,7,7,3,0,284
+Volkswagen Group of,Audi,Q3,N,4,20,28,23,N,Automatic,6,"2-Wheel Drive, Front",1850,Car,5,5,3,2500,380
+Volkswagen Group of,Audi,Q3 quattro,N,4,20,28,23,N,Automatic,6,All Wheel Drive,1850,Car,5,5,3,2500,387
+Volkswagen Group of,Audi,S4,N,6,21,30,24,N,Manual,8,All Wheel Drive,1750,Car,5,5,5,2000,374
+Volkswagen Group of,Audi,A5 Sportback quattro,N,4,24,34,27,N,Manual,7,All Wheel Drive,1550,Car,6,6,5,1000,327
+Volkswagen Group of,Audi,A6,N,4,25,34,28,N,Manual,7,"2-Wheel Drive, Front",1500,Car,6,6,5,750,311
+Volkswagen Group of,Audi,A6 quattro,N,4,22,31,26,N,Automatic,8,All Wheel Drive,1600,Car,5,5,5,1250,347
+Volkswagen Group of,Audi,A6 quattro,N,6,20,29,23,N,Automatic,8,All Wheel Drive,1850,Car,5,5,3,2500,378
+Volkswagen Group of,Audi,A7 quattro,N,6,20,29,23,N,Automatic,8,All Wheel Drive,1850,Car,5,5,3,2500,378
+Volkswagen Group of,Audi,S5 Sportback,N,6,21,30,24,N,Manual,8,All Wheel Drive,1750,Car,5,5,5,2000,374
+Volkswagen Group of,Audi,S6,N,8,16,24,18,N,Manual,7,All Wheel Drive,2350,Car,3,3,3,5000,480
+Volkswagen Group of,Audi,S7,N,8,16,24,18,N,Manual,7,All Wheel Drive,2350,Car,3,3,3,5000,480
+Volkswagen Group of,Audi,S8,N,8,14,24,18,N,Automatic,8,All Wheel Drive,2350,Car,3,3,3,5000,503
+Volkswagen Group of,Audi,A8L,N,6,19,29,22,N,Automatic,8,All Wheel Drive,1900,Car,4,4,3,2750,397
+Volkswagen Group of,Audi,A8L,N,8,16,26,19,N,Automatic,8,All Wheel Drive,2200,Car,3,3,3,4250,466
+Volkswagen Group of,Audi,allroad quattro,N,4,22,30,25,NA,Manual,7,All Wheel Drive,1700,Station Wagon,5,5,5,1750,350
+Volkswagen Group of,Audi,Q5,N,4,23,27,25,NA,Automatic,7,All Wheel Drive,1700,SUV,5,5,3,1750,363
+Volkswagen Group of,Audi,SQ5,N,6,19,24,21,NA,Manual,8,All Wheel Drive,2000,SUV,4,4,5,3250,434
+Volkswagen Group of,Audi,Q7,N,4,19,25,21,NA,Automatic,8,All Wheel Drive,2000,SUV,4,4,3,3250,415
+Volkswagen Group of,Audi,Q7,N,6,19,25,21,NA,Automatic,8,All Wheel Drive,2000,SUV,4,4,3,3250,419
+Volkswagen Group of,Bentley,Continental GT Convertible,N,12,12,20,14,Y,Automatic,8,All Wheel Drive,3000,Car,1,1,1,8250,627
+Volkswagen Group of,Bentley,Continental Supersports Convt,N,12,12,20,14,Y,Automatic,8,All Wheel Drive,3000,Car,1,1,1,8250,627
+Volkswagen Group of,Bentley,Flying Spur,N,8,13,22,16,Y,Automatic,8,All Wheel Drive,2600,Car,2,2,3,6250,568
+Volkswagen Group of,Bentley,Flying Spur,N,12,12,20,14,Y,Automatic,8,All Wheel Drive,3000,Car,1,1,1,8250,627
+Volkswagen Group of,Bentley,Mulsanne,N,8,11,18,14,Y,Automatic,8,"2-Wheel Drive, Rear",3000,Car,1,1,1,8250,652
+Volkswagen Group of,Bentley,Bentayga,N,12,12,19,15,NA,Automatic,8,All Wheel Drive,2800,SUV,2,2,3,7250,596
+BMW,BMW,M6 Convertible,N,8,14,20,16,Y,Manual,7,"2-Wheel Drive, Rear",2600,Car,2,2,1,6250,553
+BMW,BMW,M6 Convertible,N,8,15,22,17,Y,Manual,6,"2-Wheel Drive, Rear",2450,Car,3,3,1,5500,522
+BMW,BMW,M6 Gran Coupe,N,8,14,20,16,Y,Manual,7,"2-Wheel Drive, Rear",2600,Car,2,2,1,6250,553
+BMW,BMW,M6 Gran Coupe,N,8,15,22,17,Y,Manual,6,"2-Wheel Drive, Rear",2450,Car,3,3,1,5500,522
+BMW,BMW,M5,N,8,15,21,17,Y,Automatic,8,All Wheel Drive,2450,Car,3,3,3,5500,521
+BMW,BMW,M760i xDrive,N,12,13,20,16,Y,Automatic,8,All Wheel Drive,2600,Car,2,2,3,6250,571
+BMW,BMW,M4 DTM Champions Edition,N,6,17,24,20,N,Manual,7,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,450
+BMW,BMW,230i Convertible,N,4,24,34,27,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,6,6,7,1000,324
+BMW,BMW,230i Coupe,N,4,24,35,28,N,Automatic,8,"2-Wheel Drive, Rear",1500,Car,6,6,7,750,318
+BMW,BMW,230i Coupe,N,4,21,32,25,N,Manual,6,"2-Wheel Drive, Rear",1700,Car,5,5,7,1750,360
+BMW,BMW,230i xDrive Convertible,N,4,23,33,27,N,Automatic,8,All Wheel Drive,1550,Car,6,6,7,1000,333
+BMW,BMW,230i xDrive Coupe,N,4,24,33,27,N,Automatic,8,All Wheel Drive,1550,Car,6,6,7,1000,325
+BMW,BMW,430i Convertible,N,4,24,34,27,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,6,6,7,1000,324
+BMW,BMW,430i xDrive Convertible,N,4,22,32,26,N,Automatic,8,All Wheel Drive,1600,Car,5,5,7,1250,343
+BMW,BMW,440i Convertible,N,6,21,29,24,N,Automatic,8,"2-Wheel Drive, Rear",1750,Car,5,5,3,2000,372
+BMW,BMW,440i xDrive Convertible,N,6,20,29,23,N,Automatic,8,All Wheel Drive,1850,Car,5,5,3,2500,382
+BMW,BMW,640i Convertible,N,6,20,29,23,N,Automatic,8,"2-Wheel Drive, Rear",1850,Car,5,5,3,2500,378
+BMW,BMW,640i xDrive Convertible,N,6,19,28,22,N,Automatic,8,All Wheel Drive,1900,Car,4,4,3,2750,396
+BMW,BMW,650i Convertible,N,8,17,25,20,N,Automatic,8,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,449
+BMW,BMW,650i xDrive Convertible,N,8,16,25,19,N,Automatic,8,All Wheel Drive,2200,Car,3,3,3,4250,463
+BMW,BMW,M2,N,6,20,26,22,N,Manual,7,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,395
+BMW,BMW,M2,N,6,18,26,21,N,Manual,6,"2-Wheel Drive, Rear",2000,Car,4,4,3,3250,430
+BMW,BMW,M240i Convertible,N,6,21,30,24,N,Automatic,8,"2-Wheel Drive, Rear",1750,Car,5,5,3,2000,362
+BMW,BMW,M240i Convertible,N,6,18,27,22,N,Manual,6,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,411
+BMW,BMW,M240i Coupe,N,6,21,30,24,N,Automatic,8,"2-Wheel Drive, Rear",1750,Car,5,5,3,2000,362
+BMW,BMW,M240i Coupe,N,6,19,28,22,N,Manual,6,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,401
+BMW,BMW,M240i xDrive Convertible,N,6,21,30,24,N,Automatic,8,All Wheel Drive,1750,Car,5,5,3,2000,365
+BMW,BMW,M240i xDrive Coupe,N,6,21,30,24,N,Automatic,8,All Wheel Drive,1750,Car,5,5,3,2000,365
+BMW,BMW,M4 Convertible,N,6,16,22,19,N,Manual,7,"2-Wheel Drive, Rear",2200,Car,3,3,3,4250,481
+BMW,BMW,M4 Convertible,N,6,17,25,20,N,Manual,6,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,450
+BMW,BMW,320i,N,4,24,35,28,N,Automatic,8,"2-Wheel Drive, Rear",1500,Car,6,6,3,750,323
+BMW,BMW,320i,N,4,23,35,27,N,Manual,6,"2-Wheel Drive, Rear",1550,Car,6,6,3,1000,326
+BMW,BMW,320i xDrive,N,4,23,34,27,N,Automatic,8,All Wheel Drive,1550,Car,6,6,3,1000,332
+BMW,BMW,328d,N,4,31,43,36,N,Automatic,8,"2-Wheel Drive, Rear",1100,Car,8,7,3,1250,285
+BMW,BMW,328d xDrive,N,4,30,40,34,N,Automatic,8,All Wheel Drive,1150,Car,8,6,3,1000,303
+BMW,BMW,330i,N,4,24,34,27,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,6,6,7,1000,324
+BMW,BMW,330i,N,4,21,32,25,N,Manual,6,"2-Wheel Drive, Rear",1700,Car,5,5,7,1750,360
+BMW,BMW,330i xDrive,N,4,23,33,27,N,Automatic,8,All Wheel Drive,1550,Car,6,6,7,1000,333
+BMW,BMW,340i,N,6,21,32,25,N,Automatic,8,"2-Wheel Drive, Rear",1700,Car,5,5,3,1750,352
+BMW,BMW,340i,N,6,19,29,23,N,Manual,6,"2-Wheel Drive, Rear",1850,Car,5,5,3,2500,389
+BMW,BMW,340i xDrive,N,6,21,31,25,N,Automatic,8,All Wheel Drive,1700,Car,5,5,3,1750,357
+BMW,BMW,340i xDrive,N,6,19,29,23,N,Manual,6,All Wheel Drive,1850,Car,5,5,3,2500,390
+BMW,BMW,430i Coupe,N,4,24,34,27,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,6,6,7,1000,324
+BMW,BMW,430i Coupe,N,4,21,33,25,N,Manual,6,"2-Wheel Drive, Rear",1700,Car,5,5,7,1750,351
+BMW,BMW,430i Gran Coupe,N,4,24,34,27,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,6,6,7,1000,324
+BMW,BMW,430i xDrive Coupe,N,4,23,33,27,N,Automatic,8,All Wheel Drive,1550,Car,6,6,7,1000,333
+BMW,BMW,430i xDrive Gran Coupe,N,4,23,33,27,N,Automatic,8,All Wheel Drive,1550,Car,6,6,7,1000,333
+BMW,BMW,440i Coupe,N,6,21,32,25,N,Automatic,8,"2-Wheel Drive, Rear",1700,Car,5,5,3,1750,352
+BMW,BMW,440i Coupe,N,6,19,29,23,N,Manual,6,"2-Wheel Drive, Rear",1850,Car,5,5,3,2500,389
+BMW,BMW,440i Gran Coupe,N,6,21,32,25,N,Automatic,8,"2-Wheel Drive, Rear",1700,Car,5,5,3,1750,352
+BMW,BMW,440i xDrive Coupe,N,6,21,31,25,N,Automatic,8,All Wheel Drive,1700,Car,5,5,3,1750,357
+BMW,BMW,440i xDrive Coupe,N,6,19,29,23,N,Manual,6,All Wheel Drive,1850,Car,5,5,3,2500,390
+BMW,BMW,440i xDrive Gran Coupe,N,6,21,31,25,N,Automatic,8,All Wheel Drive,1700,Car,5,5,3,1750,357
+BMW,BMW,640i Gran Coupe,N,6,20,29,23,N,Automatic,8,"2-Wheel Drive, Rear",1850,Car,5,5,3,2500,378
+BMW,BMW,640i xDrive Gran Coupe,N,6,19,28,22,N,Automatic,8,All Wheel Drive,1900,Car,4,4,3,2750,396
+BMW,BMW,650i Gran Coupe,N,8,17,25,20,N,Automatic,8,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,449
+BMW,BMW,650i xDrive Gran Coupe,N,8,16,25,19,N,Automatic,8,All Wheel Drive,2200,Car,3,3,3,4250,463
+BMW,BMW,Alpina B6 xDrive Gran Coupe,N,8,16,25,19,N,Automatic,8,All Wheel Drive,2200,Car,3,3,3,4250,463
+BMW,BMW,M3,N,6,17,24,20,N,Manual,7,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,450
+BMW,BMW,M3,N,6,17,25,20,N,Manual,6,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,439
+BMW,BMW,M3 CS,N,6,16,22,19,N,Manual,7,"2-Wheel Drive, Rear",2200,Car,3,3,3,4250,481
+BMW,BMW,M4 Coupe,N,6,17,24,20,N,Manual,7,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,450
+BMW,BMW,M4 Coupe,N,6,17,25,20,N,Manual,6,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,439
+BMW,BMW,530i,N,4,24,34,27,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,6,6,7,1000,324
+BMW,BMW,530i xDrive,N,4,23,33,27,N,Automatic,8,All Wheel Drive,1550,Car,6,6,7,1000,333
+BMW,BMW,540d xDrive,N,6,26,36,30,N,Automatic,8,All Wheel Drive,1300,Car,7,5,3,250,341
+BMW,BMW,540i,N,6,21,30,24,N,Automatic,8,"2-Wheel Drive, Rear",1750,Car,5,5,5,2000,367
+BMW,BMW,540i xDrive,N,6,20,29,23,N,Automatic,8,All Wheel Drive,1850,Car,5,5,5,2500,380
+BMW,BMW,M550i xDrive,N,8,16,25,19,N,Automatic,8,All Wheel Drive,2200,Car,3,3,3,4250,454
+BMW,BMW,X2 sDrive28i,N,4,23,32,26,N,Automatic,8,"2-Wheel Drive, Front",1600,Car,5,5,7,1250,341
+BMW,BMW,X2 xDrive28i,N,4,21,31,25,N,Automatic,8,All Wheel Drive,1700,Car,5,5,7,1750,357
+BMW,BMW,330i xDrive Gran Turismo,N,4,23,33,27,N,Automatic,8,All Wheel Drive,1550,Car,6,6,7,1000,333
+BMW,BMW,340i xDrive Gran Turismo,N,6,20,29,23,N,Automatic,8,All Wheel Drive,1850,Car,5,5,3,2500,382
+BMW,BMW,640i xDrive Gran Turismo,N,6,20,28,23,N,Automatic,8,All Wheel Drive,1850,Car,5,5,5,2500,388
+BMW,BMW,740i,N,6,21,29,24,N,Automatic,8,"2-Wheel Drive, Rear",1750,Car,5,5,3,2000,372
+BMW,BMW,740i xDrive,N,6,20,29,23,N,Automatic,8,All Wheel Drive,1850,Car,5,5,3,2500,382
+BMW,BMW,750i,N,8,17,25,20,N,Automatic,8,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,449
+BMW,BMW,750i xDrive,N,8,16,25,19,N,Automatic,8,All Wheel Drive,2200,Car,3,3,3,4250,463
+BMW,BMW,Alpina B7 xDrive,N,8,16,25,19,N,Automatic,8,All Wheel Drive,2200,Car,3,3,3,4250,463
+BMW,BMW,X1 sDrive28i,N,4,23,32,26,N,Automatic,8,"2-Wheel Drive, Front",1600,Car,5,5,7,1250,337
+BMW,BMW,X1 xDrive28i,N,4,22,31,25,N,Automatic,8,All Wheel Drive,1700,Car,5,5,7,1750,349
+BMW,BMW,328d xDrive Sports Wagon,N,4,30,40,34,NA,Automatic,8,All Wheel Drive,1150,Station Wagon,8,6,3,1000,303
+BMW,BMW,330i xDrive Sports Wagon,N,4,23,33,27,NA,Automatic,8,All Wheel Drive,1550,Station Wagon,6,6,7,1000,333
+BMW,BMW,X3 M40i,N,6,20,27,23,NA,Automatic,8,All Wheel Drive,1850,SUV,5,5,5,2500,388
+BMW,BMW,X3 xDrive30i,N,4,22,29,25,NA,Automatic,8,All Wheel Drive,1700,SUV,5,5,7,1750,359
+BMW,BMW,X4 M40i,N,6,18,25,21,NA,Automatic,8,All Wheel Drive,2000,SUV,4,4,3,3250,429
+BMW,BMW,X4 xDrive28i,N,4,20,28,23,NA,Automatic,8,All Wheel Drive,1850,SUV,5,5,3,2500,384
+BMW,BMW,X5 sDrive35i,N,6,18,25,21,NA,Automatic,8,"2-Wheel Drive, Rear",2000,SUV,4,4,3,3250,426
+BMW,BMW,X6 sDrive35i,N,6,18,25,21,NA,Automatic,8,"2-Wheel Drive, Rear",2000,SUV,4,4,3,3250,426
+BMW,BMW,X5 M,N,8,14,19,16,NA,Automatic,8,All Wheel Drive,2600,SUV,2,2,3,6250,549
+BMW,BMW,X5 xDrive 35d,N,6,23,29,25,NA,Automatic,8,All Wheel Drive,1600,SUV,5,4,3,1250,401
+BMW,BMW,X5 xDrive35i,N,6,18,24,20,NA,Automatic,8,All Wheel Drive,2100,SUV,4,4,3,3750,434
+BMW,BMW,X5 xDrive50i,N,8,15,21,17,NA,Automatic,8,All Wheel Drive,2450,SUV,3,3,3,5500,517
+BMW,BMW,X6 M,N,8,14,19,16,NA,Automatic,8,All Wheel Drive,2600,SUV,2,2,3,6250,549
+BMW,BMW,X6 xDrive35i,N,6,18,24,20,NA,Automatic,8,All Wheel Drive,2100,SUV,4,4,3,3750,434
+BMW,BMW,X6 xDrive50i,N,8,15,21,17,NA,Automatic,8,All Wheel Drive,2450,SUV,3,3,3,5500,517
+Volkswagen Group of,Bugatti,Chiron,N,16,9,14,11,Y,Manual,7,All Wheel Drive,3800,Car,1,1,5,12250,840
+General Motors,Buick,CASCADA,N,4,21,29,24,N,Automatic,6,"2-Wheel Drive, Rear",1750,Car,5,5,5,2000,373
+General Motors,Buick,LACROSSE,N,4,25,35,29,N,Automatic,6,"2-Wheel Drive, Front",1250,Car,6,6,5,500,306
+General Motors,Buick,LACROSSE,N,6,21,30,24,N,Automatic,9,"2-Wheel Drive, Front",1500,Car,5,5,5,750,367
+General Motors,Buick,LACROSSE AWD,N,6,20,29,23,N,Automatic,9,All Wheel Drive,1550,Car,5,5,5,1000,386
+General Motors,Buick,REGAL,N,4,22,32,26,N,Automatic,9,"2-Wheel Drive, Front",1600,Car,5,5,5,1250,344
+General Motors,Buick,REGAL AWD,N,4,21,29,24,N,Automatic,8,All Wheel Drive,1750,Car,5,5,5,2000,366
+General Motors,Buick,REGAL AWD,N,6,19,27,22,N,Automatic,9,All Wheel Drive,1650,Car,4,4,5,1500,403
+General Motors,Buick,REGAL TOURX  AWD,N,4,21,29,24,NA,Automatic,8,All Wheel Drive,1750,Station Wagon,5,5,5,2000,366
+General Motors,Buick,ENCORE,N,4,27,33,30,NA,Automatic,6,"2-Wheel Drive, Front",1200,SUV,7,7,3,750,298
+General Motors,Buick,ENCORE,N,4,25,33,28,NA,Automatic,6,"2-Wheel Drive, Front",1300,SUV,6,6,3,250,313
+General Motors,Buick,ENVISION FWD,N,4,22,29,25,NA,Automatic,6,"2-Wheel Drive, Front",1450,SUV,5,5,5,500,359
+General Motors,Buick,ENCORE AWD,N,4,24,30,27,NA,Automatic,6,All Wheel Drive,1350,SUV,6,6,3,0,335
+General Motors,Buick,ENCORE AWD,N,4,26,31,28,NA,Automatic,6,All Wheel Drive,1300,SUV,6,6,3,250,319
+General Motors,Buick,ENVISION AWD,N,4,20,26,22,NA,Automatic,6,All Wheel Drive,1900,SUV,4,4,3,2750,400
+General Motors,Buick,ENVISION AWD,N,4,21,27,24,NA,Automatic,6,All Wheel Drive,1500,SUV,5,5,5,750,377
+General Motors,Buick,ENCLAVE,N,6,18,26,21,NA,Automatic,9,"2-Wheel Drive, Front",1700,SUV,4,4,5,1750,423
+General Motors,Buick,ENCLAVE AWD,N,6,17,25,20,NA,Automatic,9,All Wheel Drive,1800,SUV,4,4,5,2250,446
+General Motors,Cadillac,CTS-V,N,8,14,21,17,Y,Automatic,8,"2-Wheel Drive, Rear",2450,Car,3,3,1,5500,530
+General Motors,Cadillac,ATS,N,4,22,31,25,N,Automatic,8,"2-Wheel Drive, Rear",1700,Car,5,5,5,1750,348
+General Motors,Cadillac,ATS,N,4,20,29,23,N,Manual,6,"2-Wheel Drive, Rear",1850,Car,5,5,5,2500,388
+General Motors,Cadillac,ATS,N,6,20,30,24,N,Automatic,8,"2-Wheel Drive, Rear",1500,Car,5,5,5,750,376
+General Motors,Cadillac,ATS AWD,N,4,22,30,25,N,Automatic,8,All Wheel Drive,1700,Car,5,5,5,1750,358
+General Motors,Cadillac,ATS AWD,N,6,19,27,22,N,Automatic,8,All Wheel Drive,1650,Car,4,4,5,1500,398
+General Motors,Cadillac,ATS-V,N,6,17,25,20,N,Automatic,8,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,469
+General Motors,Cadillac,ATS-V,N,6,16,23,19,N,Manual,6,"2-Wheel Drive, Rear",2200,Car,3,3,3,4250,474
+General Motors,Cadillac,CTS,N,4,22,30,25,N,Automatic,8,"2-Wheel Drive, Rear",1700,Car,5,5,5,1750,360
+General Motors,Cadillac,CTS,N,6,20,30,24,N,Automatic,8,"2-Wheel Drive, Rear",1500,Car,5,5,5,750,376
+General Motors,Cadillac,CTS,N,6,16,24,19,N,Automatic,8,"2-Wheel Drive, Rear",2200,Car,3,3,3,4250,488
+General Motors,Cadillac,CTS AWD,N,4,21,29,24,N,Automatic,8,All Wheel Drive,1750,Car,5,5,5,2000,368
+General Motors,Cadillac,CTS AWD,N,6,19,27,22,N,Automatic,8,All Wheel Drive,1650,Car,4,4,5,1500,398
+General Motors,Cadillac,CT6,N,4,22,30,25,N,Automatic,8,"2-Wheel Drive, Rear",1700,Car,5,5,5,1750,360
+General Motors,Cadillac,CT6 AWD,N,6,18,26,21,N,Automatic,8,All Wheel Drive,2000,Car,4,4,3,3250,424
+General Motors,Cadillac,CT6 AWD,N,6,18,27,21,N,Automatic,8,All Wheel Drive,1700,Car,4,4,5,1750,416
+General Motors,Cadillac,XTS,N,6,19,28,22,N,Automatic,6,"2-Wheel Drive, Front",1650,Car,4,4,5,1500,404
+General Motors,Cadillac,XTS AWD,N,6,17,26,20,N,Automatic,6,All Wheel Drive,1800,Car,4,4,5,2250,444
+General Motors,Cadillac,XTS AWD,N,6,16,23,18,N,Automatic,6,All Wheel Drive,2350,Car,3,3,3,5000,486
+General Motors,Cadillac,XTS HEARSE,N,6,15,21,17,NA,Automatic,6,"2-Wheel Drive, Front",2100,Special Purpose Vehicle,3,3,3,3750,525
+General Motors,Cadillac,XTS LIMO,N,6,15,21,17,G,Automatic,6,"2-Wheel Drive, Front",2100,Special Purpose Vehicle,3,3,3,3750,525
+General Motors,Cadillac,XT5,N,6,19,26,22,NA,Automatic,8,"2-Wheel Drive, Front",1650,SUV,4,4,5,1500,405
+General Motors,Cadillac,XT5 AWD,N,6,18,25,21,NA,Automatic,8,All Wheel Drive,1700,SUV,4,4,5,1750,423
+General Motors,Cadillac,ESCALADE 2WD,N,8,14,23,17,NA,Automatic,10,"2-Wheel Drive, Rear",2450,SUV,3,3,3,5500,517
+General Motors,Cadillac,ESCALADE 4WD,N,8,14,21,17,NA,Automatic,10,4-Wheel Drive,2450,SUV,3,3,3,5500,533
+General Motors,Chevrolet,CORVETTE,N,8,13,23,16,Y,Automatic,8,"2-Wheel Drive, Rear",2600,Car,2,2,1,6250,541
+General Motors,Chevrolet,CAMARO,N,8,13,21,15,Y,Automatic,10,"2-Wheel Drive, Rear",2800,Car,2,2,1,7250,582
+General Motors,Chevrolet,CAMARO,N,8,14,20,16,Y,Manual,6,"2-Wheel Drive, Rear",2600,Car,2,2,1,6250,559
+General Motors,Chevrolet,CORVETTE,N,8,15,25,18,N,Automatic,8,"2-Wheel Drive, Rear",2350,Car,3,3,1,5000,487
+General Motors,Chevrolet,CORVETTE,N,8,15,22,18,N,Manual,7,"2-Wheel Drive, Rear",2350,Car,3,3,1,5000,503
+General Motors,Chevrolet,CORVETTE,N,8,16,25,19,N,Manual,7,"2-Wheel Drive, Rear",2200,Car,3,3,1,4250,466
+General Motors,Chevrolet,CAMARO,N,4,22,31,25,N,Automatic,8,"2-Wheel Drive, Rear",1700,Car,5,5,5,1750,354
+General Motors,Chevrolet,CAMARO,N,4,20,30,23,N,Manual,6,"2-Wheel Drive, Rear",1850,Car,5,5,5,2500,379
+General Motors,Chevrolet,CAMARO,N,6,19,29,23,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,5,5,5,1000,396
+General Motors,Chevrolet,CAMARO,N,6,16,28,20,N,Manual,6,"2-Wheel Drive, Rear",1800,Car,4,4,5,2250,437
+General Motors,Chevrolet,CAMARO,N,8,17,27,20,N,Automatic,8,"2-Wheel Drive, Rear",2100,Car,4,4,1,3750,442
+General Motors,Chevrolet,CAMARO,N,8,16,25,19,N,Manual,6,"2-Wheel Drive, Rear",2200,Car,3,3,1,4250,457
+General Motors,Chevrolet,SPARK,N,4,30,38,33,N,Automatic,1,"2-Wheel Drive, Front",1100,Car,8,8,5,1250,269
+General Motors,Chevrolet,SPARK,N,4,29,39,33,N,Manual,5,"2-Wheel Drive, Front",1100,Car,8,8,5,1250,267
+General Motors,Chevrolet,SPARK ACTIV,N,4,30,37,33,N,Automatic,1,"2-Wheel Drive, Front",1100,Car,8,8,5,1250,269
+General Motors,Chevrolet,SPARK ACTIV,N,4,29,38,32,N,Manual,5,"2-Wheel Drive, Front",1100,Car,7,7,5,1250,278
+General Motors,Chevrolet,CRUZE,N,4,29,40,33,N,Automatic,6,"2-Wheel Drive, Front",1100,Car,8,8,6,1250,267
+General Motors,Chevrolet,CRUZE,N,4,27,40,32,N,Manual,6,"2-Wheel Drive, Front",1100,Car,7,7,6,1250,277
+General Motors,Chevrolet,CRUZE,N,4,31,47,37,N,Automatic,9,"2-Wheel Drive, Front",1050,Car,8,7,3,1500,276
+General Motors,Chevrolet,CRUZE,N,4,30,52,37,N,Manual,6,"2-Wheel Drive, Front",1050,Car,8,7,3,1500,274
+General Motors,Chevrolet,CRUZE PREMIER,N,4,29,39,33,N,Automatic,6,"2-Wheel Drive, Front",1100,Car,8,8,6,1250,269
+General Motors,Chevrolet,SONIC,N,4,27,35,30,N,Automatic,6,"2-Wheel Drive, Front",1200,Car,7,7,3,750,296
+General Motors,Chevrolet,SONIC,N,4,28,37,32,N,Manual,6,"2-Wheel Drive, Front",1100,Car,7,7,3,1250,280
+General Motors,Chevrolet,SONIC,N,4,25,34,28,N,Automatic,6,"2-Wheel Drive, Front",1300,Car,6,6,5,250,311
+General Motors,Chevrolet,SONIC,N,4,26,35,29,N,Manual,5,"2-Wheel Drive, Front",1250,Car,6,6,5,500,306
+General Motors,Chevrolet,CRUZE HATCHBACK,N,4,29,38,32,N,Automatic,6,"2-Wheel Drive, Front",1100,Car,7,7,6,1250,278
+General Motors,Chevrolet,CRUZE HATCHBACK,N,4,27,38,31,N,Manual,6,"2-Wheel Drive, Front",1150,Car,7,7,6,1000,285
+General Motors,Chevrolet,CRUZE HATCHBACK,N,4,30,45,35,N,Automatic,9,"2-Wheel Drive, Front",1150,Car,8,7,3,1000,291
+General Motors,Chevrolet,CRUZE HATCHBACK,N,4,29,48,35,N,Manual,6,"2-Wheel Drive, Front",1150,Car,8,7,3,1000,290
+General Motors,Chevrolet,CRUZE PREMIER HATCHBACK,N,4,28,37,31,N,Automatic,6,"2-Wheel Drive, Front",1150,Car,7,7,6,1000,287
+General Motors,Chevrolet,MALIBU,N,4,27,36,30,N,Automatic,6,"2-Wheel Drive, Front",1200,Car,7,7,7,750,292
+General Motors,Chevrolet,MALIBU,N,4,49,43,46,N,Automatic,1,"2-Wheel Drive, Front",800,Car,10,10,3,2750,194
+General Motors,Chevrolet,MALIBU,N,4,22,32,26,N,Automatic,9,"2-Wheel Drive, Front",1600,Car,5,5,5,1250,344
+General Motors,Chevrolet,IMPALA,N,4,22,30,25,N,Automatic,6,"2-Wheel Drive, Front",1450,Car,5,5,3,500,360
+General Motors,Chevrolet,IMPALA,N,6,19,28,22,N,Automatic,6,"2-Wheel Drive, Front",1650,Car,4,4,7,1500,404
+General Motors,Chevrolet,IMPALA,N,6,18,28,22,N,Automatic,6,"2-Wheel Drive, Front",1650,Car,4,4,5,1500,409
+General Motors,Chevrolet,SONIC 5,N,4,27,35,30,NA,Automatic,6,"2-Wheel Drive, Front",1200,Station Wagon,7,7,3,750,296
+General Motors,Chevrolet,SONIC 5,N,4,28,37,32,NA,Manual,6,"2-Wheel Drive, Front",1100,Station Wagon,7,7,3,1250,280
+General Motors,Chevrolet,SONIC 5,N,4,25,34,28,NA,Automatic,6,"2-Wheel Drive, Front",1300,Station Wagon,6,6,5,250,311
+General Motors,Chevrolet,SONIC 5,N,4,26,35,29,NA,Manual,5,"2-Wheel Drive, Front",1250,Station Wagon,6,6,5,500,306
+General Motors,Chevrolet,COLORADO 2WD,N,4,20,26,22,NA,Automatic,6,"2-Wheel Drive, Rear",1650,Truck,4,4,5,1500,406
+General Motors,Chevrolet,COLORADO 2WD,N,4,20,26,22,NA,Manual,6,"2-Wheel Drive, Rear",1650,Truck,4,4,5,1500,403
+General Motors,Chevrolet,COLORADO 2WD,N,4,22,30,25,NA,Automatic,6,"2-Wheel Drive, Rear",1600,Truck,5,4,3,1250,413
+General Motors,Chevrolet,COLORADO 2WD,N,6,18,25,20,NA,Automatic,8,"2-Wheel Drive, Rear",1800,Truck,4,4,5,2250,440
+General Motors,Chevrolet,COLORADO 4WD,N,4,19,24,21,NA,Automatic,6,4-Wheel Drive,1700,Truck,4,4,5,1750,429
+General Motors,Chevrolet,COLORADO 4WD,N,4,20,28,23,NA,Automatic,6,4-Wheel Drive,1750,Truck,5,4,3,2000,450
+General Motors,Chevrolet,COLORADO 4WD,N,6,17,24,19,NA,Automatic,8,4-Wheel Drive,1900,Truck,3,3,5,2750,463
+General Motors,Chevrolet,COLORADO ZR2 4WD,N,4,19,22,20,NA,Automatic,6,4-Wheel Drive,2000,Truck,4,3,3,3250,506
+General Motors,Chevrolet,COLORADO ZR2 4WD,N,6,16,18,17,NA,Automatic,8,4-Wheel Drive,2100,Truck,3,3,5,3750,532
+General Motors,Chevrolet,C15 SILVERADO 2WD,N,6,18,24,20,NA,Automatic,6,"2-Wheel Drive, Rear",1800,Truck,4,4,5,2250,448
+General Motors,Chevrolet,C15 SILVERADO 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,Truck,3,3,3,2750,476
+General Motors,Chevrolet,C15 SILVERADO 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,Truck,3,3,3,2750,475
+General Motors,Chevrolet,C15 SILVERADO 2WD,N,8,16,22,18,NA,Automatic,8,"2-Wheel Drive, Rear",2000,Truck,3,3,3,3250,495
+General Motors,Chevrolet,C15 SILVERADO 2WD,N,8,18,24,20,NA,Automatic,8,"2-Wheel Drive, Rear",1800,Truck,4,4,3,2250,447
+General Motors,Chevrolet,C15 SILVERADO 2WD,N,8,15,21,17,NA,Automatic,8,"2-Wheel Drive, Rear",2450,Truck,3,3,3,5500,522
+General Motors,Chevrolet,K15 SILVERADO 4WD,N,6,17,22,19,NA,Automatic,6,4-Wheel Drive,1900,Truck,3,3,5,2750,473
+General Motors,Chevrolet,K15 SILVERADO 4WD,N,8,16,22,18,NA,Automatic,6,4-Wheel Drive,2000,Truck,3,3,3,3250,489
+General Motors,Chevrolet,K15 SILVERADO 4WD,N,8,16,22,18,NA,Automatic,6,4-Wheel Drive,2000,Truck,3,3,3,3250,491
+General Motors,Chevrolet,K15 SILVERADO 4WD,N,8,15,20,17,NA,Automatic,8,4-Wheel Drive,2100,Truck,3,3,3,3750,522
+General Motors,Chevrolet,K15 SILVERADO 4WD,N,8,16,21,18,NA,Automatic,8,4-Wheel Drive,2000,Truck,3,3,3,3250,490
+General Motors,Chevrolet,K15 SILVERADO 4WD,N,8,15,20,17,NA,Automatic,8,4-Wheel Drive,2450,Truck,3,3,3,5500,524
+Nissan,CHEVROLET,City Express Cargo Van,N,4,24,26,25,NA,Automatic,1,"2-Wheel Drive, Front",1450,Van,5,5,3,500,356
+General Motors,Chevrolet,C15 SILVERADO 2WD CAB CHASSIS,N,8,15,20,17,NA,Automatic,6,"2-Wheel Drive, Rear",2100,Truck,3,3,3,3750,523
+General Motors,Chevrolet,COLORADO CAB CHASSIS 2WD,N,6,15,15,15,NA,Automatic,8,"2-Wheel Drive, Rear",2400,Truck,2,2,5,5250,589
+General Motors,Chevrolet,K15 SILVERADO 4WD CAB CHASSIS,N,8,15,19,17,NA,Automatic,6,4-Wheel Drive,2100,Truck,3,3,3,3750,523
+General Motors,Chevrolet,EQUINOX FWD,N,4,26,32,28,NA,Automatic,6,"2-Wheel Drive, Front",1300,SUV,6,6,5,250,314
+General Motors,Chevrolet,EQUINOX FWD,N,4,28,39,32,NA,Automatic,6,"2-Wheel Drive, Front",1250,SUV,7,6,3,500,319
+General Motors,Chevrolet,EQUINOX FWD,N,4,22,29,25,NA,Automatic,9,"2-Wheel Drive, Front",1700,SUV,5,5,5,1750,355
+General Motors,Chevrolet,TRAX,N,4,25,33,28,NA,Automatic,6,"2-Wheel Drive, Front",1300,SUV,6,6,3,250,313
+General Motors,Chevrolet,EQUINOX AWD,N,4,24,30,26,NA,Automatic,6,All Wheel Drive,1400,SUV,5,5,5,250,337
+General Motors,Chevrolet,EQUINOX AWD,N,4,28,38,32,NA,Automatic,6,All Wheel Drive,1250,SUV,7,6,3,500,319
+General Motors,Chevrolet,EQUINOX AWD,N,4,22,28,24,NA,Automatic,9,All Wheel Drive,1750,SUV,5,5,5,2000,367
+General Motors,Chevrolet,TRAX AWD,N,4,24,30,27,NA,Automatic,6,All Wheel Drive,1350,SUV,6,6,3,0,335
+General Motors,Chevrolet,C1500 SUBURBAN 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,SUV,3,3,3,2750,468
+General Motors,Chevrolet,C1500 SUBURBAN 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,SUV,3,3,3,2750,468
+General Motors,Chevrolet,C1500 TAHOE 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,SUV,3,3,3,2750,468
+General Motors,Chevrolet,C1500 TAHOE 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,SUV,3,3,3,2750,468
+General Motors,Chevrolet,C1500 TAHOE 2WD,N,8,14,23,17,NA,Automatic,10,"2-Wheel Drive, Rear",2450,SUV,3,3,3,5500,517
+General Motors,Chevrolet,TRAVERSE,N,4,20,26,22,NA,Automatic,9,"2-Wheel Drive, Front",1900,SUV,4,4,5,2750,404
+General Motors,Chevrolet,TRAVERSE,N,6,18,27,21,NA,Automatic,9,"2-Wheel Drive, Front",1700,SUV,4,4,5,1750,416
+General Motors,Chevrolet,K1500 SUBURBAN 4WD,N,8,15,22,18,NA,Automatic,6,4-Wheel Drive,2000,SUV,3,3,3,3250,504
+General Motors,Chevrolet,K1500 SUBURBAN 4WD,N,8,15,22,18,NA,Automatic,6,4-Wheel Drive,2000,SUV,3,3,3,3250,504
+General Motors,Chevrolet,K1500 TAHOE 4WD,N,8,16,22,18,NA,Automatic,6,4-Wheel Drive,2000,SUV,3,3,3,3250,497
+General Motors,Chevrolet,K1500 TAHOE 4WD,N,8,16,22,18,NA,Automatic,6,4-Wheel Drive,2000,SUV,3,3,3,3250,497
+General Motors,Chevrolet,K1500 TAHOE 4WD,N,8,14,22,17,NA,Automatic,10,4-Wheel Drive,2450,SUV,3,3,3,5500,523
+General Motors,Chevrolet,TRAVERSE AWD,N,6,17,25,20,NA,Automatic,9,All Wheel Drive,1800,SUV,4,4,5,2250,444
+FCA US LLC,Chrysler,300,N,6,19,30,23,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,5,5,3,1000,389
+FCA US LLC,Chrysler,300,N,6,19,30,23,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,5,5,3,1000,389
+FCA US LLC,Chrysler,300,N,8,16,25,19,N,Automatic,8,"2-Wheel Drive, Rear",2050,Car,3,3,3,3500,466
+FCA US LLC,Chrysler,300 AWD,N,6,18,27,21,N,Automatic,8,All Wheel Drive,1700,Car,4,4,3,1750,415
+FCA US LLC,Chrysler,300 AWD,N,6,18,27,21,N,Automatic,8,All Wheel Drive,1700,Car,4,4,3,1750,415
+FCA US LLC,Chrysler,Pacifica,N,6,18,28,22,NA,Automatic,9,"2-Wheel Drive, Front",1650,Van,4,4,3,1500,416
+FCA US LLC,Chrysler,Pacifica,N,6,19,28,22,NA,Automatic,9,"2-Wheel Drive, Front",1650,Van,4,4,3,1500,401
+FCA US LLC,Dodge,Challenger,N,8,14,23,17,Y,Manual,6,"2-Wheel Drive, Rear",2450,Car,3,3,1,5500,523
+FCA US LLC,Dodge,Challenger SRT,N,8,13,22,16,Y,Automatic,8,"2-Wheel Drive, Rear",2600,Car,2,2,1,6250,546
+FCA US LLC,Dodge,Challenger SRT,N,8,13,21,16,Y,Manual,6,"2-Wheel Drive, Rear",2600,Car,2,2,1,6250,567
+FCA US LLC,Dodge,Challenger SRT,N,8,14,23,17,Y,Manual,6,"2-Wheel Drive, Rear",2450,Car,3,3,1,5500,523
+FCA US LLC,Dodge,Charger SRT,N,8,13,22,16,Y,Automatic,8,"2-Wheel Drive, Rear",2600,Car,2,2,1,6250,546
+FCA US LLC,Dodge,Challenger,N,6,19,30,23,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,5,5,3,1000,389
+FCA US LLC,Dodge,Challenger,N,8,16,25,19,N,Automatic,8,"2-Wheel Drive, Rear",2050,Car,3,3,3,3500,466
+FCA US LLC,Dodge,Challenger,N,8,15,23,18,N,Manual,6,"2-Wheel Drive, Rear",2350,Car,3,3,1,5000,494
+FCA US LLC,Dodge,Challenger,N,8,15,25,18,N,Automatic,8,"2-Wheel Drive, Rear",2350,Car,3,3,1,5000,486
+FCA US LLC,Dodge,Challenger GT,N,6,18,27,21,N,Automatic,8,All Wheel Drive,1700,Car,4,4,3,1750,415
+FCA US LLC,Dodge,Challenger SRT,N,8,15,25,18,N,Automatic,8,"2-Wheel Drive, Rear",2350,Car,3,3,1,5000,486
+FCA US LLC,Dodge,Charger,N,6,19,30,23,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,5,5,3,1000,389
+FCA US LLC,Dodge,Charger,N,6,19,30,23,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,5,5,3,1000,389
+FCA US LLC,Dodge,Charger,N,8,16,25,19,N,Automatic,8,"2-Wheel Drive, Rear",2050,Car,3,3,3,3500,466
+FCA US LLC,Dodge,Charger,N,8,15,25,18,N,Automatic,8,"2-Wheel Drive, Rear",2350,Car,3,3,1,5000,486
+FCA US LLC,Dodge,Charger AWD,N,6,18,27,21,N,Automatic,8,All Wheel Drive,1700,Car,4,4,3,1750,415
+FCA US LLC,Dodge,Charger AWD,N,6,18,27,21,N,Automatic,8,All Wheel Drive,1700,Car,4,4,3,1750,415
+FCA US LLC,Dodge,Charger SRT,N,8,15,25,18,N,Automatic,8,"2-Wheel Drive, Rear",2350,Car,3,3,1,5000,486
+FCA US LLC,Dodge,Grand Caravan,N,6,17,25,20,NA,Automatic,6,"2-Wheel Drive, Front",1800,Van,4,4,3,2250,445
+FCA US LLC,Dodge,Grand Caravan,N,6,17,25,20,NA,Automatic,6,"2-Wheel Drive, Front",1800,Van,4,4,3,2250,445
+FCA US LLC,Dodge,Journey,N,4,19,25,21,NA,Automatic,4,"2-Wheel Drive, Front",1700,SUV,4,4,3,1750,420
+FCA US LLC,Dodge,Journey,N,6,17,25,19,NA,Automatic,6,"2-Wheel Drive, Front",1900,SUV,3,3,3,2750,456
+FCA US LLC,Dodge,Journey AWD,N,6,16,24,19,NA,Automatic,6,All Wheel Drive,1900,SUV,3,3,3,2750,470
+FCA US LLC,Dodge,Durango RWD,N,6,19,26,21,NA,Automatic,8,"2-Wheel Drive, Rear",1700,SUV,4,4,5,1750,414
+FCA US LLC,Dodge,Durango RWD,N,8,14,22,17,NA,Automatic,8,"2-Wheel Drive, Rear",2300,SUV,3,3,3,4750,525
+FCA US LLC,Dodge,Durango AWD,N,6,18,25,21,NA,Automatic,8,All Wheel Drive,1700,SUV,4,4,5,1750,427
+FCA US LLC,Dodge,Durango AWD,N,8,14,22,17,NA,Automatic,8,All Wheel Drive,2300,SUV,3,3,3,4750,533
+FCA US LLC,Dodge,Durango SRT AWD,N,8,13,19,15,NA,Automatic,8,All Wheel Drive,2800,SUV,2,2,1,7250,584
+Ferrari,"Ferrari North America, Inc.",812 Superfast,N,12,12,16,13,Y,Manual,7,"2-Wheel Drive, Rear",3250,Car,1,1,3,9500,661
+Ferrari,"Ferrari North America, Inc.",GTC4Lusso,N,12,12,17,13,Y,Manual,7,Part-time 4-Wheel Drive,3250,Car,1,1,3,9500,661
+Ferrari,"Ferrari North America, Inc.",GTC4Lusso T,N,8,15,21,17,Y,Manual,7,"2-Wheel Drive, Rear",2450,Car,3,3,3,5500,524
+Ferrari,"Ferrari North America, Inc.",488 gtb,N,8,15,22,18,N,Manual,7,"2-Wheel Drive, Rear",2350,Car,3,3,3,5000,501
+Ferrari,"Ferrari North America, Inc.",488 gtb,N,8,16,22,18,N,Manual,7,"2-Wheel Drive, Rear",2350,Car,3,3,3,5000,495
+Ferrari,"Ferrari North America, Inc.",488 Spider,N,8,16,22,18,N,Manual,7,"2-Wheel Drive, Rear",2350,Car,3,3,3,5000,495
+Ferrari,"Ferrari North America, Inc.",488 Spider,N,8,15,22,18,N,Manual,7,"2-Wheel Drive, Rear",2350,Car,3,3,3,5000,501
+Ferrari,"Ferrari North America, Inc.",California T,N,8,16,23,19,N,Manual,7,"2-Wheel Drive, Rear",2200,Car,3,3,3,4250,478
+Ferrari,"Ferrari North America, Inc.",California T,N,8,16,23,18,N,Manual,7,"2-Wheel Drive, Rear",2350,Car,3,3,3,5000,487
+FCA US LLC,FIAT,124 Spider,N,4,25,36,29,N,Automatic,6,"2-Wheel Drive, Rear",1450,Car,6,6,3,500,302
+FCA US LLC,FIAT,124 Spider,N,4,26,35,30,N,Manual,6,"2-Wheel Drive, Rear",1400,Car,7,7,3,250,298
+FCA US LLC,FIAT,500,N,4,24,32,27,N,Automatic,6,"2-Wheel Drive, Front",1550,Car,6,6,3,1000,326
+FCA US LLC,FIAT,500,N,4,28,33,30,N,Manual,5,"2-Wheel Drive, Front",1400,Car,7,7,3,250,292
+FCA US LLC,FIAT,500 Abarth,N,4,24,32,27,N,Automatic,6,"2-Wheel Drive, Front",1550,Car,6,6,3,1000,326
+FCA US LLC,FIAT,500 Abarth,N,4,28,33,30,N,Manual,5,"2-Wheel Drive, Front",1400,Car,7,7,3,250,292
+FCA US LLC,FIAT,500L,N,4,22,30,25,NA,Automatic,6,"2-Wheel Drive, Front",1700,Station Wagon,5,5,3,1750,356
+FCA US LLC,FIAT,500X,N,4,25,33,28,NA,Manual,6,"2-Wheel Drive, Front",1500,SUV,6,6,3,750,317
+FCA US LLC,FIAT,500X,N,4,22,30,25,NA,Automatic,9,"2-Wheel Drive, Front",1450,SUV,5,5,7,500,354
+FCA US LLC,FIAT,500X AWD,N,4,21,29,24,NA,Automatic,9,All Wheel Drive,1500,SUV,5,5,7,750,364
+Ford Motor Company,Ford,FORD GT,N,6,11,18,14,Y,Manual,7,"2-Wheel Drive, Rear",3000,Car,1,1,3,8250,653
+Ford Motor Company,Ford,SHELBY GT350 MUSTANG,N,8,14,21,16,Y,Manual,6,"2-Wheel Drive, Rear",2600,Car,2,2,3,6250,549
+Ford Motor Company,Ford,Fiesta FWD,N,4,27,37,31,N,Manual,6,"2-Wheel Drive, Front",1150,Car,7,7,3,1000,286
+Ford Motor Company,Ford,Fiesta FWD,N,4,27,35,30,N,Manual,5,"2-Wheel Drive, Front",1200,Car,7,7,3,750,293
+Ford Motor Company,Ford,MUSTANG,N,4,21,32,25,N,Automatic,10,"2-Wheel Drive, Rear",1450,Car,5,5,5,500,353
+Ford Motor Company,Ford,MUSTANG,N,4,21,31,25,N,Manual,6,"2-Wheel Drive, Rear",1450,Car,5,5,5,500,357
+Ford Motor Company,Ford,MUSTANG,N,8,16,25,19,N,Automatic,10,"2-Wheel Drive, Rear",1900,Car,3,3,3,2750,468
+Ford Motor Company,Ford,MUSTANG,N,8,15,25,18,N,Manual,6,"2-Wheel Drive, Rear",2000,Car,3,3,3,3250,483
+Ford Motor Company,Ford,MUSTANG CONVERTIBLE,N,4,20,29,23,N,Automatic,10,"2-Wheel Drive, Rear",1550,Car,5,5,5,1000,384
+Ford Motor Company,Ford,MUSTANG CONVERTIBLE,N,4,20,28,23,N,Manual,6,"2-Wheel Drive, Rear",1550,Car,5,5,5,1000,383
+Ford Motor Company,Ford,MUSTANG CONVERTIBLE,N,8,15,24,18,N,Automatic,10,"2-Wheel Drive, Rear",2000,Car,3,3,3,3250,490
+Ford Motor Company,Ford,MUSTANG PERFORMANCE PACKAGE,N,4,20,29,23,N,Automatic,10,"2-Wheel Drive, Rear",1550,Car,5,5,5,1000,384
+Ford Motor Company,Ford,MUSTANG PERFORMANCE PACKAGE,N,4,20,28,23,N,Manual,6,"2-Wheel Drive, Rear",1550,Car,5,5,5,1000,383
+Ford Motor Company,Ford,Fiesta ST FWD,N,4,26,33,29,N,Manual,6,"2-Wheel Drive, Front",1250,Car,6,6,3,500,308
+Ford Motor Company,Ford,FOCUS FWD,N,3,27,38,31,N,Automatic,6,"2-Wheel Drive, Front",1150,Car,7,7,3,1000,286
+Ford Motor Company,Ford,FOCUS FWD,N,3,30,40,34,N,Manual,6,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,264
+Ford Motor Company,Ford,FOCUS FWD,N,4,26,38,31,N,Manual,6,"2-Wheel Drive, Front",1150,Car,7,7,7,1000,289
+Ford Motor Company,Ford,FOCUS FWD,N,4,24,34,28,N,Manual,6,"2-Wheel Drive, Front",1300,Car,6,6,7,250,321
+Ford Motor Company,Ford,FOCUS FWD,N,4,25,34,28,N,Manual,5,"2-Wheel Drive, Front",1300,Car,6,6,7,250,316
+Ford Motor Company,Ford,FOCUS RS AWD,N,4,19,26,22,N,Manual,6,All Wheel Drive,1900,Car,4,4,3,2750,402
+Ford Motor Company,Ford,Focus ST FWD,N,4,22,30,25,N,Manual,6,"2-Wheel Drive, Front",1450,Car,5,5,3,500,356
+Ford Motor Company,Ford,FUSION AWD,N,4,20,29,23,N,Automatic,6,All Wheel Drive,1550,Car,5,5,5,1000,385
+Ford Motor Company,Ford,FUSION AWD,N,6,17,26,20,N,Automatic,6,All Wheel Drive,1800,Car,4,4,5,2250,444
+Ford Motor Company,Ford,FUSION FWD,N,4,23,34,27,N,Automatic,6,"2-Wheel Drive, Front",1350,Car,6,6,7,0,327
+Ford Motor Company,Ford,FUSION FWD,N,4,21,31,25,N,Automatic,6,"2-Wheel Drive, Front",1450,Car,5,5,5,500,362
+Ford Motor Company,Ford,FUSION FWD,N,4,21,32,25,N,Automatic,6,"2-Wheel Drive, Front",1450,Car,5,5,5,500,360
+Ford Motor Company,Ford,FUSION HYBRID FWD,Y,4,43,41,42,N,Automatic,1,"2-Wheel Drive, Front",850,Car,9,9,7,2500,211
+Ford Motor Company,Ford,C-MAX Hybrid FWD,Y,4,42,38,40,N,Automatic,1,"2-Wheel Drive, Front",900,Car,9,9,7,2250,222
+Ford Motor Company,Ford,TAURUS AWD,N,6,16,24,19,N,Automatic,6,All Wheel Drive,1900,Car,3,3,3,2750,471
+Ford Motor Company,Ford,TAURUS AWD,N,6,17,24,19,N,Automatic,6,All Wheel Drive,1900,Car,3,3,3,2750,467
+Ford Motor Company,Ford,TAURUS AWD FFV,N,6,17,24,19,N,Automatic,6,All Wheel Drive,1900,Car,3,3,3,2750,467
+Ford Motor Company,Ford,TAURUS FWD,N,6,18,27,21,N,Automatic,6,"2-Wheel Drive, Front",1700,Car,4,4,3,1750,423
+Ford Motor Company,Ford,TAURUS FWD FFV,N,6,18,27,21,N,Automatic,6,"2-Wheel Drive, Front",1700,Car,4,4,3,1750,423
+Ford Motor Company,Ford,F150 2.7L 2WD GVWR>6649 LBS,N,6,19,25,21,NA,Automatic,10,"2-Wheel Drive, Rear",1700,Truck,4,4,5,1750,420
+Ford Motor Company,Ford,F150 2WD BASE PAYLOAD LT TIRE,N,6,20,25,22,NA,Automatic,10,"2-Wheel Drive, Rear",1650,Truck,4,4,5,1500,401
+Ford Motor Company,Ford,F150 2WD BASE PAYLOAD LT TIRE,N,6,22,28,24,NA,Automatic,10,"2-Wheel Drive, Rear",1650,Truck,5,4,1,1500,424
+Ford Motor Company,Ford,F150 2WD BASE PAYLOAD LT TIRE,N,6,19,24,21,NA,Automatic,6,"2-Wheel Drive, Rear",1700,Truck,4,4,5,1750,423
+Ford Motor Company,Ford,F150 2WD BASE PAYLOAD LT TIRE,N,6,17,22,19,NA,Automatic,10,"2-Wheel Drive, Rear",1900,Truck,3,3,5,2750,466
+Ford Motor Company,Ford,F150 2WD BASE PAYLOAD LT TIRE,N,8,16,21,18,NA,Automatic,10,"2-Wheel Drive, Rear",2000,Truck,3,3,3,3250,493
+Ford Motor Company,Ford,F150 2WD FFV BASE PAYLOAD LT,N,8,16,21,18,NA,Automatic,10,"2-Wheel Drive, Rear",2000,Truck,3,3,3,3250,491
+Ford Motor Company,Ford,F150 2WD FFV BASE PAYLOAD LT TIRE,N,6,19,24,21,NA,Automatic,6,"2-Wheel Drive, Rear",1700,Truck,4,4,5,1750,423
+Ford Motor Company,Ford,F150 3.5L 2WD GVWR>7599 LBS,N,6,17,21,19,NA,Automatic,10,"2-Wheel Drive, Rear",1900,Truck,3,3,5,2750,466
+Ford Motor Company,Ford,F150 5.0L 2WD FFV GVWR>7599 LBS,N,8,16,20,17,NA,Automatic,10,"2-Wheel Drive, Rear",2100,Truck,3,3,3,3750,520
+Ford Motor Company,Ford,F150 5.0L 2WD GVWR>7599 LBS,N,8,16,20,17,NA,Automatic,10,"2-Wheel Drive, Rear",2100,Truck,3,3,3,3750,522
+Ford Motor Company,Ford,F150 PICKUP 2WD,N,6,20,26,22,NA,Automatic,10,"2-Wheel Drive, Rear",1650,Truck,4,4,5,1500,401
+Ford Motor Company,Ford,F150 PICKUP 2WD,N,6,22,30,25,NA,Automatic,10,"2-Wheel Drive, Rear",1600,Truck,5,4,1,1250,412
+Ford Motor Company,Ford,F150 PICKUP 2WD,N,6,19,25,22,NA,Automatic,6,"2-Wheel Drive, Rear",1650,Truck,4,4,5,1500,410
+Ford Motor Company,Ford,F150 PICKUP 2WD,N,6,18,25,21,NA,Automatic,10,"2-Wheel Drive, Rear",1700,Truck,4,4,5,1750,426
+Ford Motor Company,Ford,F150 PICKUP 2WD,N,8,17,23,19,NA,Automatic,10,"2-Wheel Drive, Rear",1900,Truck,3,3,3,2750,463
+Ford Motor Company,Ford,F150 PICKUP 2WD FFV,N,6,20,25,22,NA,Automatic,6,"2-Wheel Drive, Rear",1650,Truck,4,4,5,1500,407
+Ford Motor Company,Ford,F150 PICKUP 2WD FFV,N,8,17,23,19,NA,Automatic,10,"2-Wheel Drive, Rear",1900,Truck,3,3,3,2750,457
+Ford Motor Company,Ford,F150 2.7L 4WD GVWR>6799 LBS,N,6,19,24,21,NA,Automatic,10,Part-time 4-Wheel Drive,1700,Truck,4,4,5,1750,423
+Ford Motor Company,Ford,F150 3.5L 4WD GVWR>7599 LBS,N,6,16,21,18,NA,Automatic,10,Part-time 4-Wheel Drive,2000,Truck,3,3,5,3250,494
+Ford Motor Company,Ford,F150 4WD BASE PAYLOAD LT TIRE,N,6,18,23,20,NA,Automatic,10,Part-time 4-Wheel Drive,1800,Truck,4,4,5,2250,444
+Ford Motor Company,Ford,F150 4WD BASE PAYLOAD LT TIRE,N,6,20,25,22,NA,Automatic,10,Part-time 4-Wheel Drive,1800,Truck,4,3,1,2250,463
+Ford Motor Company,Ford,F150 4WD BASE PAYLOAD LT TIRE,N,6,17,22,19,NA,Automatic,6,Part-time 4-Wheel Drive,1900,Truck,3,3,5,2750,468
+Ford Motor Company,Ford,F150 4WD BASE PAYLOAD LT TIRE,N,6,17,22,19,NA,Automatic,10,Part-time 4-Wheel Drive,1900,Truck,3,3,5,2750,468
+Ford Motor Company,Ford,F150 4WD BASE PAYLOAD LT TIRE,N,8,16,20,17,NA,Automatic,10,Part-time 4-Wheel Drive,2100,Truck,3,3,3,3750,523
+Ford Motor Company,Ford,F150 4WD FFV BASE PAYLOAD LT,N,8,16,20,17,NA,Automatic,10,Part-time 4-Wheel Drive,2100,Truck,3,3,3,3750,522
+Ford Motor Company,Ford,F150 4WD FFV BASE PAYLOAD LT TIRE,N,6,17,22,19,NA,Automatic,6,Part-time 4-Wheel Drive,1900,Truck,3,3,5,2750,467
+Ford Motor Company,Ford,F150 5.0L 4WD FFV GVWR>7599 LBS,N,8,15,19,17,NA,Automatic,10,Part-time 4-Wheel Drive,2100,Truck,3,3,3,3750,523
+Ford Motor Company,Ford,F150 5.0L 4WD GVWR>7599 LBS,N,8,15,19,17,NA,Automatic,10,Part-time 4-Wheel Drive,2100,Truck,3,3,3,3750,523
+Ford Motor Company,Ford,F150 PICKUP 4WD,N,6,19,24,21,NA,Automatic,10,Part-time 4-Wheel Drive,1700,Truck,4,4,5,1750,423
+Ford Motor Company,Ford,F150 PICKUP 4WD,N,6,20,25,22,NA,Automatic,10,Part-time 4-Wheel Drive,1800,Truck,4,3,1,2250,463
+Ford Motor Company,Ford,F150 PICKUP 4WD,N,6,18,23,20,NA,Automatic,6,Part-time 4-Wheel Drive,1800,Truck,4,4,5,2250,442
+Ford Motor Company,Ford,F150 PICKUP 4WD,N,6,17,23,19,NA,Automatic,10,Part-time 4-Wheel Drive,1900,Truck,3,3,5,2750,470
+Ford Motor Company,Ford,F150 PICKUP 4WD,N,8,16,22,18,NA,Automatic,10,Part-time 4-Wheel Drive,2000,Truck,3,3,3,3250,485
+Ford Motor Company,Ford,F150 PICKUP 4WD FFV,N,6,18,23,20,NA,Automatic,6,Part-time 4-Wheel Drive,1800,Truck,4,4,5,2250,437
+Ford Motor Company,Ford,F150 PICKUP 4WD FFV,N,8,16,22,18,NA,Automatic,10,Part-time 4-Wheel Drive,2000,Truck,3,3,3,3250,498
+Ford Motor Company,Ford,F150 PICKUP 4WD XL/XLT,N,6,21,28,24,NA,Automatic,10,Part-time 4-Wheel Drive,1650,Truck,5,4,1,1500,424
+Ford Motor Company,Ford,F150 RAPTOR 4WD,N,6,15,18,16,NA,Automatic,10,Part-time 4-Wheel Drive,2250,Truck,2,2,3,4500,546
+Ford Motor Company,Ford,Transit T150 Wagon,N,6,15,18,16,NA,Automatic,6,"2-Wheel Drive, Rear",2250,Van,2,2,1,4500,555
+Ford Motor Company,Ford,Transit T150 Wagon,N,6,14,18,16,NA,Automatic,6,"2-Wheel Drive, Rear",2250,Van,2,2,1,4500,570
+Ford Motor Company,Ford,TRANSIT T150 WAGON FFV,N,6,14,18,16,NA,Automatic,6,"2-Wheel Drive, Rear",2250,Van,2,2,1,4500,570
+Ford Motor Company,Ford,Transit Connect Van 2WD,N,4,20,27,23,NA,Automatic,6,"2-Wheel Drive, Front",1550,Van,5,5,3,1000,392
+Ford Motor Company,Ford,TRANSIT CONNECT VAN FFV,N,4,20,27,23,NA,Automatic,6,"2-Wheel Drive, Front",1550,Van,5,5,3,1000,392
+Ford Motor Company,Ford,TRANSIT CONNECT WAGON FFV,N,4,19,27,22,NA,Automatic,6,"2-Wheel Drive, Front",1650,Van,4,4,3,1500,404
+Ford Motor Company,Ford,TRANSIT CONNECT WAGON FWD,N,4,19,27,22,NA,Automatic,6,"2-Wheel Drive, Front",1650,Van,4,4,3,1500,404
+Ford Motor Company,Ford,TRANSIT CONNECT WAGON LWB FFV,N,4,19,27,22,NA,Automatic,6,"2-Wheel Drive, Front",1650,Van,4,4,3,1500,404
+Ford Motor Company,Ford,Transit Connect Wagon LWB FWD,N,4,19,27,22,NA,Automatic,6,"2-Wheel Drive, Front",1650,Van,4,4,3,1500,404
+Ford Motor Company,Ford,ECOSPORT FWD,N,3,27,29,28,NA,Automatic,6,"2-Wheel Drive, Front",1300,SUV,6,6,3,250,314
+Ford Motor Company,Ford,EDGE FWD,N,4,21,29,24,NA,Automatic,6,"2-Wheel Drive, Front",1500,SUV,5,5,5,750,372
+Ford Motor Company,Ford,EDGE FWD,N,4,20,29,24,NA,Automatic,6,"2-Wheel Drive, Front",1500,SUV,5,5,5,750,370
+Ford Motor Company,Ford,EDGE FWD,N,6,17,26,20,NA,Automatic,6,"2-Wheel Drive, Front",1800,SUV,4,4,3,2250,435
+Ford Motor Company,Ford,ESCAPE FWD,N,4,23,30,26,NA,Automatic,6,"2-Wheel Drive, Front",1400,SUV,5,5,3,250,342
+Ford Motor Company,Ford,ESCAPE FWD,N,4,21,28,24,NA,Automatic,6,"2-Wheel Drive, Front",1500,SUV,5,5,5,750,372
+Ford Motor Company,Ford,ESCAPE FWD,N,4,21,29,24,NA,Automatic,6,"2-Wheel Drive, Front",1500,SUV,5,5,3,750,369
+Ford Motor Company,Ford,ESCAPE FWD FFV,N,4,21,29,24,NA,Automatic,6,"2-Wheel Drive, Front",1500,SUV,5,5,3,750,369
+Ford Motor Company,Ford,ECOSPORT AWD,N,4,23,29,25,NA,Automatic,6,All Wheel Drive,1450,SUV,5,5,3,500,353
+Ford Motor Company,Ford,EDGE AWD,N,4,20,27,23,NA,Automatic,6,All Wheel Drive,1550,SUV,5,5,5,1000,394
+Ford Motor Company,Ford,EDGE AWD,N,6,17,24,20,NA,Automatic,6,All Wheel Drive,1800,SUV,4,4,5,2250,453
+Ford Motor Company,Ford,EDGE AWD,N,6,17,23,19,NA,Automatic,6,All Wheel Drive,1900,SUV,3,3,3,2750,467
+Ford Motor Company,Ford,ESCAPE AWD,N,4,22,28,24,NA,Automatic,6,All Wheel Drive,1500,SUV,5,5,3,750,370
+Ford Motor Company,Ford,ESCAPE AWD,N,4,20,27,23,NA,Automatic,6,All Wheel Drive,1550,SUV,5,5,5,1000,387
+Ford Motor Company,Ford,Expedition 2WD,N,6,17,24,20,NA,Automatic,10,"2-Wheel Drive, Rear",1800,SUV,4,4,5,2250,441
+Ford Motor Company,Ford,Expedition MAX 2WD,N,6,17,23,19,NA,Automatic,10,"2-Wheel Drive, Rear",1900,SUV,3,3,5,2750,464
+Ford Motor Company,Ford,EXPLORER FFV 2WD,N,6,17,24,20,NA,Automatic,6,"2-Wheel Drive, Front",1800,SUV,4,4,3,2250,455
+Ford Motor Company,Ford,EXPLORER FWD,N,4,19,27,22,NA,Automatic,6,"2-Wheel Drive, Front",1650,SUV,4,4,3,1500,409
+Ford Motor Company,Ford,EXPLORER FWD,N,6,17,24,20,NA,Automatic,6,"2-Wheel Drive, Front",1800,SUV,4,4,3,2250,453
+Ford Motor Company,Ford,Flex FWD,N,6,16,23,19,NA,Automatic,6,"2-Wheel Drive, Front",1900,SUV,3,3,3,2750,468
+Ford Motor Company,Ford,Expedition 4WD,N,6,17,22,19,NA,Automatic,10,Part-time 4-Wheel Drive,1900,SUV,3,3,5,2750,466
+Ford Motor Company,Ford,Expedition MAX 4WD,N,6,16,21,18,NA,Automatic,10,Part-time 4-Wheel Drive,2000,SUV,3,3,5,3250,494
+Ford Motor Company,Ford,EXPLORER AWD,N,4,18,25,21,NA,Automatic,6,All Wheel Drive,1700,SUV,4,4,3,1750,429
+Ford Motor Company,Ford,EXPLORER AWD,N,6,16,22,19,NA,Automatic,6,All Wheel Drive,1900,SUV,3,3,3,2750,480
+Ford Motor Company,Ford,EXPLORER AWD,N,6,16,22,18,NA,Automatic,6,All Wheel Drive,2000,SUV,3,3,3,3250,486
+Ford Motor Company,Ford,EXPLORER FFV AWD,N,6,16,22,18,NA,Automatic,6,All Wheel Drive,2000,SUV,3,3,3,3250,483
+Ford Motor Company,Ford,FLEX AWD,N,6,16,22,18,NA,Automatic,6,All Wheel Drive,2000,SUV,3,3,3,3250,494
+Ford Motor Company,Ford,FLEX AWD,N,6,15,21,17,NA,Automatic,6,All Wheel Drive,2100,SUV,3,3,3,3750,523
+Hyundai,GENESIS,G80 AWD,N,6,17,24,20,N,Automatic,8,All Wheel Drive,2100,Car,4,4,3,3750,453
+Hyundai,GENESIS,G80 AWD,N,6,18,25,20,N,Automatic,8,All Wheel Drive,1800,Car,4,4,5,2250,445
+Hyundai,GENESIS,G80 AWD,N,8,15,23,18,N,Automatic,8,All Wheel Drive,2350,Car,3,3,5,5000,503
+Hyundai,GENESIS,G80 RWD,N,6,17,25,20,N,Automatic,8,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,442
+Hyundai,GENESIS,G80 RWD,N,6,19,27,22,N,Automatic,8,"2-Wheel Drive, Rear",1650,Car,4,4,5,1500,414
+Hyundai,GENESIS,G80 RWD,N,8,16,24,19,N,Automatic,8,"2-Wheel Drive, Rear",2200,Car,3,3,5,4250,474
+Hyundai,GENESIS,G90 AWD,N,6,17,24,20,N,Automatic,8,All Wheel Drive,2100,Car,4,4,3,3750,448
+Hyundai,GENESIS,G90 AWD,N,8,15,23,18,N,Automatic,8,All Wheel Drive,2350,Car,3,3,5,5000,493
+Hyundai,GENESIS,G90 RWD,N,6,17,24,20,N,Automatic,8,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,454
+Hyundai,GENESIS,G90 RWD,N,8,16,24,19,N,Automatic,8,"2-Wheel Drive, Rear",2200,Car,3,3,5,4250,482
+General Motors,GMC,CANYON 2WD,N,4,20,26,22,NA,Automatic,6,"2-Wheel Drive, Rear",1650,Truck,4,4,5,1500,406
+General Motors,GMC,CANYON 2WD,N,4,20,26,22,NA,Manual,6,"2-Wheel Drive, Rear",1650,Truck,4,4,5,1500,403
+General Motors,GMC,CANYON 2WD,N,4,22,30,25,NA,Automatic,6,"2-Wheel Drive, Rear",1600,Truck,5,4,3,1250,413
+General Motors,GMC,CANYON 2WD,N,6,18,25,20,NA,Automatic,8,"2-Wheel Drive, Rear",1800,Truck,4,4,5,2250,440
+General Motors,GMC,CANYON 4WD,N,4,19,24,21,NA,Automatic,6,4-Wheel Drive,1700,Truck,4,4,5,1750,429
+General Motors,GMC,CANYON 4WD,N,4,20,28,23,NA,Automatic,6,4-Wheel Drive,1750,Truck,5,4,3,2000,450
+General Motors,GMC,CANYON 4WD,N,6,17,24,19,NA,Automatic,8,4-Wheel Drive,1900,Truck,3,3,5,2750,463
+General Motors,GMC,C15 SIERRA 2WD,N,6,18,24,20,NA,Automatic,6,"2-Wheel Drive, Rear",1800,Truck,4,4,5,2250,448
+General Motors,GMC,C15 SIERRA 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,Truck,3,3,3,2750,475
+General Motors,GMC,C15 SIERRA 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,Truck,3,3,3,2750,475
+General Motors,GMC,C15 SIERRA 2WD,N,8,16,22,18,NA,Automatic,8,"2-Wheel Drive, Rear",2000,Truck,3,3,3,3250,495
+General Motors,GMC,C15 SIERRA 2WD,N,8,18,24,20,NA,Automatic,8,"2-Wheel Drive, Rear",1800,Truck,4,4,3,2250,447
+General Motors,GMC,C15 SIERRA 2WD,N,8,15,21,17,NA,Automatic,8,"2-Wheel Drive, Rear",2450,Truck,3,3,3,5500,517
+General Motors,GMC,K15 SIERRA 4WD,N,6,17,22,19,NA,Automatic,6,4-Wheel Drive,1900,Truck,3,3,5,2750,474
+General Motors,GMC,K15 SIERRA 4WD,N,8,16,22,18,NA,Automatic,6,4-Wheel Drive,2000,Truck,3,3,3,3250,489
+General Motors,GMC,K15 SIERRA 4WD,N,8,16,22,18,NA,Automatic,6,4-Wheel Drive,2000,Truck,3,3,3,3250,489
+General Motors,GMC,K15 SIERRA 4WD,N,8,15,20,17,NA,Automatic,8,4-Wheel Drive,2100,Truck,3,3,3,3750,522
+General Motors,GMC,K15 SIERRA 4WD,N,8,16,21,18,NA,Automatic,8,4-Wheel Drive,2000,Truck,3,3,3,3250,490
+General Motors,GMC,K15 SIERRA 4WD,N,8,15,20,17,NA,Automatic,8,4-Wheel Drive,2450,Truck,3,3,3,5500,524
+General Motors,GMC,C15 SIERRA 2WD CAB CHASSIS,N,8,15,20,17,NA,Automatic,6,"2-Wheel Drive, Rear",2100,Truck,3,3,3,3750,523
+General Motors,GMC,CANYON CAB CHASSIS 2WD,N,6,15,15,15,NA,Automatic,8,"2-Wheel Drive, Rear",2400,Truck,2,2,5,5250,589
+General Motors,GMC,K15 SIERRA 4WD CAB CHASSIS,N,8,15,19,17,NA,Automatic,6,4-Wheel Drive,2100,Truck,3,3,3,3750,523
+General Motors,GMC,TERRAIN FWD,N,4,26,30,28,NA,Automatic,9,"2-Wheel Drive, Front",1300,SUV,6,6,5,250,316
+General Motors,GMC,TERRAIN FWD,N,4,28,39,32,NA,Automatic,6,"2-Wheel Drive, Front",1250,SUV,7,6,3,500,319
+General Motors,GMC,TERRAIN FWD,N,4,22,28,24,NA,Automatic,9,"2-Wheel Drive, Front",1750,SUV,5,5,5,2000,369
+General Motors,GMC,TERRAIN AWD,N,4,24,28,26,NA,Automatic,9,All Wheel Drive,1400,SUV,5,5,5,250,339
+General Motors,GMC,TERRAIN AWD,N,4,28,38,32,NA,Automatic,6,All Wheel Drive,1250,SUV,7,6,3,500,319
+General Motors,GMC,TERRAIN AWD,N,4,21,26,23,NA,Automatic,9,All Wheel Drive,1850,SUV,5,5,5,2500,386
+General Motors,GMC,ACADIA FWD,N,4,21,26,23,NA,Automatic,6,"2-Wheel Drive, Front",1550,SUV,5,5,3,1000,386
+General Motors,GMC,ACADIA FWD,N,6,18,25,21,NA,Automatic,6,"2-Wheel Drive, Front",1700,SUV,4,4,5,1750,423
+General Motors,GMC,C1500 YUKON 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,SUV,3,3,3,2750,468
+General Motors,GMC,C1500 YUKON 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,SUV,3,3,3,2750,468
+General Motors,GMC,C1500 YUKON 2WD,N,8,14,23,17,NA,Automatic,10,"2-Wheel Drive, Rear",2450,SUV,3,3,3,5500,517
+General Motors,GMC,C1500 YUKON XL 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,SUV,3,3,3,2750,468
+General Motors,GMC,C1500 YUKON XL 2WD,N,8,16,23,19,NA,Automatic,6,"2-Wheel Drive, Rear",1900,SUV,3,3,3,2750,468
+General Motors,GMC,C1500 YUKON XL 2WD,N,8,14,23,17,NA,Automatic,10,"2-Wheel Drive, Rear",2450,SUV,3,3,3,5500,517
+General Motors,GMC,ACADIA AWD,N,4,21,25,23,NA,Automatic,6,All Wheel Drive,1550,SUV,5,5,3,1000,392
+General Motors,GMC,ACADIA AWD,N,6,17,25,20,NA,Automatic,6,All Wheel Drive,1800,SUV,4,4,5,2250,442
+General Motors,GMC,K1500 YUKON 4WD,N,8,16,22,18,NA,Automatic,6,4-Wheel Drive,2000,SUV,3,3,3,3250,497
+General Motors,GMC,K1500 YUKON 4WD,N,8,16,22,18,NA,Automatic,6,4-Wheel Drive,2000,SUV,3,3,3,3250,497
+General Motors,GMC,K1500 YUKON 4WD,N,8,14,22,17,NA,Automatic,10,4-Wheel Drive,2450,SUV,3,3,3,5500,523
+General Motors,GMC,K1500 YUKON XL 4WD,N,8,15,22,18,NA,Automatic,6,4-Wheel Drive,2000,SUV,3,3,3,3250,504
+General Motors,GMC,K1500 YUKON XL 4WD,N,8,15,22,18,NA,Automatic,6,4-Wheel Drive,2000,SUV,3,3,3,3250,504
+General Motors,GMC,K1500 YUKON XL 4WD,N,8,14,21,16,NA,Automatic,10,4-Wheel Drive,2600,SUV,2,2,3,6250,548
+Honda,Honda,CIVIC 2Dr,N,4,31,40,35,N,Automatic,1,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,256
+Honda,Honda,CIVIC 2Dr,N,4,30,41,35,N,Manual,6,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,258
+Honda,Honda,CIVIC 2Dr,N,4,28,38,32,N,Manual,6,"2-Wheel Drive, Front",1300,Car,7,7,3,250,279
+Honda,Honda,CIVIC 2Dr,N,4,30,39,34,N,Automatic,1,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,262
+Honda,Honda,CIVIC 2Dr,N,4,28,39,32,N,Manual,6,"2-Wheel Drive, Front",1100,Car,7,7,3,1250,278
+Honda,Honda,ACCORD 2.0T SPORT/TOURING,N,4,22,32,26,N,Automatic,10,"2-Wheel Drive, Front",1400,Car,5,5,7,250,345
+Honda,Honda,CIVIC 4Dr,N,4,32,42,36,N,Automatic,1,"2-Wheel Drive, Front",1000,Car,8,8,3,1750,247
+Honda,Honda,CIVIC 4Dr,N,4,31,42,35,N,Manual,6,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,251
+Honda,Honda,CIVIC 4Dr,N,4,28,38,32,N,Manual,6,"2-Wheel Drive, Front",1300,Car,7,7,3,250,279
+Honda,Honda,CIVIC 4Dr,N,4,31,40,34,N,Automatic,1,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,257
+Honda,Honda,CIVIC 4Dr,N,4,28,40,32,N,Manual,6,"2-Wheel Drive, Front",1100,Car,7,7,3,1250,273
+Honda,Honda,ACCORD,N,4,30,38,33,N,Automatic,1,"2-Wheel Drive, Front",1100,Car,8,8,7,1250,266
+Honda,Honda,ACCORD,N,4,29,35,31,N,Automatic,7,"2-Wheel Drive, Front",1150,Car,7,7,7,1000,282
+Honda,Honda,ACCORD,N,4,26,35,30,N,Manual,6,"2-Wheel Drive, Front",1200,Car,7,7,6,750,298
+Honda,Honda,ACCORD,N,4,47,47,47,N,Automatic,1,"2-Wheel Drive, Front",750,Car,10,10,7,3000,187
+Honda,Honda,ACCORD,N,4,23,34,27,N,Automatic,10,"2-Wheel Drive, Front",1350,Car,6,6,7,0,330
+Honda,Honda,ACCORD,N,4,22,32,26,N,Manual,6,"2-Wheel Drive, Front",1400,Car,5,5,6,250,344
+Honda,Honda,CIVIC 5Dr,N,4,31,40,34,N,Automatic,1,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,259
+Honda,Honda,CIVIC 5Dr,N,4,30,36,32,N,Automatic,7,"2-Wheel Drive, Front",1300,Car,7,7,3,250,274
+Honda,Honda,CIVIC 5Dr,N,4,29,38,33,N,Manual,6,"2-Wheel Drive, Front",1100,Car,8,8,3,1250,269
+Honda,Honda,CIVIC 5Dr,N,4,29,38,33,N,Manual,6,"2-Wheel Drive, Front",1250,Car,8,8,3,500,269
+Honda,Honda,CIVIC 5Dr,N,4,22,28,25,N,Manual,6,"2-Wheel Drive, Front",1700,Car,5,5,3,1750,360
+Honda,Honda,FIT,N,4,33,40,36,NA,Automatic,1,"2-Wheel Drive, Front",1000,Station Wagon,8,8,7,1750,246
+Honda,Honda,FIT,N,4,31,36,33,NA,Automatic,7,"2-Wheel Drive, Front",1100,Station Wagon,8,8,7,1250,267
+Honda,Honda,FIT,N,4,29,36,31,NA,Manual,6,"2-Wheel Drive, Front",1150,Station Wagon,7,7,3,1000,282
+Honda,Honda,HR-V AWD,N,4,27,31,29,NA,Automatic,1,All Wheel Drive,1250,Station Wagon,6,6,3,500,314
+Honda,Honda,HR-V AWD,N,4,27,31,29,NA,Automatic,7,All Wheel Drive,1250,Station Wagon,6,6,3,500,314
+Honda,Honda,HR-V FWD,N,4,28,34,31,NA,Automatic,1,"2-Wheel Drive, Front",1150,Station Wagon,7,7,3,1000,289
+Honda,Honda,HR-V FWD,N,4,28,34,31,NA,Automatic,7,"2-Wheel Drive, Front",1150,Station Wagon,7,7,3,1000,289
+Honda,Honda,HR-V FWD,N,4,25,33,28,NA,Manual,6,"2-Wheel Drive, Front",1300,Station Wagon,6,6,3,250,314
+Honda,Honda,RIDGELINE FWD,N,6,19,26,22,NA,Automatic,6,"2-Wheel Drive, Front",1650,Truck,4,4,3,1500,410
+Honda,Honda,RIDGELINE AWD,N,6,18,25,21,NA,Automatic,6,All Wheel Drive,1700,Truck,4,4,3,1750,424
+Honda,Honda,ODYSSEY FWD,N,6,19,28,22,NA,Automatic,10,"2-Wheel Drive, Front",1650,Van,4,4,3,1500,395
+Honda,Honda,ODYSSEY FWD,N,6,19,28,22,NA,Automatic,9,"2-Wheel Drive, Front",1650,Van,4,4,3,1500,406
+Honda,Honda,CR-V FWD,N,4,28,34,30,NA,Automatic,1,"2-Wheel Drive, Front",1200,SUV,7,7,5,750,292
+Honda,Honda,CR-V FWD,N,4,26,32,28,NA,Automatic,1,"2-Wheel Drive, Front",1300,SUV,6,6,5,250,312
+Honda,Honda,PILOT FWD,N,6,19,27,22,NA,Automatic,6,"2-Wheel Drive, Front",1650,SUV,4,4,3,1500,405
+Honda,Honda,PILOT FWD,N,6,20,27,23,NA,Automatic,9,"2-Wheel Drive, Front",1550,SUV,5,5,3,1000,388
+Honda,Honda,CR-V AWD,N,4,27,33,29,NA,Automatic,1,All Wheel Drive,1250,SUV,6,6,5,500,303
+Honda,Honda,CR-V AWD,N,4,25,31,27,NA,Automatic,1,All Wheel Drive,1350,SUV,6,6,5,0,327
+Honda,Honda,PILOT AWD,N,6,18,26,21,NA,Automatic,6,All Wheel Drive,1700,SUV,4,4,3,1750,421
+Honda,Honda,PILOT AWD,N,6,19,26,22,NA,Automatic,9,All Wheel Drive,1650,SUV,4,4,3,1500,408
+Hyundai,HYUNDAI MOTOR COMPANY,Accent,N,4,28,38,32,N,Automatic,6,"2-Wheel Drive, Front",1100,Car,7,7,3,1250,277
+Hyundai,HYUNDAI MOTOR COMPANY,Accent,N,4,28,37,31,N,Manual,6,"2-Wheel Drive, Front",1150,Car,7,7,3,1000,284
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra,N,4,32,40,35,N,Manual,7,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,256
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra,N,4,26,33,29,N,Manual,7,"2-Wheel Drive, Front",1250,Car,6,6,3,500,305
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra,N,4,22,30,25,N,Manual,6,"2-Wheel Drive, Front",1450,Car,5,5,3,500,356
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra,N,4,28,37,32,N,Automatic,6,"2-Wheel Drive, Front",1100,Car,7,7,5,1250,281
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra,N,4,26,36,29,N,Manual,6,"2-Wheel Drive, Front",1250,Car,6,6,5,500,301
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra SE,N,4,29,38,33,N,Automatic,6,"2-Wheel Drive, Front",1100,Car,8,8,5,1250,272
+Hyundai,HYUNDAI MOTOR COMPANY,Sonata HYBRID,Y,4,39,44,41,N,Manual,6,"2-Wheel Drive, Front",900,Car,9,9,7,2250,217
+Hyundai,HYUNDAI MOTOR COMPANY,Sonata HYBRID SE,Y,4,40,46,42,N,Manual,6,"2-Wheel Drive, Front",850,Car,9,9,7,2500,212
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra GT,N,4,26,32,28,N,Manual,7,"2-Wheel Drive, Front",1300,Car,6,6,3,250,317
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra GT,N,4,22,29,25,N,Manual,6,"2-Wheel Drive, Front",1450,Car,5,5,3,500,363
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra GT,N,4,24,32,27,N,Automatic,6,"2-Wheel Drive, Front",1350,Car,6,6,3,0,327
+Hyundai,HYUNDAI MOTOR COMPANY,Elantra GT,N,4,23,31,26,N,Manual,6,"2-Wheel Drive, Front",1400,Car,5,5,3,250,338
+Hyundai,HYUNDAI MOTOR COMPANY,Ioniq,Y,4,55,54,55,N,Manual,6,"2-Wheel Drive, Front",650,Car,10,10,7,3500,163
+Hyundai,HYUNDAI MOTOR COMPANY,Ioniq Blue,Y,4,57,59,58,N,Manual,6,"2-Wheel Drive, Front",600,Car,10,10,7,3750,154
+Hyundai,HYUNDAI MOTOR COMPANY,Sonata,N,4,28,37,31,N,Manual,7,"2-Wheel Drive, Front",1150,Car,7,7,5,1000,284
+Hyundai,HYUNDAI MOTOR COMPANY,Sonata,N,4,23,32,26,N,Automatic,8,"2-Wheel Drive, Front",1400,Car,5,5,5,250,342
+Hyundai,HYUNDAI MOTOR COMPANY,Sonata,N,4,25,35,28,N,Automatic,6,"2-Wheel Drive, Front",1300,Car,6,6,5,250,316
+Hyundai,HYUNDAI MOTOR COMPANY,Sonata SE,N,4,25,36,29,N,Automatic,6,"2-Wheel Drive, Front",1250,Car,6,6,5,500,308
+Hyundai,HYUNDAI MOTOR COMPANY,Kona FWD,N,4,28,32,30,NA,Manual,7,"2-Wheel Drive, Front",1200,SUV,7,7,3,750,303
+Hyundai,HYUNDAI MOTOR COMPANY,Kona FWD,N,4,27,33,30,NA,Automatic,6,"2-Wheel Drive, Front",1200,SUV,7,7,5,750,300
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe FWD,N,6,18,25,21,NA,Automatic,6,"2-Wheel Drive, Front",1700,SUV,4,4,3,1750,427
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Sport FWD,N,4,20,28,23,NA,Automatic,6,"2-Wheel Drive, Front",1550,SUV,5,5,3,1000,388
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Sport FWD,N,4,21,27,24,NA,Automatic,6,"2-Wheel Drive, Front",1500,SUV,5,5,5,750,379
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Sport ULTIMATE FWD,N,4,20,27,23,NA,Automatic,6,"2-Wheel Drive, Front",1550,SUV,5,5,3,1000,396
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Ultimate FWD,N,6,17,23,20,NA,Automatic,6,"2-Wheel Drive, Front",1800,SUV,4,4,3,2250,457
+Hyundai,HYUNDAI MOTOR COMPANY,Tucson FWD,N,4,25,30,27,NA,Manual,7,"2-Wheel Drive, Front",1350,SUV,6,6,3,0,334
+Hyundai,HYUNDAI MOTOR COMPANY,Tucson FWD,N,4,23,30,26,NA,Automatic,6,"2-Wheel Drive, Front",1400,SUV,5,5,3,250,342
+Hyundai,HYUNDAI MOTOR COMPANY,Tucson FWD,N,4,21,28,24,NA,Automatic,6,"2-Wheel Drive, Front",1500,SUV,5,5,3,750,375
+Hyundai,HYUNDAI MOTOR COMPANY,Kona AWD,N,4,26,29,27,NA,Manual,7,All Wheel Drive,1350,SUV,6,6,3,0,324
+Hyundai,HYUNDAI MOTOR COMPANY,Kona AWD,N,4,25,30,27,NA,Automatic,6,All Wheel Drive,1350,SUV,6,6,5,0,326
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe AWD,N,6,18,24,20,NA,Automatic,6,All Wheel Drive,1800,SUV,4,4,3,2250,433
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Sport AWD,N,4,19,26,22,NA,Automatic,6,All Wheel Drive,1650,SUV,4,4,3,1500,410
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Sport AWD,N,4,20,26,22,NA,Automatic,6,All Wheel Drive,1650,SUV,4,4,5,1500,406
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Sport ULTIMATE AWD,N,4,19,24,21,NA,Automatic,6,All Wheel Drive,1700,SUV,4,4,3,1750,425
+Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Ultimate AWD,N,6,17,22,19,NA,Automatic,6,All Wheel Drive,1900,SUV,3,3,3,2750,475
+Hyundai,HYUNDAI MOTOR COMPANY,Tucson AWD,N,4,24,28,25,NA,Manual,7,All Wheel Drive,1450,SUV,5,5,3,500,355
+Hyundai,HYUNDAI MOTOR COMPANY,Tucson AWD,N,4,21,26,23,NA,Automatic,6,All Wheel Drive,1550,SUV,5,5,3,1000,388
+Hyundai,HYUNDAI MOTOR COMPANY,Tucson AWD,N,4,21,25,22,NA,Automatic,6,All Wheel Drive,1650,SUV,4,4,3,1500,396
+Nissan,INFINITI,Q60,N,4,22,30,25,N,Automatic,7,"2-Wheel Drive, Rear",1700,Car,5,5,3,1750,353
+Nissan,INFINITI,Q60,N,6,19,28,22,N,Automatic,7,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,405
+Nissan,INFINITI,Q60 AWD,N,4,21,28,24,N,Automatic,7,All Wheel Drive,1750,Car,5,5,3,2000,374
+Nissan,INFINITI,Q60 AWD,N,6,19,27,22,N,Automatic,7,All Wheel Drive,1900,Car,4,4,3,2750,408
+Nissan,INFINITI,Q60 AWD RED SPORT,N,6,19,26,21,N,Automatic,7,All Wheel Drive,2000,Car,4,4,3,3250,424
+Nissan,INFINITI,Q60 RED SPORT,N,6,20,27,22,N,Automatic,7,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,405
+Nissan,INFINITI,Q50 HYBRID,Y,6,27,32,29,N,Automatic,7,"2-Wheel Drive, Rear",1450,Car,6,6,3,500,308
+Nissan,INFINITI,Q50 HYBRID AWD,Y,6,26,30,28,N,Automatic,7,All Wheel Drive,1500,Car,6,6,3,750,321
+Nissan,INFINITI,QX30,N,4,24,33,27,N,Manual,7,"2-Wheel Drive, Front",1550,Car,6,6,3,1000,324
+Nissan,INFINITI,QX30 AWD,N,4,21,30,25,N,Manual,7,All Wheel Drive,1700,Car,5,5,3,1750,362
+Nissan,INFINITI,Q50,N,4,23,30,25,N,Automatic,7,"2-Wheel Drive, Rear",1700,Car,5,5,3,1750,349
+Nissan,INFINITI,Q50,N,6,20,29,23,N,Automatic,7,"2-Wheel Drive, Rear",1850,Car,5,5,3,2500,387
+Nissan,INFINITI,Q50 AWD,N,4,22,28,24,N,Automatic,7,All Wheel Drive,1750,Car,5,5,3,2000,368
+Nissan,INFINITI,Q50 AWD,N,6,19,27,22,N,Automatic,7,All Wheel Drive,1900,Car,4,4,3,2750,408
+Nissan,INFINITI,Q50 AWD RED SPORT,N,6,19,26,22,N,Automatic,7,All Wheel Drive,1900,Car,4,4,3,2750,405
+Nissan,INFINITI,Q50 RED SPORT,N,6,20,26,22,N,Automatic,7,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,404
+Nissan,INFINITI,Q70,N,6,18,25,21,N,Automatic,7,"2-Wheel Drive, Rear",2000,Car,4,4,3,3250,433
+Nissan,INFINITI,Q70,N,8,16,24,19,N,Automatic,7,"2-Wheel Drive, Rear",2200,Car,3,3,3,4250,464
+Nissan,INFINITI,Q70 AWD,N,6,18,24,20,N,Automatic,7,All Wheel Drive,2100,Car,4,4,3,3750,442
+Nissan,INFINITI,Q70 AWD,N,8,16,23,18,N,Automatic,7,All Wheel Drive,2350,Car,3,3,3,5000,490
+Nissan,INFINITI,Q70 HYBRID,Y,6,28,33,30,N,Automatic,7,"2-Wheel Drive, Rear",1400,Car,7,7,3,250,296
+Nissan,INFINITI,QX60 FWD,N,6,20,27,22,NA,Automatic,7,"2-Wheel Drive, Front",1900,SUV,4,4,5,2750,399
+Nissan,INFINITI,QX60 AWD,N,6,19,26,22,NA,Automatic,7,All Wheel Drive,1900,SUV,4,4,5,2750,410
+Nissan,INFINITI,QX80 2WD,N,8,14,20,16,NA,Automatic,7,"2-Wheel Drive, Rear",2600,SUV,2,2,3,6250,547
+Nissan,INFINITI,QX80 4WD,N,8,13,19,15,NA,Automatic,7,4-Wheel Drive,2800,SUV,2,2,3,7250,593
+Jaguar Land Rover L,Jaguar,F-TYPE Convertible,N,4,23,30,26,N,Automatic,8,"2-Wheel Drive, Rear",1600,Car,5,5,7,1250,346
+Jaguar Land Rover L,Jaguar,F-TYPE Convertible,N,6,20,28,23,N,Automatic,8,"2-Wheel Drive, Rear",1850,Car,5,5,7,2500,390
+Jaguar Land Rover L,Jaguar,F-TYPE Convertible Manual,N,6,16,24,19,N,Manual,6,"2-Wheel Drive, Rear",2200,Car,3,3,7,4250,476
+Jaguar Land Rover L,Jaguar,F-TYPE Coupe,N,4,23,30,26,N,Automatic,8,"2-Wheel Drive, Rear",1600,Car,5,5,7,1250,346
+Jaguar Land Rover L,Jaguar,F-TYPE Coupe,N,6,20,28,23,N,Automatic,8,"2-Wheel Drive, Rear",1850,Car,5,5,7,2500,390
+Jaguar Land Rover L,Jaguar,F-TYPE Coupe Manual,N,6,16,24,19,N,Manual,6,"2-Wheel Drive, Rear",2200,Car,3,3,7,4250,476
+Jaguar Land Rover L,Jaguar,F-TYPE R AWD Convertible,N,8,15,23,18,N,Automatic,8,All Wheel Drive,2350,Car,3,3,3,5000,500
+Jaguar Land Rover L,Jaguar,F-TYPE R AWD Coupe,N,8,15,23,18,N,Automatic,8,All Wheel Drive,2350,Car,3,3,3,5000,500
+Jaguar Land Rover L,Jaguar,F-TYPE S AWD Convertible,N,6,18,26,21,N,Automatic,8,All Wheel Drive,2000,Car,4,4,7,3250,426
+Jaguar Land Rover L,Jaguar,F-TYPE S AWD Coupe,N,6,18,26,21,N,Automatic,8,All Wheel Drive,2000,Car,4,4,7,3250,426
+Jaguar Land Rover L,Jaguar,F-TYPE S Convertible,N,6,19,27,22,N,Automatic,8,"2-Wheel Drive, Rear",1900,Car,4,4,7,2750,407
+Jaguar Land Rover L,Jaguar,F-TYPE S Convertible Manual,N,6,15,24,18,N,Manual,6,"2-Wheel Drive, Rear",2350,Car,3,3,7,5000,485
+Jaguar Land Rover L,Jaguar,F-TYPE S Coupe,N,6,19,27,22,N,Automatic,8,"2-Wheel Drive, Rear",1900,Car,4,4,7,2750,407
+Jaguar Land Rover L,Jaguar,F-TYPE S Coupe Manual,N,6,15,24,18,N,Manual,6,"2-Wheel Drive, Rear",2350,Car,3,3,7,5000,485
+Jaguar Land Rover L,Jaguar,XE,N,4,32,42,36,N,Automatic,8,"2-Wheel Drive, Rear",1100,Car,8,7,1,1250,284
+Jaguar Land Rover L,Jaguar,XE,N,4,25,34,28,N,Automatic,8,"2-Wheel Drive, Rear",1500,Car,6,6,7,750,312
+Jaguar Land Rover L,Jaguar,XE,N,6,21,30,24,N,Automatic,8,"2-Wheel Drive, Rear",1750,Car,5,5,7,2000,369
+Jaguar Land Rover L,Jaguar,XE (296 Hp),N,4,24,32,27,N,Automatic,8,"2-Wheel Drive, Rear",1550,Car,6,6,7,1000,333
+Jaguar Land Rover L,Jaguar,XE AWD,N,4,30,40,34,N,Automatic,8,All Wheel Drive,1150,Car,8,7,1,1000,299
+Jaguar Land Rover L,Jaguar,XE AWD,N,4,24,34,28,N,Automatic,8,All Wheel Drive,1500,Car,6,6,7,750,321
+Jaguar Land Rover L,Jaguar,XE AWD,N,6,20,29,23,N,Automatic,8,All Wheel Drive,1850,Car,5,5,7,2500,383
+Jaguar Land Rover L,Jaguar,XE AWD (296 Hp),N,4,22,30,25,N,Automatic,8,All Wheel Drive,1700,Car,5,5,7,1750,354
+Jaguar Land Rover L,Jaguar,XF,N,4,31,42,35,N,Automatic,8,"2-Wheel Drive, Rear",1150,Car,8,7,1,1000,289
+Jaguar Land Rover L,Jaguar,XF,N,4,25,34,28,N,Automatic,8,"2-Wheel Drive, Rear",1500,Car,6,6,7,750,312
+Jaguar Land Rover L,Jaguar,XF,N,6,20,29,23,N,Automatic,8,"2-Wheel Drive, Rear",1850,Car,5,5,7,2500,377
+Jaguar Land Rover L,Jaguar,XF (296 Hp),N,4,23,31,26,N,Automatic,8,"2-Wheel Drive, Rear",1600,Car,5,5,7,1250,335
+Jaguar Land Rover L,Jaguar,XF AWD,N,4,30,40,34,N,Automatic,8,All Wheel Drive,1150,Car,8,7,1,1000,299
+Jaguar Land Rover L,Jaguar,XF AWD,N,4,23,33,27,N,Automatic,8,All Wheel Drive,1550,Car,6,6,7,1000,333
+Jaguar Land Rover L,Jaguar,XF AWD,N,6,20,28,23,N,Automatic,8,All Wheel Drive,1850,Car,5,5,7,2500,390
+Jaguar Land Rover L,Jaguar,XF AWD (296 Hp),N,4,22,31,25,N,Automatic,8,All Wheel Drive,1700,Car,5,5,7,1750,349
+Jaguar Land Rover L,Jaguar,XJ,N,6,18,27,21,N,Automatic,8,"2-Wheel Drive, Rear",2000,Car,4,4,7,3250,416
+Jaguar Land Rover L,Jaguar,XJ,N,8,15,23,18,N,Automatic,8,"2-Wheel Drive, Rear",2350,Car,3,3,3,5000,503
+Jaguar Land Rover L,Jaguar,XJ AWD,N,6,17,26,20,N,Automatic,8,All Wheel Drive,2100,Car,4,4,7,3750,444
+Jaguar Land Rover L,Jaguar,XJL,N,6,18,27,21,N,Automatic,8,"2-Wheel Drive, Rear",2000,Car,4,4,7,3250,418
+Jaguar Land Rover L,Jaguar,XJL,N,8,15,23,18,N,Automatic,8,"2-Wheel Drive, Rear",2350,Car,3,3,3,5000,503
+Jaguar Land Rover L,Jaguar,XJL AWD,N,6,17,25,20,N,Automatic,8,All Wheel Drive,2100,Car,4,4,7,3750,450
+Jaguar Land Rover L,Jaguar,XF Sportbrake AWD,N,6,18,25,21,NA,Automatic,8,All Wheel Drive,2000,Station Wagon,4,4,7,3250,428
+Jaguar Land Rover L,Jaguar,F-Pace,N,4,26,33,29,NA,Automatic,8,All Wheel Drive,1350,SUV,6,5,1,0,352
+Jaguar Land Rover L,Jaguar,F-Pace,N,4,22,27,24,NA,Automatic,8,All Wheel Drive,1750,SUV,5,5,7,2000,365
+Jaguar Land Rover L,Jaguar,F-Pace,N,6,18,23,20,NA,Automatic,8,All Wheel Drive,2100,SUV,4,4,7,3750,446
+Jaguar Land Rover L,Jaguar,F-Pace (296 Hp),N,4,22,27,24,NA,Automatic,8,All Wheel Drive,1750,SUV,5,5,7,2000,373
+Jaguar Land Rover L,Jaguar,Jaguar E-Pace,N,4,21,28,24,NA,Automatic,9,All Wheel Drive,1750,SUV,5,5,7,2000,395
+Jaguar Land Rover L,Jaguar,Jaguar E-Pace (296 Hp),N,4,21,27,23,NA,Automatic,9,All Wheel Drive,1850,SUV,5,5,7,2500,379
+FCA US LLC,Jeep,Cherokee FWD,N,4,21,30,25,NA,Automatic,9,"2-Wheel Drive, Front",1450,SUV,5,5,7,500,361
+FCA US LLC,Jeep,Cherokee FWD,N,4,21,30,25,NA,Automatic,9,"2-Wheel Drive, Front",1450,SUV,5,5,3,500,361
+FCA US LLC,Jeep,Cherokee FWD,N,6,21,29,24,NA,Automatic,9,"2-Wheel Drive, Front",1600,SUV,5,5,3,1250,377
+FCA US LLC,Jeep,Compass 4X2,N,4,22,31,25,NA,Automatic,6,"2-Wheel Drive, Front",1450,SUV,5,5,7,500,350
+FCA US LLC,Jeep,Compass 4X2,N,4,23,32,26,NA,Manual,6,"2-Wheel Drive, Front",1400,SUV,5,5,3,250,339
+FCA US LLC,Jeep,Renegade 4x2,N,4,24,31,26,NA,Manual,6,"2-Wheel Drive, Front",1600,SUV,5,5,3,1250,336
+FCA US LLC,Jeep,Renegade 4x2,N,4,22,30,25,NA,Automatic,9,"2-Wheel Drive, Front",1450,SUV,5,5,7,500,357
+FCA US LLC,Jeep,Renegade 4x2,N,4,22,30,25,NA,Automatic,9,"2-Wheel Drive, Front",1450,SUV,5,5,3,500,357
+FCA US LLC,Jeep,Cherokee 4X4,N,4,21,28,23,NA,Automatic,9,All Wheel Drive,1550,SUV,5,5,3,1000,378
+FCA US LLC,Jeep,Cherokee 4X4,N,4,21,28,23,NA,Automatic,9,All Wheel Drive,1550,SUV,5,5,3,1000,378
+FCA US LLC,Jeep,Cherokee 4X4,N,6,20,27,23,NA,Automatic,9,All Wheel Drive,1700,SUV,5,5,3,1750,388
+FCA US LLC,Jeep,Cherokee 4x4 Active Drive II,N,4,21,27,23,NA,Automatic,9,4-Wheel Drive,1550,SUV,5,5,1,1000,385
+FCA US LLC,Jeep,Cherokee 4x4 Active Drive II,N,6,18,26,21,NA,Automatic,9,4-Wheel Drive,1850,SUV,4,4,3,2500,416
+FCA US LLC,Jeep,Cherokee Trailhawk 4X4,N,4,19,25,22,NA,Automatic,9,4-Wheel Drive,1650,SUV,4,4,1,1500,412
+FCA US LLC,Jeep,Cherokee Trailhawk 4X4,N,6,18,24,21,NA,Automatic,9,4-Wheel Drive,1850,SUV,4,4,3,2500,432
+FCA US LLC,Jeep,Compass 4X4,N,4,22,30,25,NA,Automatic,9,All Wheel Drive,1450,SUV,5,5,7,500,358
+FCA US LLC,Jeep,Compass 4X4,N,4,22,31,25,NA,Manual,6,All Wheel Drive,1450,SUV,5,5,3,500,355
+FCA US LLC,Jeep,New Wrangler 4X4,N,4,23,25,24,NA,Automatic,8,4-Wheel Drive,1750,SUV,5,5,5,2000,375
+FCA US LLC,Jeep,New Wrangler 4X4,N,6,18,23,20,NA,Automatic,8,4-Wheel Drive,1800,SUV,4,4,5,2250,440
+FCA US LLC,Jeep,New Wrangler 4X4,N,6,17,25,20,NA,Manual,6,4-Wheel Drive,1800,SUV,4,4,5,2250,446
+FCA US LLC,Jeep,New Wrangler Unlimited 4X4,N,4,22,24,22,NA,Automatic,8,4-Wheel Drive,1900,SUV,4,4,5,2750,394
+FCA US LLC,Jeep,New Wrangler Unlimited 4X4,N,6,18,23,20,NA,Automatic,8,4-Wheel Drive,1800,SUV,4,4,5,2250,443
+FCA US LLC,Jeep,New Wrangler Unlimited 4X4,N,6,17,23,19,NA,Manual,6,4-Wheel Drive,1900,SUV,3,3,5,2750,459
+FCA US LLC,Jeep,Renegade 4x4,N,4,24,31,26,NA,Manual,6,All Wheel Drive,1600,SUV,5,5,3,1250,339
+FCA US LLC,Jeep,Renegade 4x4,N,4,21,29,24,NA,Automatic,9,All Wheel Drive,1500,SUV,5,5,7,750,371
+FCA US LLC,Jeep,Wrangler 4X4,N,6,17,21,18,NA,Automatic,5,4-Wheel Drive,2000,SUV,3,3,3,3250,481
+FCA US LLC,Jeep,Wrangler 4X4,N,6,17,21,18,NA,Manual,6,4-Wheel Drive,2000,SUV,3,3,3,3250,480
+FCA US LLC,Jeep,Wrangler Unlimited 4X4,N,6,16,20,18,NA,Automatic,5,4-Wheel Drive,2000,SUV,3,3,3,3250,504
+FCA US LLC,Jeep,Wrangler Unlimited 4X4,N,6,16,21,18,NA,Manual,6,4-Wheel Drive,2000,SUV,3,3,3,3250,502
+FCA US LLC,Jeep,Grand Cherokee 4X2,N,6,22,30,25,NA,Automatic,8,"2-Wheel Drive, Rear",1600,SUV,5,4,1,1250,408
+FCA US LLC,Jeep,Grand Cherokee 4X2,N,6,19,26,21,NA,Automatic,8,"2-Wheel Drive, Rear",1700,SUV,4,4,5,1750,414
+FCA US LLC,Jeep,Grand Cherokee 4X4,N,6,21,28,24,NA,Automatic,8,All Wheel Drive,1650,SUV,5,4,1,1500,432
+FCA US LLC,Jeep,Grand Cherokee 4X4,N,6,18,25,21,NA,Automatic,8,All Wheel Drive,1700,SUV,4,4,5,1750,427
+FCA US LLC,Jeep,Grand Cherokee 4X4,N,8,14,22,17,NA,Automatic,8,All Wheel Drive,2300,SUV,3,3,3,4750,533
+FCA US LLC,Jeep,Grand Cherokee SRT 4x4,N,8,13,19,15,NA,Automatic,8,All Wheel Drive,2800,SUV,2,2,1,7250,592
+FCA US LLC,Jeep,Grand Cherokee TrackHawk 4x4,N,8,11,17,13,NA,Automatic,8,All Wheel Drive,3250,SUV,1,1,1,9500,664
+Kia,KIA MOTORS CORPORATION,Rio,N,4,28,37,32,N,Automatic,6,"2-Wheel Drive, Front",1100,Car,7,7,3,1250,280
+Kia,KIA MOTORS CORPORATION,Rio,N,4,29,37,32,N,Manual,6,"2-Wheel Drive, Front",1100,Car,7,7,3,1250,277
+Kia,KIA MOTORS CORPORATION,Forte,N,4,29,37,32,N,Automatic,6,"2-Wheel Drive, Front",1100,Car,7,7,5,1250,279
+Kia,KIA MOTORS CORPORATION,Forte,N,4,25,33,28,N,Automatic,6,"2-Wheel Drive, Front",1300,Car,6,6,3,250,318
+Kia,KIA MOTORS CORPORATION,Forte,N,4,25,34,28,N,Manual,6,"2-Wheel Drive, Front",1300,Car,6,6,5,250,314
+Kia,KIA MOTORS CORPORATION,Optima Hybrid,Y,4,39,46,42,N,Manual,6,"2-Wheel Drive, Front",850,Car,9,9,3,2500,212
+Kia,KIA MOTORS CORPORATION,Stinger AWD,N,4,21,29,24,N,Automatic,8,All Wheel Drive,1750,Car,5,5,3,2000,368
+Kia,KIA MOTORS CORPORATION,Stinger AWD,N,6,19,25,21,N,Automatic,8,All Wheel Drive,2000,Car,4,4,3,3250,420
+Kia,KIA MOTORS CORPORATION,Stinger RWD,N,4,22,29,25,N,Automatic,8,"2-Wheel Drive, Rear",1700,Car,5,5,3,1750,365
+Kia,KIA MOTORS CORPORATION,Stinger RWD,N,6,19,25,21,N,Automatic,8,"2-Wheel Drive, Rear",2000,Car,4,4,3,3250,420
+Kia,KIA MOTORS CORPORATION,Cadenza,N,6,20,28,23,N,Automatic,8,"2-Wheel Drive, Front",1550,Car,5,5,3,1000,383
+Kia,KIA MOTORS CORPORATION,Forte5,N,4,25,30,27,N,Manual,7,"2-Wheel Drive, Front",1350,Car,6,6,3,0,332
+Kia,KIA MOTORS CORPORATION,Forte5,N,4,23,29,25,N,Manual,6,"2-Wheel Drive, Front",1450,Car,5,5,3,500,353
+Kia,KIA MOTORS CORPORATION,Forte5,N,4,25,34,28,N,Automatic,6,"2-Wheel Drive, Front",1300,Car,6,6,3,250,317
+Kia,KIA MOTORS CORPORATION,K900,N,6,17,25,20,N,Automatic,8,"2-Wheel Drive, Rear",1800,Car,4,4,3,2250,448
+Kia,KIA MOTORS CORPORATION,K900,N,8,15,23,18,N,Automatic,8,"2-Wheel Drive, Rear",2350,Car,3,3,3,5000,512
+Kia,KIA MOTORS CORPORATION,Optima,N,4,28,37,31,N,Manual,7,"2-Wheel Drive, Front",1150,Car,7,7,3,1000,286
+Kia,KIA MOTORS CORPORATION,Optima,N,4,22,31,25,N,Automatic,6,"2-Wheel Drive, Front",1450,Car,5,5,3,500,360
+Kia,KIA MOTORS CORPORATION,Optima,N,4,24,34,28,N,Automatic,6,"2-Wheel Drive, Front",1300,Car,6,6,5,250,321
+Kia,KIA MOTORS CORPORATION,Optima FE,N,4,25,36,29,N,Automatic,6,"2-Wheel Drive, Front",1250,Car,6,6,5,500,310
+Kia,KIA MOTORS CORPORATION,Optima S,N,4,23,32,26,N,Automatic,6,"2-Wheel Drive, Front",1400,Car,5,5,5,250,340
+Kia,KIA MOTORS CORPORATION,Niro,N,4,51,46,49,NA,Manual,6,"2-Wheel Drive, Front",750,Station Wagon,10,10,7,3000,183
+Kia,KIA MOTORS CORPORATION,Niro FE,N,4,52,49,50,NA,Manual,6,"2-Wheel Drive, Front",700,Station Wagon,10,10,7,3250,177
+Kia,KIA MOTORS CORPORATION,Niro Touring,N,4,46,40,43,NA,Manual,6,"2-Wheel Drive, Front",850,Station Wagon,9,9,7,2500,207
+Kia,KIA MOTORS CORPORATION,Soul,N,4,26,31,28,NA,Manual,7,"2-Wheel Drive, Front",1300,Station Wagon,6,6,3,250,320
+Kia,KIA MOTORS CORPORATION,Soul,N,4,25,30,27,NA,Automatic,6,"2-Wheel Drive, Front",1350,Station Wagon,6,6,3,0,330
+Kia,KIA MOTORS CORPORATION,Soul,N,4,24,30,27,NA,Manual,6,"2-Wheel Drive, Front",1350,Station Wagon,6,6,3,0,335
+Kia,KIA MOTORS CORPORATION,Soul,N,4,25,30,27,NA,Automatic,6,"2-Wheel Drive, Front",1350,Station Wagon,6,6,5,0,334
+Kia,KIA MOTORS CORPORATION,Sedona,N,6,18,24,20,NA,Automatic,6,"2-Wheel Drive, Front",1800,Van,4,4,3,2250,443
+Kia,KIA MOTORS CORPORATION,Sedona SX,N,6,18,25,21,NA,Automatic,6,"2-Wheel Drive, Front",1700,Van,4,4,3,1750,433
+Kia,KIA MOTORS CORPORATION,Sedona SXL,N,6,17,22,19,NA,Automatic,6,"2-Wheel Drive, Front",1900,Van,3,3,3,2750,476
+Kia,KIA MOTORS CORPORATION,Sorento FWD,N,4,20,27,23,NA,Automatic,6,"2-Wheel Drive, Front",1550,SUV,5,5,3,1000,397
+Kia,KIA MOTORS CORPORATION,Sorento FWD,N,4,21,28,24,NA,Automatic,6,"2-Wheel Drive, Front",1500,SUV,5,5,5,750,377
+Kia,KIA MOTORS CORPORATION,Sorento FWD,N,6,18,25,20,NA,Automatic,6,"2-Wheel Drive, Front",1800,SUV,4,4,3,2250,436
+Kia,KIA MOTORS CORPORATION,Sportage FE FWD,N,4,23,30,26,NA,Automatic,6,"2-Wheel Drive, Front",1400,SUV,5,5,5,250,351
+Kia,KIA MOTORS CORPORATION,Sportage FWD,N,4,21,26,23,NA,Automatic,6,"2-Wheel Drive, Front",1550,SUV,5,5,3,1000,392
+Kia,KIA MOTORS CORPORATION,Sportage FWD,N,4,22,29,25,NA,Automatic,6,"2-Wheel Drive, Front",1450,SUV,5,5,5,500,358
+Kia,KIA MOTORS CORPORATION,Sorento AWD,N,4,19,25,22,NA,Automatic,6,All Wheel Drive,1650,SUV,4,4,3,1500,414
+Kia,KIA MOTORS CORPORATION,Sorento AWD,N,4,21,25,22,NA,Automatic,6,All Wheel Drive,1650,SUV,4,4,5,1500,397
+Kia,KIA MOTORS CORPORATION,Sorento AWD,N,6,17,23,19,NA,Automatic,6,All Wheel Drive,1900,SUV,3,3,3,2750,465
+Kia,KIA MOTORS CORPORATION,Sorento AWD FE,N,6,18,25,21,NA,Automatic,6,All Wheel Drive,1700,SUV,4,4,3,1750,434
+Kia,KIA MOTORS CORPORATION,Sportage AWD,N,4,20,23,21,NA,Automatic,6,All Wheel Drive,1700,SUV,4,4,3,1750,424
+Kia,KIA MOTORS CORPORATION,Sportage AWD,N,4,21,25,23,NA,Automatic,6,All Wheel Drive,1550,SUV,5,5,5,1000,397
+Kia,KIA MOTORS CORPORATION,Sportage FE AWD,N,4,21,25,22,NA,Automatic,6,All Wheel Drive,1650,SUV,4,4,5,1500,400
+Koenigsegg,Koenigsegg Automotive AG,Agera RS,N,8,11,18,13,Y,Automatic,7,"2-Wheel Drive, Rear",3250,Car,1,1,1,9500,654
+Volkswagen Group of,Lamborghini,Aventador Coupe,N,12,10,17,12,Y,Manual,7,All Wheel Drive,3500,Car,1,1,1,10750,731
+Volkswagen Group of,Lamborghini,Aventador Roadster,N,12,10,16,12,Y,Manual,7,All Wheel Drive,3500,Car,1,1,1,10750,751
+Volkswagen Group of,Lamborghini,Aventador S Coupe,N,12,10,17,12,Y,Manual,7,All Wheel Drive,3500,Car,1,1,1,10750,731
+Volkswagen Group of,Lamborghini,Aventador S Roadster,N,12,10,16,12,Y,Manual,7,All Wheel Drive,3500,Car,1,1,1,10750,751
+Volkswagen Group of,Lamborghini,Huracan,N,10,14,19,16,Y,Manual,7,All Wheel Drive,2600,Car,2,2,1,6250,570
+Volkswagen Group of,Lamborghini,Huracan 2WD,N,10,14,21,16,Y,Manual,7,"2-Wheel Drive, Rear",2600,Car,2,2,1,6250,541
+Volkswagen Group of,Lamborghini,Huracan Spyder,N,10,13,19,15,Y,Manual,7,All Wheel Drive,2800,Car,2,2,1,7250,577
+Volkswagen Group of,Lamborghini,Huracan Spyder 2WD,N,10,14,20,16,Y,Manual,7,"2-Wheel Drive, Rear",2600,Car,2,2,1,6250,543
+Jaguar Land Rover L,Land Rover,Discovery Sport,N,4,21,25,22,NA,Automatic,9,All Wheel Drive,1900,SUV,4,4,7,2750,395
+Jaguar Land Rover L,Land Rover,Discovery Sport (286 Hp),N,4,20,25,22,NA,Automatic,9,All Wheel Drive,1900,SUV,4,4,7,2750,402
+Jaguar Land Rover L,Land Rover,Range Rover Evoque,N,4,22,29,25,NA,Automatic,9,All Wheel Drive,1700,SUV,5,5,7,1750,362
+Jaguar Land Rover L,Land Rover,Range Rover Evoque (286 Hp),N,4,21,29,24,NA,Automatic,9,All Wheel Drive,1750,SUV,5,5,7,2000,377
+Jaguar Land Rover L,Land Rover,Range Rover Evoque Cabriolet,N,4,21,29,24,NA,Automatic,9,All Wheel Drive,1750,SUV,5,5,7,2000,371
+Jaguar Land Rover L,Land Rover,Range Rover Velar,N,4,26,30,28,NA,Automatic,8,All Wheel Drive,1400,SUV,6,5,1,250,369
+Jaguar Land Rover L,Land Rover,Range Rover Velar,N,4,21,27,23,NA,Automatic,8,All Wheel Drive,1850,SUV,5,5,7,2500,384
+Jaguar Land Rover L,Land Rover,Range Rover Velar,N,6,18,24,20,NA,Automatic,8,All Wheel Drive,2100,SUV,4,4,7,3750,439
+Jaguar Land Rover L,Land Rover,Discovery,N,6,21,26,23,NA,Automatic,8,4-Wheel Drive,1750,SUV,5,4,1,2000,448
+Jaguar Land Rover L,Land Rover,Discovery,N,6,16,21,18,NA,Automatic,8,4-Wheel Drive,2350,SUV,3,3,7,5000,500
+Jaguar Land Rover L,Land Rover,Range Rover,N,6,22,28,24,NA,Automatic,8,4-Wheel Drive,1650,SUV,5,4,1,1500,412
+Jaguar Land Rover L,Land Rover,Range Rover,N,6,17,23,19,NA,Automatic,8,4-Wheel Drive,2200,SUV,3,3,7,4250,468
+Jaguar Land Rover L,Land Rover,Range Rover,N,8,16,21,18,NA,Automatic,8,4-Wheel Drive,2350,SUV,3,3,3,5000,491
+Jaguar Land Rover L,Land Rover,Range Rover LWB,N,8,16,21,18,NA,Automatic,8,4-Wheel Drive,2350,SUV,3,3,3,5000,491
+Jaguar Land Rover L,Land Rover,Range Rover LWB SVA,N,8,13,19,15,NA,Automatic,8,4-Wheel Drive,2800,SUV,2,2,3,7250,587
+Jaguar Land Rover L,Land Rover,Range Rover Sport,N,6,22,28,24,NA,Automatic,8,4-Wheel Drive,1650,SUV,5,4,1,1500,412
+Jaguar Land Rover L,Land Rover,Range Rover Sport,N,6,17,23,19,NA,Automatic,8,4-Wheel Drive,2200,SUV,3,3,7,4250,468
+Jaguar Land Rover L,Land Rover,Range Rover Sport,N,8,17,22,19,NA,Automatic,8,4-Wheel Drive,2200,SUV,3,3,3,4250,474
+Jaguar Land Rover L,Land Rover,Range Rover Sport SVR,N,8,15,20,16,NA,Automatic,8,4-Wheel Drive,2600,SUV,2,2,3,6250,540
+Jaguar Land Rover L,Land Rover,Range Rover SVA,N,8,14,19,16,NA,Automatic,8,4-Wheel Drive,2600,SUV,2,2,3,6250,569
+Toyota,LEXUS,LC 500,N,8,16,26,19,N,Automatic,10,"2-Wheel Drive, Rear",2200,Car,3,3,5,4250,459
+Toyota,LEXUS,LC 500h,Y,6,26,35,30,N,Automatic,10,"2-Wheel Drive, Rear",1400,Car,7,7,7,250,301
+Toyota,LEXUS,RC 300,N,4,22,32,26,N,Automatic,8,"2-Wheel Drive, Rear",1600,Car,5,5,3,1250,345
+Toyota,LEXUS,RC 300 AWD,N,6,18,24,21,N,Automatic,6,All Wheel Drive,2000,Car,4,4,5,3250,422
+Toyota,LEXUS,RC 350,N,6,20,28,23,N,Automatic,8,"2-Wheel Drive, Rear",1850,Car,5,5,5,2500,388
+Toyota,LEXUS,RC 350 AWD,N,6,18,24,21,N,Automatic,6,All Wheel Drive,2000,Car,4,4,5,3250,422
+Toyota,LEXUS,RC F,N,8,16,25,19,N,Automatic,8,"2-Wheel Drive, Rear",2200,Car,3,3,5,4250,465
+Toyota,LEXUS,GS F,N,8,16,24,19,N,Automatic,8,"2-Wheel Drive, Rear",2200,Car,3,3,5,4250,472
+Toyota,LEXUS,IS 300,N,4,22,32,26,N,Automatic,8,"2-Wheel Drive, Rear",1600,Car,5,5,3,1250,345
+Toyota,LEXUS,IS 300 AWD,N,6,19,26,22,N,Automatic,6,All Wheel Drive,1900,Car,4,4,5,2750,410
+Toyota,LEXUS,IS 350,N,6,20,28,23,N,Automatic,8,"2-Wheel Drive, Rear",1850,Car,5,5,5,2500,388
+Toyota,LEXUS,IS 350 AWD,N,6,19,26,22,N,Automatic,6,All Wheel Drive,1900,Car,4,4,5,2750,410
+Toyota,LEXUS,ES 300h,Y,4,40,39,40,N,Automatic,6,"2-Wheel Drive, Front",900,Car,9,9,7,2250,223
+Toyota,LEXUS,ES 350,N,6,21,30,24,N,Automatic,6,"2-Wheel Drive, Front",1500,Car,5,5,3,750,366
+Toyota,LEXUS,GS 300,N,4,22,32,26,N,Automatic,8,"2-Wheel Drive, Rear",1600,Car,5,5,3,1250,345
+Toyota,LEXUS,GS 300 F SPORT,N,4,21,30,24,N,Automatic,8,"2-Wheel Drive, Rear",1750,Car,5,5,3,2000,368
+Toyota,LEXUS,GS 350,N,6,20,28,23,N,Automatic,8,"2-Wheel Drive, Rear",1850,Car,5,5,5,2500,388
+Toyota,LEXUS,GS 350 AWD,N,6,19,26,22,N,Automatic,6,All Wheel Drive,1900,Car,4,4,5,2750,407
+Toyota,LEXUS,GS 350 F SPORT,N,6,19,27,22,N,Automatic,8,"2-Wheel Drive, Rear",1900,Car,4,4,5,2750,405
+Toyota,LEXUS,GS 450h,Y,6,29,34,31,N,Automatic,8,"2-Wheel Drive, Rear",1350,Car,7,7,7,0,283
+Toyota,LEXUS,LS 500,N,6,19,30,23,N,Automatic,10,"2-Wheel Drive, Rear",1850,Car,5,5,3,2500,387
+Toyota,LEXUS,LS 500 AWD,N,6,18,27,21,N,Automatic,10,All Wheel Drive,2000,Car,4,4,3,3250,417
+Toyota,LEXUS,LS 500h,N,6,25,33,28,N,Automatic,10,"2-Wheel Drive, Rear",1500,Car,6,6,7,750,314
+Toyota,LEXUS,LS 500h AWD,N,6,23,31,26,N,Automatic,10,All Wheel Drive,1600,Car,5,5,7,1250,340
+Toyota,LEXUS,NX 300,N,4,22,28,25,NA,Automatic,6,"2-Wheel Drive, Front",1700,SUV,5,5,3,1750,360
+Toyota,LEXUS,RX 350,N,6,20,27,23,NA,Automatic,8,"2-Wheel Drive, Front",1550,SUV,5,5,5,1000,391
+Toyota,LEXUS,RX 350 L,N,6,19,26,22,NA,Automatic,8,"2-Wheel Drive, Front",1650,SUV,4,4,5,1500,407
+Toyota,LEXUS,NX 300 AWD,N,4,22,28,24,NA,Automatic,6,All Wheel Drive,1750,SUV,5,5,3,2000,363
+Toyota,LEXUS,NX 300 AWD F SPORT,N,4,22,27,24,NA,Automatic,6,All Wheel Drive,1750,SUV,5,5,3,2000,374
+Toyota,LEXUS,NX 300h AWD,N,4,33,30,31,NA,Automatic,6,All Wheel Drive,1150,SUV,7,7,7,1000,283
+Toyota,LEXUS,RX 350 AWD,N,6,19,26,22,NA,Automatic,8,All Wheel Drive,1650,SUV,4,4,5,1500,405
+Toyota,LEXUS,RX 350 L AWD,N,6,18,25,21,NA,Automatic,8,All Wheel Drive,1700,SUV,4,4,5,1750,432
+Toyota,LEXUS,GX 460,N,8,15,18,16,NA,Automatic,6,4-Wheel Drive,2600,SUV,2,2,3,6250,548
+Toyota,LEXUS,LX 570,N,8,13,18,15,NA,Automatic,8,4-Wheel Drive,2800,SUV,2,2,3,7250,597
+Toyota,LEXUS,RX 450h AWD,N,6,31,28,30,NA,Automatic,6,All Wheel Drive,1400,SUV,7,7,7,250,297
+Toyota,LEXUS,RX 450h L AWD,N,6,29,28,29,NA,Automatic,6,All Wheel Drive,1450,SUV,6,6,7,500,305
+Ford Motor Company,Lincoln,MKZ AWD,N,4,20,28,23,N,Automatic,6,All Wheel Drive,1550,Car,5,5,5,1000,386
+Ford Motor Company,Lincoln,MKZ AWD,N,6,17,26,20,N,Automatic,6,All Wheel Drive,1800,Car,4,4,5,2250,447
+Ford Motor Company,Lincoln,MKZ FWD,N,4,21,31,24,N,Automatic,6,"2-Wheel Drive, Front",1500,Car,5,5,5,750,370
+Ford Motor Company,Lincoln,MKZ FWD,N,6,18,27,21,N,Automatic,6,"2-Wheel Drive, Front",1700,Car,4,4,5,1750,425
+Ford Motor Company,Lincoln,MKZ HYBRID FWD,Y,4,41,38,40,N,Automatic,1,"2-Wheel Drive, Front",900,Car,9,9,7,2250,222
+Ford Motor Company,Lincoln,CONTINENTAL AWD,N,6,17,25,20,N,Automatic,6,All Wheel Drive,1800,Car,4,4,5,2250,451
+Ford Motor Company,Lincoln,CONTINENTAL AWD,N,6,16,24,19,N,Automatic,6,All Wheel Drive,1900,Car,3,3,5,2750,467
+Ford Motor Company,Lincoln,CONTINENTAL AWD,N,6,16,24,19,N,Automatic,6,All Wheel Drive,1900,Car,3,3,3,2750,466
+Ford Motor Company,Lincoln,CONTINENTAL FWD,N,6,18,27,21,N,Automatic,6,"2-Wheel Drive, Front",1700,Car,4,4,5,1750,424
+Ford Motor Company,Lincoln,CONTINENTAL FWD,N,6,17,26,20,N,Automatic,6,"2-Wheel Drive, Front",1800,Car,4,4,3,2250,440
+Ford Motor Company,Lincoln,MKT LIVERY AWD,N,6,16,23,18,N,Automatic,6,All Wheel Drive,2000,Car,3,3,3,3250,493
+Ford Motor Company,Lincoln,MKC  FWD,N,4,21,28,23,NA,Automatic,6,"2-Wheel Drive, Front",1550,SUV,5,5,5,1000,386
+Ford Motor Company,Lincoln,MKX FWD,N,6,18,25,20,NA,Automatic,6,"2-Wheel Drive, Front",1800,SUV,4,4,5,2250,444
+Ford Motor Company,Lincoln,MKX FWD,N,6,17,25,20,NA,Automatic,6,"2-Wheel Drive, Front",1800,SUV,4,4,3,2250,440
+Ford Motor Company,Lincoln,MKC  AWD,N,4,19,25,22,NA,Automatic,6,All Wheel Drive,1650,SUV,4,4,5,1500,404
+Ford Motor Company,Lincoln,MKC  AWD,N,4,19,25,21,NA,Automatic,6,All Wheel Drive,1700,SUV,4,4,5,1750,413
+Ford Motor Company,Lincoln,MKC  AWD,N,4,18,25,20,NA,Automatic,6,All Wheel Drive,1800,SUV,4,4,3,2250,436
+Ford Motor Company,Lincoln,MKX AWD,N,6,17,24,19,NA,Automatic,6,All Wheel Drive,1900,SUV,3,3,5,2750,467
+Ford Motor Company,Lincoln,MKX AWD,N,6,16,23,19,NA,Automatic,6,All Wheel Drive,1900,SUV,3,3,3,2750,471
+Ford Motor Company,Lincoln,MKT FWD,N,6,16,24,19,NA,Automatic,6,"2-Wheel Drive, Front",1900,SUV,3,3,3,2750,468
+Ford Motor Company,Lincoln,Navigator 2WD,N,6,16,23,19,NA,Automatic,10,"2-Wheel Drive, Rear",1900,SUV,3,3,5,2750,469
+Ford Motor Company,Lincoln,Navigator L 2WD,N,6,16,22,18,NA,Automatic,10,"2-Wheel Drive, Rear",2000,SUV,3,3,5,3250,490
+Ford Motor Company,Lincoln,MKT AWD,N,6,15,21,17,NA,Automatic,6,All Wheel Drive,2100,SUV,3,3,3,3750,523
+Ford Motor Company,Lincoln,Navigator 4WD,N,6,16,21,18,NA,Automatic,10,Part-time 4-Wheel Drive,2000,SUV,3,3,5,3250,499
+Maserati,MASERATI,GRANTURISMO,N,8,13,21,16,Y,Automatic,6,"2-Wheel Drive, Rear",2600,Car,2,2,4,6250,572
+Maserati,MASERATI,GRANTURISMO CONVERTIBLE,N,8,13,20,15,Y,Automatic,6,"2-Wheel Drive, Rear",2800,Car,2,2,4,7250,577
+Maserati,MASERATI,QUATTROPORTE V8,N,8,15,22,17,Y,Automatic,8,"2-Wheel Drive, Rear",2450,Car,3,3,4,5500,517
+Maserati,MASERATI,Ghibli  S RWD,N,6,16,24,19,N,Automatic,8,"2-Wheel Drive, Rear",2200,Car,3,3,4,4250,471
+Maserati,MASERATI,Ghibli V6 Rear Wheel Drive (RWD),N,6,17,24,19,N,Automatic,8,"2-Wheel Drive, Rear",2200,Car,3,3,4,4250,460
+Maserati,MASERATI,Ghibli V6 SQ4 AWD,N,6,16,24,19,N,Automatic,8,All Wheel Drive,2200,Car,3,3,4,4250,475
+Maserati,MASERATI,QUATTROPORTE S,N,6,16,23,18,N,Automatic,8,"2-Wheel Drive, Rear",2350,Car,3,3,4,5000,482
+Maserati,MASERATI,QUATTROPORTE SQ4 V6,N,6,16,23,18,N,Automatic,8,All Wheel Drive,2350,Car,3,3,4,5000,485
+Maserati,MASERATI,LEVANTE,N,8,14,20,16,NA,Automatic,8,All Wheel Drive,2600,SUV,2,2,4,6250,548
+Maserati,MASERATI,LEVANTE S,N,8,14,19,16,NA,Automatic,8,All Wheel Drive,2600,SUV,2,2,4,6250,557
+MAZDA,MAZDA,MX-5,N,4,26,35,29,N,Automatic,6,"2-Wheel Drive, Rear",1450,Car,6,6,3,500,303
+MAZDA,MAZDA,MX-5,N,4,26,33,29,N,Manual,6,"2-Wheel Drive, Rear",1450,Car,6,6,3,500,305
+MAZDA,MAZDA,CX-3 2WD,N,4,29,34,31,N,Automatic,6,"2-Wheel Drive, Front",1150,Car,7,7,3,1000,290
+MAZDA,MAZDA,CX-3 4WD,N,4,27,32,29,N,Automatic,6,4-Wheel Drive,1250,Car,6,6,3,500,308
+MAZDA,MAZDA,MAZDA2,N,4,32,40,35,N,Automatic,6,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,252
+MAZDA,MAZDA,MAZDA2,N,4,30,39,34,N,Manual,6,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,264
+MAZDA,MAZDA,MAZDA3 4-Door,N,4,28,37,31,N,Automatic,6,"2-Wheel Drive, Front",1150,Car,7,7,7,1000,283
+MAZDA,MAZDA,MAZDA3 4-Door,N,4,28,38,31,N,Manual,6,"2-Wheel Drive, Front",1150,Car,7,7,7,1000,281
+MAZDA,MAZDA,MAZDA3 4-Door,N,4,27,36,30,N,Automatic,6,"2-Wheel Drive, Front",1200,Car,7,7,7,750,293
+MAZDA,MAZDA,MAZDA3 5-Door,N,4,28,37,32,N,Automatic,6,"2-Wheel Drive, Front",1100,Car,7,7,7,1250,280
+MAZDA,MAZDA,MAZDA3 5-Door,N,4,27,37,31,N,Manual,6,"2-Wheel Drive, Front",1150,Car,7,7,7,1000,286
+MAZDA,MAZDA,MAZDA3 5-Door,N,4,26,35,30,N,Automatic,6,"2-Wheel Drive, Front",1200,Car,7,7,7,750,301
+MAZDA,MAZDA,MAZDA6,N,4,26,35,29,N,Automatic,6,"2-Wheel Drive, Front",1250,Car,6,6,7,500,302
+MAZDA,MAZDA,MAZDA6,N,4,23,31,26,N,Automatic,6,"2-Wheel Drive, Front",1400,Car,5,5,3,250,335
+MAZDA,MAZDA,MAZDA6,N,4,24,33,27,N,Manual,6,"2-Wheel Drive, Front",1350,Car,6,6,7,0,328
+MAZDA,MAZDA,CX-5 2WD,N,4,25,31,28,NA,Automatic,6,"2-Wheel Drive, Front",1300,SUV,6,6,7,250,321
+MAZDA,MAZDA,CX-9 2WD,N,4,22,28,24,NA,Automatic,6,"2-Wheel Drive, Front",1500,SUV,5,5,3,750,362
+MAZDA,MAZDA,CX-5 4WD,N,4,24,30,26,NA,Automatic,6,4-Wheel Drive,1400,SUV,5,5,7,250,335
+MAZDA,MAZDA,CX-9 4WD,N,4,20,26,23,NA,Automatic,6,4-Wheel Drive,1550,SUV,5,5,3,1000,391
+Mercedes-Benz,Mercedes-Benz,AMG GT C (coupe),N,8,15,20,17,Y,Manual,7,"2-Wheel Drive, Rear",2450,Car,3,3,5,5500,518
+Mercedes-Benz,Mercedes-Benz,AMG GT C (roadster),N,8,15,20,17,Y,Manual,7,"2-Wheel Drive, Rear",2450,Car,3,3,5,5500,518
+Mercedes-Benz,Mercedes-Benz,AMG GT R (coupe),N,8,15,20,17,Y,Manual,7,"2-Wheel Drive, Rear",2450,Car,3,3,5,5500,522
+Mercedes-Benz,Mercedes-Benz,AMG SL 65,N,12,13,22,16,Y,Automatic,7,"2-Wheel Drive, Rear",2600,Car,2,2,3,6250,546
+Mercedes-Benz,Mercedes-Benz,AMG S 65 (convertible),N,12,14,21,16,Y,Automatic,7,"2-Wheel Drive, Rear",2600,Car,2,2,3,6250,542
+Mercedes-Benz,Mercedes-Benz,AMG S 65 (coupe),N,12,13,21,16,Y,Automatic,7,"2-Wheel Drive, Rear",2600,Car,2,2,3,6250,553
+Mercedes-Benz,Mercedes-Benz,AMG S 65,N,12,13,22,16,Y,Automatic,7,"2-Wheel Drive, Rear",2600,Car,2,2,3,6250,574
+Mercedes-Benz,Mercedes-Benz,Maybach S 650,N,12,13,21,16,Y,Automatic,7,"2-Wheel Drive, Rear",2600,Car,2,2,3,6250,572
+Mercedes-Benz,Mercedes-Benz,AMG GT (coupe),N,8,16,22,18,N,Manual,7,"2-Wheel Drive, Rear",2350,Car,3,3,5,5000,486
+Mercedes-Benz,Mercedes-Benz,AMG GT (roadster),N,8,16,21,18,N,Manual,7,"2-Wheel Drive, Rear",2350,Car,3,3,5,5000,490
+Mercedes-Benz,Mercedes-Benz,AMG GT S (coupe),N,8,16,22,18,N,Manual,7,"2-Wheel Drive, Rear",2350,Car,3,3,5,5000,486
+Mercedes-Benz,Mercedes-Benz,AMG SL 63,N,8,16,25,19,N,Automatic,7,"2-Wheel Drive, Rear",2200,Car,3,3,1,4250,468
+Mercedes-Benz,Mercedes-Benz,AMG SLC 43,N,6,20,29,23,N,Automatic,9,"2-Wheel Drive, Rear",1850,Car,5,5,5,2500,379
+Mercedes-Benz,Mercedes-Benz,SL 450,N,6,20,28,23,N,Automatic,9,"2-Wheel Drive, Rear",1850,Car,5,5,3,2500,383
+Mercedes-Benz,Mercedes-Benz,SL 550,N,8,17,25,20,N,Automatic,9,"2-Wheel Drive, Rear",2100,Car,4,4,1,3750,442
+Mercedes-Benz,Mercedes-Benz,SLC 300,N,4,25,32,27,N,Automatic,9,"2-Wheel Drive, Rear",1550,Car,6,6,3,1000,324
+Mercedes-Benz,Mercedes-Benz,AMG C 43 4MATIC (convertible),N,6,19,26,22,N,Automatic,9,4-Wheel Drive,1900,Car,4,4,5,2750,405
+Mercedes-Benz,Mercedes-Benz,AMG C 43 4MATIC (coupe),N,6,20,27,22,N,Automatic,9,4-Wheel Drive,1900,Car,4,4,5,2750,394
+Mercedes-Benz,Mercedes-Benz,AMG C 63 (convertible),N,8,17,22,19,N,Automatic,7,"2-Wheel Drive, Rear",2200,Car,3,3,5,4250,468
+Mercedes-Benz,Mercedes-Benz,AMG C 63 (coupe),N,8,17,23,19,N,Automatic,7,"2-Wheel Drive, Rear",2200,Car,3,3,5,4250,458
+Mercedes-Benz,Mercedes-Benz,AMG C 63 S (convertible),N,8,17,22,19,N,Automatic,7,"2-Wheel Drive, Rear",2200,Car,3,3,5,4250,468
+Mercedes-Benz,Mercedes-Benz,AMG C 63 S (coupe),N,8,17,23,19,N,Automatic,7,"2-Wheel Drive, Rear",2200,Car,3,3,5,4250,458
+Mercedes-Benz,Mercedes-Benz,AMG S 63 4MATIC (convertible),N,8,15,24,18,N,Automatic,9,4-Wheel Drive,2350,Car,3,3,5,5000,493
+Mercedes-Benz,Mercedes-Benz,C 300 (convertible),N,4,22,29,25,N,Automatic,9,"2-Wheel Drive, Rear",1700,Car,5,5,5,1750,355
+Mercedes-Benz,Mercedes-Benz,C 300 (Coupe),N,4,22,30,25,N,Automatic,9,"2-Wheel Drive, Rear",1700,Car,5,5,5,1750,349
+Mercedes-Benz,Mercedes-Benz,C 300 4MATIC (convertible),N,4,22,29,25,N,Automatic,9,4-Wheel Drive,1700,Car,5,5,5,1750,360
+Mercedes-Benz,Mercedes-Benz,C 300 4MATIC (Coupe),N,4,22,30,25,N,Automatic,9,4-Wheel Drive,1700,Car,5,5,5,1750,351
+Mercedes-Benz,Mercedes-Benz,E 400 (convertible),N,6,20,26,22,N,Automatic,9,"2-Wheel Drive, Rear",1900,Car,4,4,5,2750,399
+Mercedes-Benz,Mercedes-Benz,E 400 (coupe),N,6,20,26,22,N,Automatic,9,"2-Wheel Drive, Rear",1900,Car,4,4,5,2750,397
+Mercedes-Benz,Mercedes-Benz,E 400 4MATIC (convertible),N,6,20,25,22,N,Automatic,9,4-Wheel Drive,1900,Car,4,4,5,2750,404
+Mercedes-Benz,Mercedes-Benz,E 400 4MATIC (coupe),N,6,20,26,22,N,Automatic,9,4-Wheel Drive,1900,Car,4,4,5,2750,394
+Mercedes-Benz,Mercedes-Benz,S 560 (convertible),N,8,17,26,20,N,Automatic,9,"2-Wheel Drive, Front",2100,Car,4,4,5,3750,439
+Mercedes-Benz,Mercedes-Benz,AMG C 43 4MATIC,N,6,20,27,23,N,Automatic,9,4-Wheel Drive,1850,Car,5,5,5,2500,393
+Mercedes-Benz,Mercedes-Benz,AMG C 63,N,8,18,24,20,N,Automatic,7,"2-Wheel Drive, Rear",2100,Car,4,4,5,3750,441
+Mercedes-Benz,Mercedes-Benz,AMG C 63 S,N,8,18,24,20,N,Automatic,7,"2-Wheel Drive, Rear",2100,Car,4,4,5,3750,441
+Mercedes-Benz,Mercedes-Benz,AMG CLA 45 4MATIC,N,4,23,30,26,N,Manual,7,4-Wheel Drive,1600,Car,5,5,3,1250,348
+Mercedes-Benz,Mercedes-Benz,AMG CLS 63 S 4MATIC,N,8,16,22,18,N,Automatic,7,4-Wheel Drive,2350,Car,3,3,1,5000,495
+Mercedes-Benz,Mercedes-Benz,AMG S 63 4MATIC (coupe),N,8,17,27,20,N,Automatic,9,4-Wheel Drive,2100,Car,4,4,5,3750,437
+Mercedes-Benz,Mercedes-Benz,C 300,N,4,24,33,27,N,Automatic,9,"2-Wheel Drive, Rear",1550,Car,6,6,5,1000,324
+Mercedes-Benz,Mercedes-Benz,C 300 4MATIC,N,4,23,32,26,N,Automatic,9,4-Wheel Drive,1600,Car,5,5,5,1250,335
+Mercedes-Benz,Mercedes-Benz,CLA 250,N,4,24,37,29,N,Manual,7,"2-Wheel Drive, Front",1450,Car,6,6,5,500,310
+Mercedes-Benz,Mercedes-Benz,CLA 250 4MATIC,N,4,24,32,27,N,Manual,7,Part-time 4-Wheel Drive,1550,Car,6,6,5,1000,328
+Mercedes-Benz,Mercedes-Benz,CLA 250 4MATIC,N,4,24,32,27,N,Manual,7,4-Wheel Drive,1550,Car,6,6,5,1000,328
+Mercedes-Benz,Mercedes-Benz,CLS 550,N,8,18,26,21,N,Automatic,9,"2-Wheel Drive, Rear",2000,Car,4,4,1,3250,425
+Mercedes-Benz,Mercedes-Benz,CLS 550 4MATIC,N,8,17,25,20,N,Automatic,9,4-Wheel Drive,2100,Car,4,4,1,3750,444
+Mercedes-Benz,Mercedes-Benz,S 560 4MATIC (coupe),N,8,17,27,21,N,Automatic,9,4-Wheel Drive,2000,Car,4,4,5,3250,426
+Mercedes-Benz,Mercedes-Benz,AMG E 43 4MATIC,N,6,19,25,21,N,Automatic,9,4-Wheel Drive,2000,Car,4,4,5,3250,416
+Mercedes-Benz,Mercedes-Benz,AMG E 63 S 4MATIC,N,8,15,22,18,N,Automatic,9,4-Wheel Drive,2350,Car,3,3,5,5000,497
+Mercedes-Benz,Mercedes-Benz,E 300,N,4,22,30,25,N,Automatic,9,"2-Wheel Drive, Rear",1700,Car,5,5,5,1750,351
+Mercedes-Benz,Mercedes-Benz,E 300 4MATIC,N,4,21,29,24,N,Automatic,9,4-Wheel Drive,1750,Car,5,5,5,2000,366
+Mercedes-Benz,Mercedes-Benz,E 400 4MATIC,N,6,20,27,23,N,Automatic,9,4-Wheel Drive,1850,Car,5,5,5,2500,396
+Mercedes-Benz,Mercedes-Benz,AMG S 63 4MATIC,N,8,17,26,20,N,Automatic,9,4-Wheel Drive,2100,Car,4,4,5,3750,443
+Mercedes-Benz,Mercedes-Benz,S 450,N,6,19,28,22,N,Automatic,9,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,403
+Mercedes-Benz,Mercedes-Benz,S 450 4MATIC,N,6,18,28,22,N,Automatic,9,4-Wheel Drive,1900,Car,4,4,3,2750,408
+Mercedes-Benz,Mercedes-Benz,S 560,N,8,17,27,21,N,Automatic,9,"2-Wheel Drive, Front",2000,Car,4,4,5,3250,426
+Mercedes-Benz,Mercedes-Benz,S 560 4MATIC,N,8,17,27,21,N,Automatic,9,4-Wheel Drive,2000,Car,4,4,5,3250,426
+Mercedes-Benz,Mercedes-Benz,S 560 4MATIC Maybach,N,8,16,25,19,N,Automatic,9,4-Wheel Drive,2200,Car,3,3,5,4250,455
+Mercedes-Benz,Mercedes-Benz,AMG E 63 S 4MATIC (Station Wagon,N,8,16,22,18,NA,Automatic,9,4-Wheel Drive,2350,Station Wagon,3,3,5,5000,496
+Mercedes-Benz,Mercedes-Benz,AMG GLA 45 4MATIC,N,4,22,28,25,NA,Manual,7,4-Wheel Drive,1700,Station Wagon,5,5,3,1750,361
+Mercedes-Benz,Mercedes-Benz,E 400 4MATIC (station wagon),N,6,19,25,21,NA,Automatic,9,4-Wheel Drive,2000,Station Wagon,4,4,5,3250,417
+Mercedes-Benz,Mercedes-Benz,Metris (Cargo Van),N,4,21,24,22,NA,Automatic,7,"2-Wheel Drive, Rear",1900,Van,4,4,5,2750,404
+Mercedes-Benz,Mercedes-Benz,"Metris (Cargo Van, LWB)",N,4,21,24,22,NA,Automatic,7,"2-Wheel Drive, Rear",1900,Van,4,4,5,2750,398
+Mercedes-Benz,Mercedes-Benz,Metris (Passenger Van),N,4,19,23,21,NA,Automatic,7,"2-Wheel Drive, Rear",2000,Van,4,4,5,3250,431
+Mercedes-Benz,Mercedes-Benz,GLA 250,N,4,24,33,27,NA,Manual,7,"2-Wheel Drive, Front",1550,SUV,6,6,5,1000,322
+Mercedes-Benz,Mercedes-Benz,GLC 300,N,4,22,28,24,NA,Automatic,9,"2-Wheel Drive, Rear",1750,SUV,5,5,5,2000,364
+Mercedes-Benz,Mercedes-Benz,AMG GLC 43 4MATIC,N,6,18,24,20,NA,Automatic,9,4-Wheel Drive,2100,SUV,4,4,5,3750,443
+Mercedes-Benz,Mercedes-Benz,AMG GLC 43 4MATIC (coupe),N,6,18,24,20,NA,Automatic,9,4-Wheel Drive,2100,SUV,4,4,5,3750,438
+Mercedes-Benz,Mercedes-Benz,AMG GLC 63 4MATIC,N,8,16,22,18,NA,Automatic,9,4-Wheel Drive,2350,SUV,3,3,5,5000,479
+Mercedes-Benz,Mercedes-Benz,AMG GLC 63 4MATIC (coupe),N,8,16,22,18,NA,Automatic,9,4-Wheel Drive,2350,SUV,3,3,5,5000,493
+Mercedes-Benz,Mercedes-Benz,AMG GLC 63 S 4MATIC (coupe),N,8,16,22,18,NA,Automatic,9,4-Wheel Drive,2350,SUV,3,3,5,5000,494
+Mercedes-Benz,Mercedes-Benz,GLA 250 4MATIC,N,4,23,31,26,NA,Manual,7,4-Wheel Drive,1600,SUV,5,5,5,1250,337
+Mercedes-Benz,Mercedes-Benz,GLA 250 4MATIC,N,4,23,31,26,NA,Manual,7,Part-time 4-Wheel Drive,1600,SUV,5,5,5,1250,337
+Mercedes-Benz,Mercedes-Benz,GLC 300 4MATIC,N,4,21,28,24,NA,Automatic,9,4-Wheel Drive,1750,SUV,5,5,5,2000,374
+Mercedes-Benz,Mercedes-Benz,GLC 300 4MATIC (Coupe),N,4,22,27,24,NA,Automatic,9,4-Wheel Drive,1750,SUV,5,5,5,2000,375
+Mercedes-Benz,Mercedes-Benz,GLE 350,N,6,18,23,20,NA,Automatic,7,"2-Wheel Drive, Rear",2100,SUV,4,4,1,3750,440
+Mercedes-Benz,Mercedes-Benz,AMG G 63,N,8,12,15,13,NA,Automatic,7,4-Wheel Drive,3250,SUV,1,1,3,9500,674
+Mercedes-Benz,Mercedes-Benz,AMG G 65,N,12,11,13,12,NA,Automatic,7,4-Wheel Drive,3500,SUV,1,1,3,10750,762
+Mercedes-Benz,Mercedes-Benz,AMG GLE 43 4MATIC,N,6,17,23,19,NA,Automatic,9,4-Wheel Drive,2200,SUV,3,3,3,4250,454
+Mercedes-Benz,Mercedes-Benz,AMG GLE 43 4MATIC (coupe),N,6,17,22,19,NA,Automatic,9,4-Wheel Drive,2200,SUV,3,3,3,4250,459
+Mercedes-Benz,Mercedes-Benz,AMG GLE 63,N,8,14,18,15,NA,Automatic,7,4-Wheel Drive,2800,SUV,2,2,3,7250,586
+Mercedes-Benz,Mercedes-Benz,AMG GLE 63 S,N,8,14,18,15,NA,Automatic,7,4-Wheel Drive,2800,SUV,2,2,3,7250,586
+Mercedes-Benz,Mercedes-Benz,AMG GLE 63 S (coupe),N,8,14,18,15,NA,Automatic,7,4-Wheel Drive,2800,SUV,2,2,3,7250,582
+Mercedes-Benz,Mercedes-Benz,AMG GLS 63,N,8,13,18,15,NA,Automatic,7,4-Wheel Drive,2800,SUV,2,2,3,7250,591
+Mercedes-Benz,Mercedes-Benz,G 550,N,8,13,14,13,NA,Automatic,7,4-Wheel Drive,3250,SUV,1,1,3,9500,660
+Mercedes-Benz,Mercedes-Benz,G 550 4x4,N,8,11,11,11,NA,Automatic,7,4-Wheel Drive,3800,SUV,1,1,3,12250,829
+Mercedes-Benz,Mercedes-Benz,GLE 350 4MATIC,N,6,18,22,19,NA,Automatic,7,4-Wheel Drive,2200,SUV,3,3,1,4250,457
+Mercedes-Benz,Mercedes-Benz,GLE 350 4MATIC,N,6,18,22,19,NA,Automatic,7,4-Wheel Drive,2200,SUV,3,3,1,4250,457
+Mercedes-Benz,Mercedes-Benz,GLS 450 4MATIC,N,6,17,22,19,NA,Automatic,9,4-Wheel Drive,2200,SUV,3,3,3,4250,477
+Mercedes-Benz,Mercedes-Benz,GLS 550 4MATIC,N,8,14,19,16,NA,Automatic,9,4-Wheel Drive,2600,SUV,2,2,3,6250,556
+BMW,Mini,COOPER CONVERTIBLE,N,3,27,35,30,N,Automatic,6,"2-Wheel Drive, Front",1400,Car,7,7,7,250,294
+BMW,Mini,COOPER CONVERTIBLE,N,3,28,37,32,N,Manual,6,"2-Wheel Drive, Front",1300,Car,7,7,7,250,280
+BMW,Mini,COOPER S CONVERTIBLE,N,4,25,33,28,N,Automatic,6,"2-Wheel Drive, Front",1500,Car,6,6,7,750,315
+BMW,Mini,COOPER S CONVERTIBLE,N,4,23,32,26,N,Manual,6,"2-Wheel Drive, Front",1600,Car,5,5,7,1250,338
+BMW,Mini,JOHN COOPER WORKS CONVERTIBLE,N,4,25,33,28,N,Automatic,6,"2-Wheel Drive, Front",1500,Car,6,6,3,750,315
+BMW,Mini,JOHN COOPER WORKS CONVERTIBLE,N,4,22,31,25,N,Manual,6,"2-Wheel Drive, Front",1700,Car,5,5,3,1750,349
+BMW,Mini,COOPER HARDTOP 2 DOOR,N,3,27,35,30,N,Automatic,6,"2-Wheel Drive, Front",1400,Car,7,7,7,250,294
+BMW,Mini,COOPER HARDTOP 2 DOOR,N,3,28,38,32,N,Manual,6,"2-Wheel Drive, Front",1300,Car,7,7,7,250,282
+BMW,Mini,COOPER HARDTOP 4 DOOR,N,3,27,35,30,N,Automatic,6,"2-Wheel Drive, Front",1400,Car,7,7,7,250,294
+BMW,Mini,COOPER HARDTOP 4 DOOR,N,3,28,37,32,N,Manual,6,"2-Wheel Drive, Front",1300,Car,7,7,7,250,280
+BMW,Mini,COOPER S HARDTOP 2 DOOR,N,4,25,32,28,N,Automatic,6,"2-Wheel Drive, Front",1500,Car,6,6,7,750,316
+BMW,Mini,COOPER S HARDTOP 2 DOOR,N,4,23,32,26,N,Manual,6,"2-Wheel Drive, Front",1600,Car,5,5,7,1250,338
+BMW,Mini,COOPER S HARDTOP 4 DOOR,N,4,25,32,28,N,Automatic,6,"2-Wheel Drive, Front",1500,Car,6,6,7,750,316
+BMW,Mini,COOPER S HARDTOP 4 DOOR,N,4,23,32,26,N,Manual,6,"2-Wheel Drive, Front",1600,Car,5,5,7,1250,338
+BMW,Mini,JOHN COOPER WORKS HARDTOP,N,4,25,32,28,N,Automatic,6,"2-Wheel Drive, Front",1500,Car,6,6,3,750,316
+BMW,Mini,JOHN COOPER WORKS HARDTOP,N,4,23,32,26,N,Manual,6,"2-Wheel Drive, Front",1600,Car,5,5,3,1250,338
+BMW,Mini,COOPER CLUBMAN,N,3,24,32,27,N,Automatic,6,"2-Wheel Drive, Front",1550,Car,6,6,7,1000,323
+BMW,Mini,COOPER CLUBMAN,N,3,24,34,28,N,Manual,6,"2-Wheel Drive, Front",1500,Car,6,6,7,750,319
+BMW,Mini,COOPER CLUBMAN ALL4,N,3,23,31,26,N,Automatic,8,All Wheel Drive,1600,Car,5,5,3,1250,341
+BMW,Mini,COOPER CLUBMAN ALL4,N,3,22,32,26,N,Manual,6,All Wheel Drive,1600,Car,5,5,3,1250,344
+BMW,Mini,COOPER COUNTRYMAN,N,3,24,32,27,N,Automatic,6,"2-Wheel Drive, Front",1550,Car,6,6,3,1000,323
+BMW,Mini,COOPER COUNTRYMAN,N,3,24,34,28,N,Manual,6,"2-Wheel Drive, Front",1500,Car,6,6,3,750,319
+BMW,Mini,COOPER COUNTRYMAN ALL4,N,3,23,30,25,N,Automatic,8,All Wheel Drive,1700,Car,5,5,3,1750,347
+BMW,Mini,COOPER COUNTRYMAN ALL4,N,3,22,32,26,N,Manual,6,All Wheel Drive,1600,Car,5,5,3,1250,344
+BMW,Mini,COOPER S CLUBMAN,N,4,23,32,27,N,Automatic,8,"2-Wheel Drive, Front",1550,Car,6,6,7,1000,332
+BMW,Mini,COOPER S CLUBMAN,N,4,22,31,25,N,Manual,6,"2-Wheel Drive, Front",1700,Car,5,5,7,1750,349
+BMW,Mini,COOPER S CLUBMAN ALL4,N,4,22,31,26,N,Automatic,8,All Wheel Drive,1600,Car,5,5,7,1250,346
+BMW,Mini,COOPER S CLUBMAN ALL4,N,4,21,30,24,N,Manual,6,All Wheel Drive,1750,Car,5,5,7,2000,366
+BMW,Mini,COOPER S COUNTRYMAN,N,4,23,32,27,N,Automatic,8,"2-Wheel Drive, Front",1550,Car,6,6,7,1000,332
+BMW,Mini,COOPER S COUNTRYMAN ALL4,N,4,22,31,26,N,Automatic,8,All Wheel Drive,1600,Car,5,5,7,1250,346
+BMW,Mini,COOPER S COUNTRYMAN ALL4,N,4,21,31,24,N,Manual,6,All Wheel Drive,1750,Car,5,5,7,2000,365
+BMW,Mini,JCW COUNTRYMAN ALL4,N,4,22,30,25,N,Automatic,8,All Wheel Drive,1700,Car,5,5,3,1750,354
+BMW,Mini,JCW COUNTRYMAN ALL4,N,4,20,29,24,N,Manual,6,All Wheel Drive,1750,Car,5,5,3,2000,373
+BMW,Mini,JOHN COOPER WORKS CLUBMAN ALL4,N,4,23,31,26,N,Automatic,8,All Wheel Drive,1600,Car,5,5,3,1250,339
+BMW,Mini,JOHN COOPER WORKS CLUBMAN ALL4,N,4,21,31,24,N,Manual,6,All Wheel Drive,1750,Car,5,5,3,2000,367
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE,N,3,37,43,39,N,Automatic,1,"2-Wheel Drive, Front",900,Car,9,9,5,2250,225
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE,N,3,33,41,36,N,Manual,5,"2-Wheel Drive, Front",1000,Car,8,8,5,1750,242
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE G4,N,3,35,41,37,N,Automatic,1,"2-Wheel Drive, Front",950,Car,8,8,5,2000,237
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE G4,N,3,33,40,35,N,Manual,5,"2-Wheel Drive, Front",1050,Car,8,8,5,1500,249
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,ECLIPSE CROSS 2WD,N,4,25,28,26,NA,Automatic,8,"2-Wheel Drive, Front",1400,SUV,5,5,5,250,338
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,ECLIPSE CROSS ES 2WD,N,4,26,29,27,NA,Automatic,8,"2-Wheel Drive, Front",1350,SUV,6,6,5,0,327
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER 2WD,N,4,25,30,27,NA,Automatic,6,"2-Wheel Drive, Front",1350,SUV,6,6,5,0,326
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER SPORT 2WD,N,4,24,30,27,NA,Automatic,6,"2-Wheel Drive, Front",1350,SUV,6,6,5,0,328
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER SPORT 2WD,N,4,23,29,25,NA,Manual,5,"2-Wheel Drive, Front",1450,SUV,5,5,5,500,347
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER SPORT 2WD,N,4,23,29,25,NA,Automatic,6,"2-Wheel Drive, Front",1450,SUV,5,5,5,500,353
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,ECLIPSE CROSS 4WD,N,4,25,26,25,NA,Automatic,8,4-Wheel Drive,1450,SUV,5,5,5,500,347
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,ECLIPSE CROSS ES 4WD,N,4,25,28,26,NA,Automatic,8,4-Wheel Drive,1400,SUV,5,5,5,250,337
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER 4WD,N,4,24,29,26,NA,Automatic,6,4-Wheel Drive,1400,SUV,5,5,5,250,341
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER 4WD,N,6,20,27,22,NA,Automatic,6,4-Wheel Drive,1900,SUV,4,4,5,2750,402
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER SPORT 4WD,N,4,23,29,26,NA,Automatic,6,4-Wheel Drive,1400,SUV,5,5,5,250,343
+Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER SPORT 4WD,N,4,23,28,25,NA,Automatic,6,4-Wheel Drive,1450,SUV,5,5,5,500,353
+Nissan,NISSAN,370Z,N,6,19,26,22,N,Automatic,7,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,411
+Nissan,NISSAN,370Z,N,6,18,26,21,N,Manual,6,"2-Wheel Drive, Rear",2000,Car,4,4,3,3250,426
+Nissan,NISSAN,370Z Roadster,N,6,18,25,21,N,Automatic,7,"2-Wheel Drive, Rear",2000,Car,4,4,3,3250,433
+Nissan,NISSAN,370Z Roadster,N,6,17,24,20,N,Manual,6,"2-Wheel Drive, Rear",2100,Car,4,4,3,3750,447
+Nissan,NISSAN,GT-R,N,6,16,22,18,N,Manual,6,All Wheel Drive,2350,Car,3,3,3,5000,484
+Nissan,NISSAN,VERSA,N,4,26,35,29,N,Automatic,4,"2-Wheel Drive, Front",1250,Car,6,6,3,500,306
+Nissan,NISSAN,VERSA,N,4,31,39,34,N,Automatic,1,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,260
+Nissan,NISSAN,VERSA,N,4,27,36,30,N,Manual,5,"2-Wheel Drive, Front",1200,Car,7,7,3,750,296
+Nissan,NISSAN,ALTIMA,N,4,27,38,31,N,Automatic,1,"2-Wheel Drive, Front",1150,Car,7,7,7,1000,287
+Nissan,NISSAN,ALTIMA,N,6,22,32,26,N,Automatic,7,"2-Wheel Drive, Front",1400,Car,5,5,3,250,347
+Nissan,NISSAN,ALTIMA SR,N,4,26,37,30,N,Automatic,7,"2-Wheel Drive, Front",1200,Car,7,7,7,750,296
+Nissan,NISSAN,Kicks,N,4,31,36,33,N,Automatic,1,"2-Wheel Drive, Front",1100,Car,8,8,7,1250,272
+Nissan,NISSAN,MAXIMA,N,6,21,30,25,N,Automatic,7,"2-Wheel Drive, Front",1700,Car,5,5,3,1750,364
+Nissan,NISSAN,SENTRA,N,4,27,33,29,N,Automatic,7,"2-Wheel Drive, Front",1450,Car,6,6,3,500,307
+Nissan,NISSAN,SENTRA,N,4,26,32,28,N,Manual,6,"2-Wheel Drive, Front",1500,Car,6,6,3,750,318
+Nissan,NISSAN,SENTRA,N,4,29,37,32,N,Automatic,1,"2-Wheel Drive, Front",1100,Car,7,7,7,1250,279
+Nissan,NISSAN,SENTRA,N,4,27,35,30,N,Manual,6,"2-Wheel Drive, Front",1200,Car,7,7,1,750,297
+Nissan,NISSAN,SENTRA NISMO,N,4,25,30,27,N,Automatic,7,"2-Wheel Drive, Front",1550,Car,6,6,3,1000,330
+Nissan,NISSAN,SENTRA NISMO,N,4,25,31,27,N,Manual,6,"2-Wheel Drive, Front",1550,Car,6,6,3,1000,330
+Nissan,NISSAN,Rogue Sport,N,4,25,32,28,NA,Automatic,7,"2-Wheel Drive, Front",1300,Station Wagon,6,6,5,250,318
+Nissan,NISSAN,Rogue Sport AWD,N,4,24,30,27,NA,Automatic,7,All Wheel Drive,1350,Station Wagon,6,6,5,0,329
+Nissan,NISSAN,MURANO AWD,N,6,21,28,24,NA,Automatic,7,All Wheel Drive,1500,Station Wagon,5,5,5,750,376
+Nissan,NISSAN,MURANO FWD,N,6,21,28,24,NA,Automatic,7,"2-Wheel Drive, Front",1500,Station Wagon,5,5,5,750,372
+Nissan,NISSAN,FRONTIER 2WD,N,4,17,22,19,NA,Automatic,5,"2-Wheel Drive, Rear",1900,Truck,3,3,3,2750,467
+Nissan,NISSAN,FRONTIER 2WD,N,4,19,23,21,NA,Manual,5,"2-Wheel Drive, Rear",1700,Truck,4,4,3,1750,431
+Nissan,NISSAN,FRONTIER 2WD,N,6,16,23,19,NA,Automatic,5,"2-Wheel Drive, Rear",1900,Truck,3,3,3,2750,478
+Nissan,NISSAN,FRONTIER 2WD,N,6,16,22,19,NA,Manual,6,"2-Wheel Drive, Rear",1900,Truck,3,3,3,2750,479
+Nissan,NISSAN,FRONTIER 2WD FFV,N,6,16,22,18,NA,Automatic,5,"2-Wheel Drive, Rear",2000,Truck,3,3,3,3250,494
+Nissan,NISSAN,FRONTIER 4WD,N,6,15,21,17,NA,Automatic,5,Part-time 4-Wheel Drive,2100,Truck,3,3,3,3750,519
+Nissan,NISSAN,FRONTIER 4WD,N,6,16,21,18,NA,Manual,6,Part-time 4-Wheel Drive,2000,Truck,3,3,3,3250,507
+Nissan,NISSAN,FRONTIER 4WD FFV,N,6,15,21,17,NA,Automatic,5,Part-time 4-Wheel Drive,2100,Truck,3,3,3,3750,520
+Nissan,NISSAN,TITAN 2WD,N,8,15,21,18,NA,Automatic,7,"2-Wheel Drive, Rear",2000,Truck,3,3,3,3250,505
+Nissan,NISSAN,TITAN 4WD,N,8,15,21,18,NA,Automatic,7,Part-time 4-Wheel Drive,2000,Truck,3,3,3,3250,505
+Nissan,NISSAN,TITAN 4WD PRO-4X,N,8,15,20,17,NA,Automatic,7,Part-time 4-Wheel Drive,2100,Truck,3,3,3,3750,529
+Nissan,NISSAN,NV200 Cargo Van,N,4,24,26,25,NA,Automatic,1,"2-Wheel Drive, Front",1450,Van,5,5,3,500,356
+Nissan,NISSAN,NV200 NYC Taxi,N,4,23,26,24,N,Automatic,1,"2-Wheel Drive, Front",1500,Car,5,5,3,750,363
+Nissan,NISSAN,PATHFINDER 2WD,N,6,20,27,23,NA,Automatic,1,"2-Wheel Drive, Front",1550,SUV,5,5,5,1000,395
+Nissan,NISSAN,ROGUE FWD,N,4,26,33,29,NA,Automatic,1,"2-Wheel Drive, Front",1250,SUV,6,6,7,500,310
+Nissan,NISSAN,ROGUE FWD Hybrid,Y,4,33,35,34,NA,Automatic,7,"2-Wheel Drive, Front",1050,SUV,8,8,3,1500,261
+Nissan,NISSAN,PATHFINDER 4WD,N,6,19,26,22,NA,Automatic,1,4-Wheel Drive,1650,SUV,4,4,5,1500,404
+Nissan,NISSAN,PATHFINDER 4WD PLATINUM,N,6,19,26,21,NA,Automatic,1,4-Wheel Drive,1700,SUV,4,4,3,1750,424
+Nissan,NISSAN,ROGUE AWD,N,4,25,32,27,NA,Automatic,1,All Wheel Drive,1350,SUV,6,6,7,0,324
+Nissan,NISSAN,ROGUE AWD Hybrid,Y,4,31,34,33,NA,Automatic,7,All Wheel Drive,1100,SUV,8,8,3,1250,276
+Nissan,NISSAN,ARMADA 2WD,N,8,14,19,16,NA,Automatic,7,"2-Wheel Drive, Rear",2250,SUV,2,2,3,4500,555
+Nissan,NISSAN,ARMADA 4WD,N,8,13,18,15,NA,Automatic,7,4-Wheel Drive,2400,SUV,2,2,3,5250,587
+Pagani Automobili S,Pagani Automobili S.p.A.,Huayra,N,12,11,17,13,Y,Manual,7,"2-Wheel Drive, Rear",3250,Car,1,1,1,9500,671
+Porsche,Porsche,911 GT3,N,6,15,20,17,Y,Manual,7,"2-Wheel Drive, Rear",2450,Car,3,3,1,5500,522
+Porsche,Porsche,911 GT3,N,6,13,21,16,Y,Manual,6,"2-Wheel Drive, Rear",2600,Car,2,2,1,6250,566
+Porsche,Porsche,911 GT3 Touring,N,6,14,21,17,Y,Manual,6,"2-Wheel Drive, Rear",2450,Car,3,3,1,5500,538
+Porsche,Porsche,911 GT2 RS,N,6,15,21,17,N,Manual,7,"2-Wheel Drive, Rear",2450,Car,3,3,1,5500,507
+Porsche,Porsche,Boxster,N,4,22,29,25,N,Manual,7,"2-Wheel Drive, Rear",1700,Car,5,5,3,1750,353
+Porsche,Porsche,Boxster,N,4,21,28,24,N,Manual,6,"2-Wheel Drive, Rear",1750,Car,5,5,3,2000,369
+Porsche,Porsche,Boxster GTS,N,4,20,26,22,N,Manual,7,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,400
+Porsche,Porsche,Boxster GTS,N,4,19,25,21,N,Manual,6,"2-Wheel Drive, Rear",2000,Car,4,4,3,3250,413
+Porsche,Porsche,Boxster S,N,4,21,28,24,N,Manual,7,"2-Wheel Drive, Rear",1750,Car,5,5,3,2000,372
+Porsche,Porsche,Boxster S,N,4,20,26,22,N,Manual,6,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,401
+Porsche,Porsche,Cayman,N,4,22,29,25,N,Manual,7,"2-Wheel Drive, Rear",1700,Car,5,5,3,1750,353
+Porsche,Porsche,Cayman,N,4,21,28,24,N,Manual,6,"2-Wheel Drive, Rear",1750,Car,5,5,3,2000,369
+Porsche,Porsche,Cayman GTS,N,4,20,26,22,N,Manual,7,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,400
+Porsche,Porsche,Cayman GTS,N,4,19,25,21,N,Manual,6,"2-Wheel Drive, Rear",2000,Car,4,4,3,3250,413
+Porsche,Porsche,Cayman S,N,4,21,28,24,N,Manual,7,"2-Wheel Drive, Rear",1750,Car,5,5,3,2000,372
+Porsche,Porsche,Cayman S,N,4,20,26,22,N,Manual,6,"2-Wheel Drive, Rear",1900,Car,4,4,3,2750,401
+Porsche,Porsche,911 Carrera,N,6,22,30,25,N,Manual,7,"2-Wheel Drive, Rear",1700,Car,5,5,1,1750,355
+Porsche,Porsche,911 Carrera,N,6,20,29,23,N,Manual,7,"2-Wheel Drive, Rear",1850,Car,5,5,1,2500,382
+Porsche,Porsche,911 Carrera 4,N,6,22,28,24,N,Manual,7,4-Wheel Drive,1750,Car,5,5,1,2000,362
+Porsche,Porsche,911 Carrera 4,N,6,20,28,23,N,Manual,7,4-Wheel Drive,1850,Car,5,5,1,2500,389
+Porsche,Porsche,911 Carrera 4 Cabriolet,N,6,21,28,24,N,Manual,7,4-Wheel Drive,1750,Car,5,5,1,2000,370
+Porsche,Porsche,911 Carrera 4 Cabriolet,N,6,19,28,22,N,Manual,7,4-Wheel Drive,1900,Car,4,4,1,2750,395
+Porsche,Porsche,911 Carrera 4 GTS,N,6,20,26,22,N,Manual,7,4-Wheel Drive,1900,Car,4,4,1,2750,400
+Porsche,Porsche,911 Carrera 4 GTS,N,6,18,26,21,N,Manual,7,4-Wheel Drive,2000,Car,4,4,1,3250,414
+Porsche,Porsche,911 Carrera 4 GTS Cabriolet,N,6,20,25,22,N,Manual,7,4-Wheel Drive,1900,Car,4,4,1,2750,402
+Porsche,Porsche,911 Carrera 4 GTS Cabriolet,N,6,18,26,21,N,Manual,7,4-Wheel Drive,2000,Car,4,4,1,3250,419
+Porsche,Porsche,911 Carrera 4S,N,6,21,28,24,N,Manual,7,4-Wheel Drive,1750,Car,5,5,1,2000,373
+Porsche,Porsche,911 Carrera 4S,N,6,20,28,23,N,Manual,7,4-Wheel Drive,1850,Car,5,5,1,2500,392
+Porsche,Porsche,911 Carrera 4S Cabriolet,N,6,21,28,24,N,Manual,7,4-Wheel Drive,1750,Car,5,5,1,2000,371
+Porsche,Porsche,911 Carrera 4S Cabriolet,N,6,19,28,22,N,Manual,7,4-Wheel Drive,1900,Car,4,4,1,2750,396
+Porsche,Porsche,911 Carrera Cabriolet,N,6,22,28,24,N,Manual,7,"2-Wheel Drive, Rear",1750,Car,5,5,1,2000,365
+Porsche,Porsche,911 Carrera Cabriolet,N,6,20,29,23,N,Manual,7,"2-Wheel Drive, Rear",1850,Car,5,5,1,2500,388
+Porsche,Porsche,911 Carrera GTS,N,6,20,26,23,N,Manual,7,"2-Wheel Drive, Rear",1850,Car,5,5,1,2500,391
+Porsche,Porsche,911 Carrera GTS,N,6,18,26,21,N,Manual,7,"2-Wheel Drive, Rear",2000,Car,4,4,1,3250,418
+Porsche,Porsche,911 Carrera GTS Cabriolet,N,6,20,26,22,N,Manual,7,"2-Wheel Drive, Rear",1900,Car,4,4,1,2750,400
+Porsche,Porsche,911 Carrera GTS Cabriolet,N,6,18,26,21,N,Manual,7,"2-Wheel Drive, Rear",2000,Car,4,4,1,3250,415
+Porsche,Porsche,911 Carrera S,N,6,22,28,24,N,Manual,7,"2-Wheel Drive, Rear",1750,Car,5,5,1,2000,363
+Porsche,Porsche,911 Carrera S,N,6,20,29,23,N,Manual,7,"2-Wheel Drive, Rear",1850,Car,5,5,1,2500,389
+Porsche,Porsche,911 Carrera S Cabriolet,N,6,22,28,24,N,Manual,7,"2-Wheel Drive, Rear",1750,Car,5,5,1,2000,367
+Porsche,Porsche,911 Carrera S Cabriolet,N,6,20,28,23,N,Manual,7,"2-Wheel Drive, Rear",1850,Car,5,5,1,2500,391
+Porsche,Porsche,911 Carrera T,N,6,20,26,22,N,Manual,7,"2-Wheel Drive, Rear",1900,Car,4,4,1,2750,399
+Porsche,Porsche,911 Carrera T,N,6,16,25,19,N,Manual,7,"2-Wheel Drive, Rear",2200,Car,3,3,1,4250,461
+Porsche,Porsche,911 Targa 4,N,6,22,28,24,N,Manual,7,4-Wheel Drive,1750,Car,5,5,1,2000,367
+Porsche,Porsche,911 Targa 4,N,6,19,28,22,N,Manual,7,4-Wheel Drive,1900,Car,4,4,1,2750,395
+Porsche,Porsche,911 Targa 4 GTS,N,6,20,26,22,N,Manual,7,4-Wheel Drive,1900,Car,4,4,1,2750,404
+Porsche,Porsche,911 Targa 4 GTS,N,6,18,26,21,N,Manual,7,4-Wheel Drive,2000,Car,4,4,1,3250,428
+Porsche,Porsche,911 Targa 4S,N,6,21,27,24,N,Manual,7,4-Wheel Drive,1750,Car,5,5,1,2000,376
+Porsche,Porsche,911 Targa 4S,N,6,19,28,22,N,Manual,7,4-Wheel Drive,1900,Car,4,4,1,2750,396
+Porsche,Porsche,911 Turbo,N,6,19,24,21,N,Manual,7,All Wheel Drive,2000,Car,4,4,1,3250,428
+Porsche,Porsche,911 Turbo Cabriolet,N,6,19,24,21,N,Manual,7,All Wheel Drive,2000,Car,4,4,1,3250,430
+Porsche,Porsche,911 Turbo S,N,6,19,24,21,N,Manual,7,All Wheel Drive,2000,Car,4,4,1,3250,428
+Porsche,Porsche,911 Turbo S Cabriolet,N,6,19,24,21,N,Manual,7,All Wheel Drive,2000,Car,4,4,1,3250,430
+Porsche,Porsche,911 Turbo S Exclusive,N,6,17,23,19,N,Manual,7,All Wheel Drive,2200,Car,3,3,1,4250,459
+Porsche,Porsche,Panamera,N,6,21,28,24,N,Manual,8,"2-Wheel Drive, Rear",1750,Car,5,5,5,2000,369
+Porsche,Porsche,Panamera 4,N,6,21,27,23,N,Manual,8,4-Wheel Drive,1850,Car,5,5,5,2500,378
+Porsche,Porsche,Panamera 4 Executive,N,6,21,27,23,N,Manual,8,4-Wheel Drive,1850,Car,5,5,5,2500,378
+Porsche,Porsche,Panamera 4 ST,N,6,20,26,23,N,Manual,8,4-Wheel Drive,1850,Car,5,5,5,2500,390
+Porsche,Porsche,Panamera 4S,N,6,21,28,23,N,Manual,8,4-Wheel Drive,1850,Car,5,5,5,2500,378
+Porsche,Porsche,Panamera 4S Executive,N,6,21,28,23,N,Manual,8,4-Wheel Drive,1850,Car,5,5,5,2500,378
+Porsche,Porsche,Panamera 4S ST,N,6,20,26,22,N,Manual,8,4-Wheel Drive,1900,Car,4,4,5,2750,401
+Porsche,Porsche,Panamera Turbo,N,8,18,25,21,N,Manual,8,All Wheel Drive,2000,Car,4,4,3,3250,420
+Porsche,Porsche,Panamera Turbo Executive,N,8,18,25,21,N,Manual,8,All Wheel Drive,2000,Car,4,4,3,3250,420
+Porsche,Porsche,Panamera Turbo ST,N,8,18,23,20,N,Manual,8,All Wheel Drive,2100,Car,4,4,3,3750,449
+Porsche,Porsche,Macan,N,4,20,25,22,NA,Manual,7,All Wheel Drive,1900,SUV,4,4,3,2750,399
+Porsche,Porsche,Macan GTS,N,6,17,23,19,NA,Manual,7,All Wheel Drive,2200,SUV,3,3,3,4250,461
+Porsche,Porsche,Macan S,N,6,17,23,19,NA,Manual,7,All Wheel Drive,2200,SUV,3,3,3,4250,459
+Porsche,Porsche,Macan Turbo,N,6,17,23,19,NA,Manual,7,All Wheel Drive,2200,SUV,3,3,1,4250,467
+Porsche,Porsche,Cayenne,N,6,18,24,20,NA,Automatic,8,All Wheel Drive,2100,SUV,4,4,3,3750,432
+Porsche,Porsche,Cayenne GTS,N,6,16,23,19,NA,Automatic,8,All Wheel Drive,2200,SUV,3,3,3,4250,476
+Porsche,Porsche,Cayenne Platinum,N,6,17,23,19,NA,Automatic,8,All Wheel Drive,2200,SUV,3,3,3,4250,453
+Porsche,Porsche,Cayenne S,N,6,17,24,20,NA,Automatic,8,All Wheel Drive,2100,SUV,4,4,3,3750,452
+Porsche,Porsche,Cayenne Turbo,N,8,14,21,17,NA,Automatic,8,All Wheel Drive,2450,SUV,3,3,1,5500,536
+Porsche,Porsche,Cayenne Turbo S,N,8,14,21,17,NA,Automatic,8,All Wheel Drive,2450,SUV,3,3,5,5500,536
+FCA US LLC,RAM,1500 4X2,N,6,20,27,23,NA,Automatic,8,"2-Wheel Drive, Rear",1750,Truck,5,4,1,2000,448
+FCA US LLC,RAM,1500 4X2,N,6,17,25,20,NA,Automatic,8,"2-Wheel Drive, Rear",1800,Truck,4,4,3,2250,450
+FCA US LLC,RAM,1500 4X2,N,8,15,22,17,NA,Automatic,8,"2-Wheel Drive, Rear",2300,Truck,3,3,3,4750,513
+FCA US LLC,RAM,1500 4X4,N,6,19,27,22,NA,Automatic,8,4-Wheel Drive,1800,Truck,4,3,1,2250,465
+FCA US LLC,RAM,1500 4X4,N,6,16,23,19,NA,Automatic,8,4-Wheel Drive,1900,Truck,3,3,3,2750,475
+FCA US LLC,RAM,1500 4X4,N,8,13,18,14,NA,Automatic,6,4-Wheel Drive,2800,Truck,1,1,3,7250,614
+FCA US LLC,RAM,1500 4X4,N,8,15,21,17,NA,Automatic,8,4-Wheel Drive,2300,Truck,3,3,3,4750,527
+FCA US LLC,RAM,Promaster City,N,4,21,28,24,NA,Automatic,9,"2-Wheel Drive, Front",1500,Van,5,5,3,750,374
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Dawn,N,12,12,18,14,Y,Automatic,8,"2-Wheel Drive, Rear",3000,Car,1,1,3,8250,634
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Wraith,N,12,12,19,14,Y,Automatic,8,"2-Wheel Drive, Rear",3000,Car,1,1,3,8250,613
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Ghost,N,12,12,18,14,Y,Automatic,8,"2-Wheel Drive, Rear",3000,Car,1,1,3,8250,634
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Ghost EWB,N,12,12,18,14,Y,Automatic,8,"2-Wheel Drive, Rear",3000,Car,1,1,3,8250,634
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Phantom,N,12,12,19,14,Y,Automatic,8,"2-Wheel Drive, Rear",3000,Car,1,1,3,8250,623
+Rolls-Royce,Rolls-Royce Motor Cars Limited,Phantom EWB,N,12,12,19,14,Y,Automatic,8,"2-Wheel Drive, Rear",3000,Car,1,1,3,8250,623
+Subaru,Subaru,BRZ,N,4,24,33,27,N,Automatic,6,"2-Wheel Drive, Rear",1550,Car,6,6,1,1000,322
+Subaru,Subaru,BRZ,N,4,21,29,24,N,Manual,6,"2-Wheel Drive, Rear",1750,Car,5,5,1,2000,369
+Subaru,Subaru,BRZ tS,N,4,20,27,23,N,Manual,6,"2-Wheel Drive, Rear",1850,Car,5,5,1,2500,384
+Subaru,Subaru,WRX,N,4,18,24,21,N,Automatic,8,All Wheel Drive,2000,Car,4,4,1,3250,420
+Subaru,Subaru,WRX,N,4,21,27,23,N,Manual,6,All Wheel Drive,1850,Car,5,5,1,2500,383
+Subaru,Subaru,WRX,N,4,17,22,19,N,Manual,6,All Wheel Drive,2200,Car,3,3,1,4250,471
+Subaru,Subaru,WRX STI TYPE RA,N,4,16,22,18,N,Manual,6,All Wheel Drive,2350,Car,3,3,1,5000,477
+Subaru,Subaru,IMPREZA 4-Door,N,4,28,38,32,N,Automatic,7,All Wheel Drive,1100,Car,7,7,6,1250,282
+Subaru,Subaru,IMPREZA 4-Door,N,4,24,32,27,N,Manual,5,All Wheel Drive,1350,Car,6,6,6,0,331
+Subaru,Subaru,IMPREZA SPORT 4-Door,N,4,27,36,30,N,Automatic,7,All Wheel Drive,1200,Car,7,7,6,750,291
+Subaru,Subaru,IMPREZA SPORT 4-Door,N,4,23,31,26,N,Manual,5,All Wheel Drive,1400,Car,5,5,6,250,337
+Subaru,Subaru,LEGACY,N,4,25,34,29,N,Automatic,7,All Wheel Drive,1250,Car,6,6,5,500,311
+Subaru,Subaru,LEGACY,N,6,20,28,23,N,Automatic,6,All Wheel Drive,1550,Car,5,5,3,1000,387
+Subaru,Subaru,IMPREZA 5-Door,N,4,28,37,31,NA,Automatic,7,All Wheel Drive,1150,Station Wagon,7,7,6,1000,282
+Subaru,Subaru,IMPREZA 5-Door,N,4,24,31,26,NA,Manual,5,All Wheel Drive,1400,Station Wagon,5,5,6,250,335
+Subaru,Subaru,IMPREZA SPORT 5-Door,N,4,27,35,30,NA,Automatic,7,All Wheel Drive,1200,Station Wagon,7,7,6,750,292
+Subaru,Subaru,IMPREZA SPORT 5-Door,N,4,22,30,25,NA,Manual,5,All Wheel Drive,1450,Station Wagon,5,5,6,500,351
+Subaru,Subaru,CROSSTREK,N,4,27,33,29,NA,Automatic,7,All Wheel Drive,1250,SUV,6,6,6,500,301
+Subaru,Subaru,CROSSTREK,N,4,23,29,25,NA,Manual,6,All Wheel Drive,1450,SUV,5,5,6,500,353
+Subaru,Subaru,FORESTER,N,4,23,27,25,NA,Automatic,8,All Wheel Drive,1700,SUV,5,5,1,1750,359
+Subaru,Subaru,FORESTER,N,4,26,32,28,NA,Automatic,6,All Wheel Drive,1300,SUV,6,6,5,250,315
+Subaru,Subaru,FORESTER,N,4,22,28,24,NA,Manual,6,All Wheel Drive,1500,SUV,5,5,5,750,368
+Subaru,Subaru,OUTBACK,N,4,25,32,28,NA,Automatic,7,All Wheel Drive,1300,SUV,6,6,5,250,320
+Subaru,Subaru,OUTBACK,N,6,20,27,22,NA,Automatic,6,All Wheel Drive,1650,SUV,4,4,3,1500,398
+Toyota,TOYOTA,86,N,4,24,32,27,N,Automatic,6,"2-Wheel Drive, Rear",1550,Car,6,6,1,1000,328
+Toyota,TOYOTA,86,N,4,21,28,24,N,Manual,6,"2-Wheel Drive, Rear",1750,Car,5,5,1,2000,373
+Toyota,TOYOTA,YARIS iA,N,4,32,40,35,N,Automatic,6,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,249
+Toyota,TOYOTA,YARIS iA,N,4,30,39,34,N,Manual,6,"2-Wheel Drive, Front",1050,Car,8,8,3,1500,264
+Toyota,TOYOTA,C-HR,N,4,27,31,29,N,Automatic,7,"2-Wheel Drive, Front",1250,Car,6,6,3,500,305
+Toyota,TOYOTA,PRIUS c,Y,4,48,43,46,N,Automatic,1,"2-Wheel Drive, Front",800,Car,10,10,7,2750,193
+Toyota,TOYOTA,YARIS,N,4,30,35,32,N,Automatic,4,"2-Wheel Drive, Front",1100,Car,7,7,3,1250,278
+Toyota,TOYOTA,YARIS,N,4,30,36,33,N,Manual,5,"2-Wheel Drive, Front",1100,Car,8,8,3,1250,271
+Toyota,TOYOTA,AVALON,N,6,21,30,24,N,Automatic,6,"2-Wheel Drive, Front",1500,Car,5,5,3,750,366
+Toyota,TOYOTA,AVALON HYBRID,Y,4,40,39,40,N,Automatic,6,"2-Wheel Drive, Front",900,Car,9,9,7,2250,223
+Toyota,TOYOTA,CAMRY,N,4,29,41,34,N,Automatic,8,"2-Wheel Drive, Front",1050,Car,8,8,7,1500,264
+Toyota,TOYOTA,CAMRY,N,6,22,33,26,N,Automatic,8,"2-Wheel Drive, Front",1400,Car,5,5,5,250,338
+Toyota,TOYOTA,CAMRY HYBRID LE,Y,4,51,53,52,N,Automatic,6,"2-Wheel Drive, Front",700,Car,10,10,7,3250,170
+Toyota,TOYOTA,CAMRY HYBRID XLE/SE,Y,4,44,47,46,N,Automatic,6,"2-Wheel Drive, Front",800,Car,10,10,7,2750,195
+Toyota,TOYOTA,CAMRY LE/SE,N,4,28,39,32,N,Automatic,8,"2-Wheel Drive, Front",1100,Car,7,7,7,1250,277
+Toyota,TOYOTA,CAMRY XLE/XSE,N,4,28,39,32,N,Automatic,8,"2-Wheel Drive, Front",1100,Car,7,7,7,1250,274
+Toyota,TOYOTA,CAMRY XSE,N,6,22,32,26,N,Automatic,8,"2-Wheel Drive, Front",1400,Car,5,5,5,250,345
+Toyota,TOYOTA,COROLLA,N,4,28,36,32,N,Automatic,1,"2-Wheel Drive, Front",1100,Car,7,7,3,1250,281
+Toyota,TOYOTA,COROLLA,N,4,28,35,31,N,Automatic,7,"2-Wheel Drive, Front",1150,Car,7,7,3,1000,286
+Toyota,TOYOTA,COROLLA,N,4,27,35,30,N,Manual,6,"2-Wheel Drive, Front",1200,Car,7,7,3,750,289
+Toyota,TOYOTA,COROLLA iM,N,4,28,36,31,N,Automatic,7,"2-Wheel Drive, Front",1150,Car,7,7,5,1000,283
+Toyota,TOYOTA,COROLLA iM,N,4,27,35,30,N,Manual,6,"2-Wheel Drive, Front",1200,Car,7,7,5,750,297
+Toyota,TOYOTA,COROLLA LE ECO,N,4,30,40,34,N,Automatic,1,"2-Wheel Drive, Front",1050,Car,8,8,5,1500,263
+Toyota,TOYOTA,COROLLA LE ECO,N,4,29,38,33,N,Automatic,1,"2-Wheel Drive, Front",1100,Car,8,8,5,1250,271
+Toyota,TOYOTA,PRIUS,Y,4,54,50,52,N,Automatic,1,"2-Wheel Drive, Front",700,Car,10,10,7,3250,170
+Toyota,TOYOTA,PRIUS Eco,Y,4,58,53,56,N,Automatic,1,"2-Wheel Drive, Front",650,Car,10,10,7,3500,158
+Toyota,TOYOTA,TACOMA 2WD,N,4,20,23,21,NA,Automatic,6,"2-Wheel Drive, Rear",1700,Truck,4,4,5,1750,422
+Toyota,TOYOTA,TACOMA 2WD,N,6,19,24,21,NA,Automatic,6,"2-Wheel Drive, Rear",1700,Truck,4,4,5,1750,431
+Toyota,TOYOTA,TACOMA 4WD,N,4,19,22,20,NA,Automatic,6,Part-time 4-Wheel Drive,1800,Truck,4,4,5,2250,441
+Toyota,TOYOTA,TACOMA 4WD,N,6,18,22,20,NA,Automatic,6,Part-time 4-Wheel Drive,1800,Truck,4,4,5,2250,452
+Toyota,TOYOTA,TACOMA 4WD,N,6,17,21,18,NA,Manual,6,Part-time 4-Wheel Drive,2000,Truck,3,3,5,3250,494
+Toyota,TOYOTA,TACOMA 4WD D-CAB V6 MT OFF-ROAD,N,6,17,20,18,NA,Manual,6,Part-time 4-Wheel Drive,2000,Truck,3,3,5,3250,483
+Toyota,TOYOTA,TUNDRA 2WD,N,8,15,19,16,NA,Automatic,6,"2-Wheel Drive, Rear",2250,Truck,2,2,3,4500,554
+Toyota,TOYOTA,TUNDRA 2WD,N,8,13,18,15,NA,Automatic,6,"2-Wheel Drive, Rear",2400,Truck,2,2,5,5250,592
+Toyota,TOYOTA,TUNDRA 4WD,N,8,14,18,16,NA,Automatic,6,Part-time 4-Wheel Drive,2250,Truck,2,2,3,4500,568
+Toyota,TOYOTA,TUNDRA 4WD,N,8,13,17,14,NA,Automatic,6,Part-time 4-Wheel Drive,2550,Truck,1,1,5,6000,615
+Toyota,TOYOTA,TUNDRA 4WD FFV,N,8,13,17,15,NA,Automatic,6,Part-time 4-Wheel Drive,2400,Truck,2,2,5,5250,604
+Toyota,TOYOTA,SIENNA,N,6,19,27,22,NA,Automatic,8,"2-Wheel Drive, Front",1650,Van,4,4,5,1500,410
+Toyota,TOYOTA,SIENNA AWD,N,6,18,24,20,NA,Automatic,8,All Wheel Drive,1800,Van,4,4,5,2250,441
+Toyota,TOYOTA,HIGHLANDER,N,4,20,24,22,NA,Automatic,6,"2-Wheel Drive, Front",1650,SUV,4,4,3,1500,407
+Toyota,TOYOTA,HIGHLANDER,N,6,20,27,23,NA,Automatic,8,"2-Wheel Drive, Front",1550,SUV,5,5,5,1000,391
+Toyota,TOYOTA,HIGHLANDER LE/XLE/SE/LTD,N,6,21,27,23,NA,Automatic,8,"2-Wheel Drive, Front",1550,SUV,5,5,5,1000,384
+Toyota,TOYOTA,RAV4,N,4,23,29,25,NA,Automatic,6,"2-Wheel Drive, Front",1450,SUV,5,5,3,500,349
+Toyota,TOYOTA,RAV4 LE/XLE,N,4,23,30,26,NA,Automatic,6,"2-Wheel Drive, Front",1400,SUV,5,5,3,250,338
+Toyota,TOYOTA,RAV4 AWD,N,4,22,28,25,NA,Automatic,6,All Wheel Drive,1450,SUV,5,5,3,500,357
+Toyota,TOYOTA,RAV4 HYBRID AWD,Y,4,34,30,32,NA,Automatic,6,All Wheel Drive,1100,SUV,7,7,7,1250,275
+Toyota,TOYOTA,RAV4 Limited AWD/SE AWD,N,4,22,28,24,NA,Automatic,6,All Wheel Drive,1500,SUV,5,5,3,750,363
+Toyota,TOYOTA,4RUNNER 2WD,N,6,17,21,18,NA,Automatic,5,"2-Wheel Drive, Rear",2000,SUV,3,3,3,3250,479
+Toyota,TOYOTA,SEQUOIA 2WD,N,8,13,17,15,NA,Automatic,6,"2-Wheel Drive, Rear",2400,SUV,2,2,5,5250,607
+Toyota,TOYOTA,4RUNNER 4WD,N,6,17,20,18,NA,Automatic,5,Part-time 4-Wheel Drive,2000,SUV,3,3,3,3250,491
+Toyota,TOYOTA,4RUNNER 4WD,N,6,17,20,18,NA,Automatic,5,All Wheel Drive,2000,SUV,3,3,3,3250,491
+Toyota,TOYOTA,HIGHLANDER AWD,N,6,19,26,22,NA,Automatic,8,All Wheel Drive,1650,SUV,4,4,5,1500,403
+Toyota,TOYOTA,HIGHLANDER AWD,N,6,20,26,22,NA,Automatic,8,All Wheel Drive,1650,SUV,4,4,5,1500,398
+Toyota,TOYOTA,HIGHLANDER AWD LE,N,6,20,27,23,NA,Automatic,8,All Wheel Drive,1550,SUV,5,5,5,1000,390
+Toyota,TOYOTA,HIGHLANDER HYBRID AWD,Y,6,29,27,28,NA,Automatic,6,All Wheel Drive,1300,SUV,6,6,7,250,313
+Toyota,TOYOTA,HIGHLANDER HYBRID AWD LE Plus,Y,6,30,28,29,NA,Automatic,6,All Wheel Drive,1250,SUV,6,6,7,500,305
+Toyota,TOYOTA,LAND CRUISER WAGON 4WD,N,8,13,18,15,NA,Automatic,8,4-Wheel Drive,2400,SUV,2,2,3,5250,595
+Toyota,TOYOTA,SEQUOIA 4WD,N,8,13,17,14,NA,Automatic,6,Part-time 4-Wheel Drive,2550,SUV,1,1,5,6000,614
+Toyota,TOYOTA,SEQUOIA 4WD FFV,N,8,13,17,14,NA,Automatic,6,Part-time 4-Wheel Drive,2550,SUV,1,1,5,6000,614
+Volkswagen Group of,Volkswagen,Beetle Convertible,N,4,26,33,29,N,Automatic,6,"2-Wheel Drive, Front",1250,Car,6,6,7,500,308
+Volkswagen Group of,Volkswagen,Beetle Dune Convertible,N,4,26,34,29,N,Automatic,6,"2-Wheel Drive, Front",1250,Car,6,6,7,500,305
+Volkswagen Group of,Volkswagen,Beetle,N,4,26,33,29,N,Automatic,6,"2-Wheel Drive, Front",1250,Car,6,6,7,500,308
+Volkswagen Group of,Volkswagen,Beetle Dune,N,4,26,34,29,N,Automatic,6,"2-Wheel Drive, Front",1250,Car,6,6,7,500,305
+Volkswagen Group of,Volkswagen,Golf,N,4,24,33,28,N,Automatic,6,"2-Wheel Drive, Front",1300,Car,6,6,7,250,320
+Volkswagen Group of,Volkswagen,Golf,N,4,25,34,29,N,Manual,5,"2-Wheel Drive, Front",1250,Car,6,6,7,500,309
+Volkswagen Group of,Volkswagen,Golf R,N,4,22,29,25,N,Manual,7,All Wheel Drive,1700,Car,5,5,3,1750,354
+Volkswagen Group of,Volkswagen,Golf R,N,4,21,29,24,N,Manual,6,All Wheel Drive,1750,Car,5,5,3,2000,366
+Volkswagen Group of,Volkswagen,GTI,N,4,24,32,27,N,Manual,6,"2-Wheel Drive, Front",1350,Car,6,6,7,0,322
+Volkswagen Group of,Volkswagen,GTI,N,4,25,33,28,N,Manual,6,"2-Wheel Drive, Front",1300,Car,6,6,7,250,320
+Volkswagen Group of,Volkswagen,Jetta,N,4,28,38,32,N,Automatic,6,"2-Wheel Drive, Front",1100,Car,7,7,5,1250,282
+Volkswagen Group of,Volkswagen,Jetta,N,4,28,40,33,N,Manual,5,"2-Wheel Drive, Front",1100,Car,8,8,3,1250,271
+Volkswagen Group of,Volkswagen,Jetta,N,4,24,33,28,N,Automatic,6,"2-Wheel Drive, Front",1300,Car,6,6,7,250,321
+Volkswagen Group of,Volkswagen,Jetta,N,4,24,33,27,N,Manual,6,"2-Wheel Drive, Front",1350,Car,6,6,7,0,326
+Volkswagen Group of,Volkswagen,Passat,N,4,25,36,29,N,Automatic,6,"2-Wheel Drive, Front",1250,Car,6,6,7,500,302
+Volkswagen Group of,Volkswagen,Passat,N,6,19,28,22,N,Manual,6,"2-Wheel Drive, Front",1650,Car,4,4,3,1500,396
+Volkswagen Group of,Volkswagen,Golf Alltrack,N,4,22,30,25,NA,Manual,6,All Wheel Drive,1450,Station Wagon,5,5,7,500,354
+Volkswagen Group of,Volkswagen,Golf Alltrack,N,4,21,30,24,NA,Manual,6,All Wheel Drive,1500,Station Wagon,5,5,7,750,362
+Volkswagen Group of,Volkswagen,Golf SportWagen,N,4,24,33,28,NA,Automatic,6,"2-Wheel Drive, Front",1300,Station Wagon,6,6,7,250,320
+Volkswagen Group of,Volkswagen,Golf SportWagen,N,4,25,34,29,NA,Manual,5,"2-Wheel Drive, Front",1250,Station Wagon,6,6,7,500,310
+Volkswagen Group of,Volkswagen,Golf SportWagen 4Motion,N,4,22,29,24,NA,Manual,6,All Wheel Drive,1500,Station Wagon,5,5,7,750,361
+Volkswagen Group of,Volkswagen,Golf SportWagen 4Motion,N,4,22,31,25,NA,Manual,6,All Wheel Drive,1450,Station Wagon,5,5,7,500,351
+Volkswagen Group of,Volkswagen,Atlas,N,4,22,26,24,NA,Automatic,8,"2-Wheel Drive, Front",1500,SUV,5,5,3,750,375
+Volkswagen Group of,Volkswagen,Atlas,N,6,18,25,20,NA,Automatic,8,"2-Wheel Drive, Front",1800,SUV,4,4,5,2250,438
+Volkswagen Group of,Volkswagen,Tiguan,N,4,22,27,24,NA,Automatic,8,"2-Wheel Drive, Front",1500,SUV,5,5,7,750,368
+Volkswagen Group of,Volkswagen,Tiguan Limited,N,4,20,26,23,NA,Automatic,6,"2-Wheel Drive, Front",1850,SUV,5,5,3,2500,391
+Volkswagen Group of,Volkswagen,Atlas 4Motion,N,6,17,23,19,NA,Automatic,8,All Wheel Drive,1900,SUV,3,3,5,2750,454
+Volkswagen Group of,Volkswagen,Tiguan 4Motion,N,4,21,27,23,NA,Automatic,8,All Wheel Drive,1550,SUV,5,5,7,1000,382
+Volkswagen Group of,Volkswagen,Tiguan Limited 4Motion,N,4,19,25,22,NA,Automatic,6,All Wheel Drive,1900,SUV,4,4,3,2750,407
+Volvo,"Volvo Cars of North America, LLC",S60 AWD,N,4,22,33,26,N,Automatic,8,All Wheel Drive,1400,Car,5,5,3,250,338
+Volvo,"Volvo Cars of North America, LLC",S60 AWD,N,4,22,32,26,N,Automatic,8,All Wheel Drive,1600,Car,5,5,3,1250,345
+Volvo,"Volvo Cars of North America, LLC",S60 CC AWD,N,4,22,30,25,N,Automatic,8,All Wheel Drive,1450,Car,5,5,3,500,354
+Volvo,"Volvo Cars of North America, LLC",S60 FWD,N,4,25,36,29,N,Automatic,8,"2-Wheel Drive, Front",1250,Car,6,6,7,500,304
+Volvo,"Volvo Cars of North America, LLC",S60 Inscription AWD,N,4,22,33,26,N,Automatic,8,All Wheel Drive,1400,Car,5,5,3,250,338
+Volvo,"Volvo Cars of North America, LLC",S60 Inscription FWD,N,4,25,36,29,N,Automatic,8,"2-Wheel Drive, Front",1250,Car,6,6,3,500,304
+Volvo,"Volvo Cars of North America, LLC",S60 Polestar AWD,N,4,20,27,22,N,Automatic,8,All Wheel Drive,1900,Car,4,4,1,2750,393
+Volvo,"Volvo Cars of North America, LLC",S90 AWD,N,4,23,32,26,N,Automatic,8,All Wheel Drive,1600,Car,5,5,3,1250,340
+Volvo,"Volvo Cars of North America, LLC",S90 AWD,N,4,22,31,25,N,Automatic,8,All Wheel Drive,1700,Car,5,5,3,1750,354
+Volvo,"Volvo Cars of North America, LLC",S90 FWD,N,4,24,34,27,N,Automatic,8,"2-Wheel Drive, Front",1550,Car,6,6,3,1000,322
+Volvo,"Volvo Cars of North America, LLC",V60 AWD,N,4,22,33,26,NA,Automatic,8,All Wheel Drive,1400,Station Wagon,5,5,3,250,338
+Volvo,"Volvo Cars of North America, LLC",V60 AWD,N,4,22,32,26,NA,Automatic,8,All Wheel Drive,1600,Station Wagon,5,5,3,1250,345
+Volvo,"Volvo Cars of North America, LLC",V60 CC AWD,N,4,22,30,25,NA,Automatic,8,All Wheel Drive,1450,Station Wagon,5,5,3,500,354
+Volvo,"Volvo Cars of North America, LLC",V60 FWD,N,4,25,36,29,NA,Automatic,8,"2-Wheel Drive, Front",1250,Station Wagon,6,6,3,500,304
+Volvo,"Volvo Cars of North America, LLC",V60 Polestar AWD,N,4,20,27,22,NA,Automatic,8,All Wheel Drive,1900,Station Wagon,4,4,1,2750,393
+Volvo,"Volvo Cars of North America, LLC",V90 AWD,N,4,22,31,25,NA,Automatic,8,All Wheel Drive,1700,Station Wagon,5,5,5,1750,354
+Volvo,"Volvo Cars of North America, LLC",V90 CC AWD,N,4,22,29,25,NA,Automatic,8,All Wheel Drive,1700,Station Wagon,5,5,5,1750,361
+Volvo,"Volvo Cars of North America, LLC",V90 CC AWD,N,4,23,31,26,NA,Automatic,8,All Wheel Drive,1600,Station Wagon,5,5,5,1250,344
+Volvo,"Volvo Cars of North America, LLC",V90 FWD,N,4,24,34,27,NA,Automatic,8,"2-Wheel Drive, Front",1550,Station Wagon,6,6,5,1000,322
+Volvo,"Volvo Cars of North America, LLC",XC60 AWD,N,4,22,28,24,NA,Automatic,8,All Wheel Drive,1750,SUV,5,5,5,2000,367
+Volvo,"Volvo Cars of North America, LLC",XC60 AWD,N,4,21,27,23,NA,Automatic,8,All Wheel Drive,1850,SUV,5,5,5,2500,385
+Volvo,"Volvo Cars of North America, LLC",XC90 FWD,N,4,22,29,25,NA,Automatic,8,"2-Wheel Drive, Front",1700,SUV,5,5,5,1750,353
+Volvo,"Volvo Cars of North America, LLC",XC90 AWD,N,4,22,28,24,NA,Automatic,8,All Wheel Drive,1750,SUV,5,5,5,2000,365
+Volvo,"Volvo Cars of North America, LLC",XC90 AWD,N,4,20,27,23,NA,Automatic,8,All Wheel Drive,1850,SUV,5,5,5,2500,394
